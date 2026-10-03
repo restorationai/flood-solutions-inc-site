@@ -1,9 +1,9 @@
 ---
 archetype: "blog-post"
-title: "How To Choose a Restoration Company in  (Without Getting Burned)"
-h1: "How To Choose a Restoration Company in  (Without Getting Burned)"
+title: "How To Choose a Restoration Company in Macomb (Without Getting Burned)"
+h1: "How To Choose a Restoration Company in Macomb (Without Getting Burned)"
 meta_description: ""
-primary_keyword: "how to choose a restoration company in  without getting burned"
+primary_keyword: "how to choose a restoration company in macomb without getting burned"
 secondary_keywords: ["water damage restoration", "fire damage restoration", "mold remediation"]
 search_intent: "commercial_decision"
 priority: 5.4
@@ -13,7 +13,7 @@ plan_hash: "0e56b52d4d81284f"
 generated_at: "2026-09-11T16:34:11.654523+00:00"
 manual_override: false
 internal_links: ["/blog/", "/services/water-damage-restoration/", "/blog/burst-pipe-emergency-checklist/", "/blog/what-to-do-first-24-hours-water-damage/", "/blog/does-homeowners-insurance-cover-water-damage/"]
-breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Blog", "url": "/blog/"}, {"name": "How To Choose a Restoration Company in  (Without Getting Burned)"}]
+breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Blog", "url": "/blog/"}, {"name": "How To Choose a Restoration Company in Macomb (Without Getting Burned)"}]
 faq: [{"question": "Should I call my insurance company or a restoration company first?", "answer": "Call your insurance company first, or at minimum simultaneously. Your carrier can tell you whether the loss is covered, what your deductible is, and whether they have a preferred vendor list, all of which affects how you proceed. Calling the restoration company first isn't wrong, but signing any contract before you've spoken with your adjuster can complicate the claims process."}, {"question": "What is an Assignment of Benefits, and should I sign one?", "answer": "An Assignment of Benefits (AOB) is a document that transfers your right to collect insurance proceeds directly to the contractor. It's not always predatory, some legitimate companies use them, but it does remove you from the negotiation between the contractor and your insurer. Before signing, ask your adjuster whether it's required and what rights you retain. Never sign an AOB under pressure or before you've read it."}, {"question": "How long does water damage restoration actually take?", "answer": "Structural drying typically takes three to five days for standard water losses, though that window extends significantly if walls need to be opened, if the affected area is large, or if the building materials are dense (concrete, plaster, or thick hardwood). Any company that tells you a structure is dry after one day without showing you moisture readings should be questioned. The drying timeline is documented, not estimated."}, {"question": "Is it safe to stay in my home during restoration work?", "answer": "It depends on the type and extent of the damage. Water damage restoration involving only extraction and drying is generally livable, though industrial equipment is loud and runs continuously. Mold remediation with containment barriers typically requires you to stay out of affected areas, and in some cases the whole home. Fire damage restoration often involves air quality concerns that make occupancy inadvisable until testing confirms the space is safe. Ask the restoration company and your insurance adjuster, not just one or the other."}]
 published_at: "2026-09-03"
 services: ["water-damage-restoration", "fire-damage-restoration", "mold-remediation"]
