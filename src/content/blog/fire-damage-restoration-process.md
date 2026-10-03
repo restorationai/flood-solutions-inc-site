@@ -18,6 +18,7 @@ faq: [{"question": "How long does fire damage restoration typically take from st
 published_at: "2026-09-15"
 services: ["fire-damage-restoration", "smoke-damage-restoration"]
 rendered: true
+author: "Craig Geatches"
 ---
 ## What Actually Happens After a House Fire
 

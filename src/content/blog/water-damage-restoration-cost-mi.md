@@ -17,6 +17,7 @@ faq: [{"question": "How much does water damage restoration cost in Michigan?", "
 published_at: "2026-09-29"
 services: []
 rendered: true
+author: "Craig Geatches"
 ---
 **Quick answer:** In Michigan, most water damage restoration jobs run **$1,200 to $8,000**, with small single-room clean-water jobs at the low end and multi-room or sewage-contaminated losses at the high end. Whole-house structural drying with reconstruction can exceed $20,000. The final number depends on how much water intruded, how long it sat, and what it touched.
 

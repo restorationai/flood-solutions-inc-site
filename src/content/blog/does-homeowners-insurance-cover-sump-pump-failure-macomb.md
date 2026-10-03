@@ -17,6 +17,7 @@ faq: [{"question": "Does homeowners insurance cover sump pump failure in Michiga
 published_at: "2026-10-01"
 services: ["water-damage-restoration"]
 rendered: true
+author: "Craig Geatches"
 ---
 **TL;DR:** A standard Michigan homeowners insurance policy does not cover water damage from sump pump failure or sewer backup. That coverage only exists if you've purchased a water backup endorsement (sometimes called a sump overflow rider), which typically adds $50 to $250 a year for $5,000 to $25,000 in coverage. Without it, a flooded basement from a failed sump pump is an out-of-pocket loss, even though the water itself looks identical to a covered pipe burst.
 

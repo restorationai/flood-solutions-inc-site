@@ -17,6 +17,7 @@ faq: [{"question": "What is Category 3 water damage?", "answer": "Category 3 wat
 published_at: "2026-09-23"
 services: ["water-damage-restoration"]
 rendered: true
+author: "Craig Geatches"
 ---
 **TL;DR:** Category 3 water, also called black water, is the most contaminated class of water loss under professional water damage category standards. It includes sewage backups, rising floodwater, and any standing water that has sat long enough to grow bacteria. Porous materials like drywall, carpet, and insulation that contact Category 3 water are removed rather than dried. This is never a DIY job, and the reason is pathogen exposure, not just the mess.
 

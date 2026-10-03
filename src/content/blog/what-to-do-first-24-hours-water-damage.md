@@ -18,6 +18,7 @@ faq: [{"question": "How quickly does mold actually start growing after water dam
 published_at: "2026-09-08"
 services: ["water-damage-restoration"]
 rendered: true
+author: "Craig Geatches"
 ---
 Stop what you're doing and move through these steps in order: shut off the water source, cut power to flooded rooms, get people and pets out of standing water, then document everything with your phone before touching a single wet item. The first 24 hours after water damage are the window that separates a manageable repair from a gut-renovation, mold can begin colonizing wet drywall and insulation within 24 to 48 hours, and saturated hardwood starts cupping in even less time. Every hour you wait, the damage spreads.
 

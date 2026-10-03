@@ -18,6 +18,7 @@ faq: [{"question": "How does a commercial water damage claim differ from a resid
 published_at: "2026-09-06"
 services: ["commercial-restoration", "water-damage-restoration"]
 rendered: true
+author: "Craig Geatches"
 ---
 Water inside a commercial building moves fast and doesn't respect business hours. Whether it's a burst supply line in a server room, a roof drain that backed up overnight, or a slow leak behind a restroom wall that finally soaked through the drywall, the first 24 to 48 hours after a water intrusion event largely determine how long your business is offline, and how much the recovery costs. The decisions you make in those first hours, before a restoration crew arrives, can either contain the damage or compound it.
 

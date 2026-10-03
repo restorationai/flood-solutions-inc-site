@@ -18,6 +18,7 @@ faq: [{"question": "How do I know if my basement flooding is coming from groundw
 published_at: "2026-09-09"
 services: ["water-damage-restoration"]
 rendered: true
+author: "Craig Geatches"
 ---
 Basement flooding in Macomb County isn't a matter of if, it's a matter of when. Southeast Michigan's clay-heavy soil drains poorly, spring snowmelt pushes the water table up fast, and a single heavy storm can overwhelm a sump pump that was working fine last week. The good news: most basement floods are preventable with a handful of targeted upgrades and seasonal habits. Below are eight concrete steps you can take before the next big rain rolls in off Lake St. Clair.
 

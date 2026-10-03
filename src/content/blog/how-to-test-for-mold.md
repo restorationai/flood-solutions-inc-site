@@ -18,6 +18,7 @@ faq: [{"question": "Can a DIY mold test kit tell me what type of mold I have?", 
 published_at: "2026-09-11"
 services: ["mold-remediation", "mold-inspection-testing"]
 rendered: true
+author: "Craig Geatches"
 ---
 ## The Short Answer: DIY Kits Can Detect Mold, But They Rarely Tell You Enough
 

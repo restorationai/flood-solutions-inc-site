@@ -18,6 +18,7 @@ faq: [{"question": "Can mold grow inside walls where I can't see it?", "answer":
 published_at: "2026-09-03"
 services: ["mold-remediation", "water-damage-restoration"]
 rendered: true
+author: "Craig Geatches"
 ---
 Mold can begin colonizing wet materials in as little as 24 to 48 hours after water damage occurs. That's not a worst-case estimate, it's the window researchers and remediation standards consistently point to. The spores are already in your air and on your surfaces; all they need is moisture, a food source (drywall paper, wood framing, carpet backing), and warmth. Once those three conditions exist together, growth starts fast and compounds quickly. Understanding that timeline is the most useful thing you can do in the hours after a pipe bursts, an appliance leaks, or floodwater enters your home.
 

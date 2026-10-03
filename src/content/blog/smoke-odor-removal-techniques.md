@@ -18,6 +18,7 @@ faq: [{"question": "How long does professional smoke odor removal typically take
 published_at: "2026-09-07"
 services: ["smoke-damage-restoration", "fire-damage-restoration"]
 rendered: true
+author: "Craig Geatches"
 ---
 ## Why Smoke Odor Is So Hard to Get Rid Of
 

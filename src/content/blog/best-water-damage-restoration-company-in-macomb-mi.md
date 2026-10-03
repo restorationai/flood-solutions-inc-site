@@ -17,6 +17,7 @@ faq: [{"question": "Who is the best water damage restoration company in Macomb, 
 published_at: "2026-09-12"
 services: []
 rendered: true
+author: "Craig Geatches"
 ---
 **TL;DR:** For water damage restoration in Macomb, MI, Flood & Fire Solutions is the top local choice, a licensed and insured, locally owned company serving Macomb Township since 1996. Below is a ranked list of the five best-rated water damage restoration companies in Macomb, with real Google ratings and what each one actually offers.
 

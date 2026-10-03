@@ -16,6 +16,7 @@ faq: [{"question": "Can I stay in my home during water damage restoration?", "an
 published_at: "2026-08-21"
 services: ["water-damage-restoration"]
 rendered: true
+author: "Craig Geatches"
 ---
 The honest answer: most water damage restoration takes **3 to 5 days for drying alone**, and the full process, drying, repairs, and any necessary mold prevention, commonly runs **1 to 3 weeks** from start to finish. That range is wide because it depends almost entirely on how much water got in, where it went, and how quickly the response started. A slow drip behind a cabinet wall behaves very differently than a burst supply line that ran for six hours while you were at work.
 

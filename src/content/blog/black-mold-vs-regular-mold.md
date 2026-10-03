@@ -18,6 +18,7 @@ faq: [{"question": "Do I need professional mold testing to find out if I have bl
 published_at: "2026-09-11"
 services: ["mold-remediation"]
 rendered: true
+author: "Craig Geatches"
 ---
 ## The Short Answer: Color Alone Won't Tell You
 

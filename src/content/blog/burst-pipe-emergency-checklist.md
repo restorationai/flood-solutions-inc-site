@@ -16,6 +16,7 @@ faq: [{"question": "How long does it take for mold to grow after a burst pipe?",
 published_at: "2026-08-27"
 services: ["water-damage-restoration", "appliance-leak-cleanup"]
 rendered: true
+author: "Craig Geatches"
 ---
 When a pipe bursts, the first two minutes matter more than anything that follows. Shut off the main water supply, cut power to any rooms with standing water, and get every towel, bucket, and fan you own into position. The steps below walk you through the full response, from the moment you hear the rush of water to the point where a professional drying crew takes over.
 

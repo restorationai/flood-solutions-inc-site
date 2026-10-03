@@ -17,6 +17,7 @@ faq: [{"question": "What types of water damage does a restoration company handle
 published_at: "2026-09-18"
 services: []
 rendered: true
+author: "Craig Geatches"
 ---
 **TL;DR:** Water damage in Chesterfield, MI comes in many forms: burst pipes, basement flooding, appliance leaks, sewer backups, and storm-driven intrusion. The source and the water category (clean, gray, or black) determine how fast you need to act and what the restoration process looks like. Stop the water source if it's safe, document everything before touching it, and call a licensed restoration company. Mold can begin growing within 24 to 48 hours, so speed matters regardless of the cause.
 

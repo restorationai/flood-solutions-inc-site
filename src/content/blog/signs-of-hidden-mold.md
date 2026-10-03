@@ -18,6 +18,7 @@ faq: [{"question": "Can I test for mold myself before calling a professional?", 
 published_at: "2026-09-11"
 services: ["mold-remediation"]
 rendered: true
+author: "Craig Geatches"
 ---
 Mold does not always announce itself with a black stain on the ceiling. More often it grows in the dark, behind drywall, under flooring, inside HVAC ducts, and inside wall cavities where a slow drip has been feeding it for weeks. By the time you see it, the colony is already established. These seven signs can help you catch it earlier, before the remediation scope grows with it.
 

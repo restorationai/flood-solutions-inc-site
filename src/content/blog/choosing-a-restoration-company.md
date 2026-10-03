@@ -18,6 +18,7 @@ faq: [{"question": "Should I call my insurance company or a restoration company 
 published_at: "2026-09-03"
 services: ["water-damage-restoration", "fire-damage-restoration", "mold-remediation"]
 rendered: true
+author: "Craig Geatches"
 ---
 ## The Short Answer: Verify Before You Trust
 
