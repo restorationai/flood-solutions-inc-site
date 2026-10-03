@@ -1,10 +1,10 @@
 ---
 archetype: "home"
-title: "Flood & Fire Solutions | Restoration Services in Macomb, MI"
-h1: "Restoration Services in Macomb"
-meta_description: "Flood & Fire Solutions provides water, fire, mold, and storm damage restoration across Macomb and surrounding areas. Licensed, insured. Call (586) 580-0197."
-primary_keyword: "restoration services macomb"
-secondary_keywords: ["restoration company near me"]
+title: "Water Damage Restoration in Macomb, MI | Flood Solutions inc"
+h1: "Water Damage Restoration in Macomb, MI"
+meta_description: "Flood Solutions inc provides water damage restoration in Macomb, MI. Licensed and insured. Call (586) 580-0197 now."
+primary_keyword: "water damage restoration macomb"
+secondary_keywords: ["best restoration company in macomb", "restoration company macomb", "water damage restoration near me"]
 search_intent: "local_commercial"
 priority: 5.0
 plan_hash: "23e87847b56485ec"
