@@ -364,3 +364,15 @@
 /service-areas/utica-mi/water-cleanup/ /service-areas/utica-mi/emergency-water-removal/ 301
 /service-areas/warren-mi/water-cleanup /service-areas/warren-mi/emergency-water-removal/ 301
 /service-areas/warren-mi/water-cleanup/ /service-areas/warren-mi/emergency-water-removal/ 301
+
+# old-site 404 recovery 2026-10-04 (traffic audit class 2, SEO queue 1c): old URLs with search
+# traffic that matched no rule. Each 301s 1:1 to its equivalent page (hand-reviewed), never a
+# generic one; restored articles live under /blog/.
+/sewage-clenup /services/sewage-cleanup/ 301
+/sewage-clenup/ /services/sewage-cleanup/ 301
+/roof-leak-restoration /services/ceiling-water-damage-repair/ 301
+/roof-leak-restoration/ /services/ceiling-water-damage-repair/ 301
+/flood-damage /services/flood-damage-restoration/ 301
+/flood-damage/ /services/flood-damage-restoration/ 301
+/burst-pipes /services/burst-pipe-repair/ 301
+/burst-pipes/ /services/burst-pipe-repair/ 301
