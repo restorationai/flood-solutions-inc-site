@@ -17,7 +17,7 @@ area_slug: "shelby-township-mi"
 service_slug: "water-leak-detection"
 city: "Shelby Township"
 state: "MI"
-service_display: "water-leak-detection"
+service_display: "Water Leak Detection"
 rendered: true
 ---
 Shelby Township sits on a clay-heavy glacial till that drains poorly, and when a supply line or slab penetration begins to weep, that moisture has nowhere to go quickly. A leak that might stay contained for weeks in sandier soil can migrate laterally under a slab here, traveling ten or fifteen feet before it surfaces as a warm spot on a tile floor or a soft patch in drywall. Flood Solutions inc has been tracing hidden leaks across Macomb County since 1996, and the local soil and construction patterns shape how every detection job gets done.

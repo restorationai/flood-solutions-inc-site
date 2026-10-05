@@ -17,7 +17,7 @@ area_slug: "warren-mi"
 service_slug: "mold-remediation"
 city: "Warren"
 state: "MI"
-service_display: "mold-remediation"
+service_display: "Mold Remediation"
 rendered: true
 ---
 Warren sits in the heart of Macomb County, where clay-heavy soil and aging sewer infrastructure create the kind of chronic moisture conditions that mold needs to take hold. A slow pipe seep behind a bathroom wall, a basement that took on water during a heavy spring rain, a crawl space that never quite dried after last winter, any of these can produce visible mold growth within 24 to 48 hours. Flood Solutions Inc. has been working through these situations across southeast Michigan since 1996, and the conditions in Warren present a specific set of challenges that require more than a bleach spray and a fan.

@@ -17,7 +17,7 @@ area_slug: "clinton-township-mi"
 service_slug: "water-heater-flood-cleanup"
 city: "Clinton Township"
 state: "MI"
-service_display: "water-heater-flood-cleanup"
+service_display: "Water Heater Flood Cleanup"
 rendered: true
 ---
 <!-- emergency-open -->

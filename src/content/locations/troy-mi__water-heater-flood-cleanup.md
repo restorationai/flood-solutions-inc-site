@@ -17,7 +17,7 @@ area_slug: "troy-mi"
 service_slug: "water-heater-flood-cleanup"
 city: "Troy"
 state: "MI"
-service_display: "water-heater-flood-cleanup"
+service_display: "Water Heater Flood Cleanup"
 rendered: true
 ---
 <!-- emergency-open -->

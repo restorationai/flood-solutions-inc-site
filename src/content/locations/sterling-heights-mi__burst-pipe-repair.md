@@ -17,7 +17,7 @@ area_slug: "sterling-heights-mi"
 service_slug: "burst-pipe-repair"
 city: "Sterling Heights"
 state: "MI"
-service_display: "burst-pipe-repair"
+service_display: "Burst Pipe Cleanup and Repair"
 rendered: true
 ---
 <!-- emergency-open -->

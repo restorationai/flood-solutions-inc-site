@@ -17,7 +17,7 @@ area_slug: "sterling-heights-mi"
 service_slug: "flood-damage-restoration"
 city: "Sterling Heights"
 state: "MI"
-service_display: "flood-damage-restoration"
+service_display: "Flood Damage Restoration"
 rendered: true
 ---
 <!-- emergency-open -->

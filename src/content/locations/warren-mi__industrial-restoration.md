@@ -17,7 +17,7 @@ area_slug: "warren-mi"
 service_slug: "industrial-restoration"
 city: "Warren"
 state: "MI"
-service_display: "industrial-restoration"
+service_display: "Industrial Restoration"
 rendered: true
 ---
 Warren's industrial corridor runs deep into Macomb County, and the facilities here, from stamping plants and tool-and-die shops to large distribution warehouses, face restoration challenges that general residential contractors aren't equipped to handle. When a sprinkler line fails across 40,000 square feet of production floor, or a fire burns through a mezzanine storage area, the clock on lost revenue starts immediately. Flood Solutions Inc. has been working through exactly these scenarios since 1996, and the industrial fabric of Warren demands a different approach than a flooded basement ever would.

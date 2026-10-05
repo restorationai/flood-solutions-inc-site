@@ -17,7 +17,7 @@ area_slug: "chesterfield-mi"
 service_slug: "burst-pipe-repair"
 city: "Chesterfield"
 state: "MI"
-service_display: "burst-pipe-repair"
+service_display: "Burst Pipe Cleanup and Repair"
 rendered: true
 ---
 <!-- emergency-open -->

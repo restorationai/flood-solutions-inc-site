@@ -17,7 +17,7 @@ area_slug: "sterling-heights-mi"
 service_slug: "mold-remediation"
 city: "Sterling Heights"
 state: "MI"
-service_display: "mold-remediation"
+service_display: "Mold Remediation"
 rendered: true
 ---
 Sterling Heights sits in Macomb County's clay-heavy soil belt, where basements hold moisture long after a flood event dries out, and that lingering dampness is exactly what mold needs to take hold. If you've noticed a musty smell near your foundation walls, dark staining on drywall, or a persistent cough that clears up when you leave the house, mold may already be colonizing materials you can't see. Flood Solutions Inc has been working in southeast Michigan since 1996, and the conditions here demand a different approach than a dry-climate market.

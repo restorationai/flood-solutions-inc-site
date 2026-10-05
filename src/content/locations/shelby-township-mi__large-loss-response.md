@@ -17,7 +17,7 @@ area_slug: "shelby-township-mi"
 service_slug: "large-loss-response"
 city: "Shelby Township"
 state: "MI"
-service_display: "large-loss-response"
+service_display: "Large Loss and Catastrophic Response"
 rendered: true
 ---
 Shelby Township's rapid commercial and residential growth along the Van Dyke and M-59 corridors has brought with it a concentration of large industrial campuses, multi-tenant retail centers, and sprawling subdivision developments, the kind of built environment where a single catastrophic loss can ripple across dozens of units, tenants, or business operations simultaneously. When a fire suppression system fails in a 200,000-square-foot warehouse, or a severe storm drives water through a multi-building complex, the scale of damage outpaces what a standard crew and a few dehumidifiers can address. Flood Solutions inc has been coordinating large loss and catastrophic response since 1996, and the logistics of Macomb County's mix of commercial density and residential sprawl shape how we plan every deployment.

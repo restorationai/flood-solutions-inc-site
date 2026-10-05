@@ -17,7 +17,7 @@ area_slug: "troy-mi"
 service_slug: "smoke-damage-restoration"
 city: "Troy"
 state: "MI"
-service_display: "smoke-damage-restoration"
+service_display: "Smoke Damage Restoration"
 rendered: true
 ---
 <!-- emergency-open -->

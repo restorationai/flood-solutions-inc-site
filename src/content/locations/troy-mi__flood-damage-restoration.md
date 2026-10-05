@@ -17,7 +17,7 @@ area_slug: "troy-mi"
 service_slug: "flood-damage-restoration"
 city: "Troy"
 state: "MI"
-service_display: "flood-damage-restoration"
+service_display: "Flood Damage Restoration"
 rendered: true
 ---
 <!-- emergency-open -->

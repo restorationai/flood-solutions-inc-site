@@ -17,7 +17,7 @@ area_slug: "rochester-hills-mi"
 service_slug: "commercial-restoration"
 city: "Rochester Hills"
 state: "MI"
-service_display: "commercial-restoration"
+service_display: "Commercial Restoration"
 rendered: true
 ---
 Rochester Hills sits at the northern edge of Oakland County, where a mix of corporate office parks, retail corridors, and light industrial buildings lines Rochester Road and the M-59 corridor. When a sprinkler line fails overnight in a multi-tenant office suite, or a kitchen suppression system discharges in a strip mall, the damage compounds fast, soaked ceiling tiles, smoke-stained HVAC ductwork, and swollen drywall that can shut a business down for days. Commercial restoration here demands a crew that understands both the scale of the loss and the pressure on a business owner to reopen.

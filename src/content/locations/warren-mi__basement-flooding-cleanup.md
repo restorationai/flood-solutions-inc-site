@@ -17,7 +17,7 @@ area_slug: "warren-mi"
 service_slug: "basement-flooding-cleanup"
 city: "Warren"
 state: "MI"
-service_display: "basement-flooding-cleanup"
+service_display: "Basement Flooding Cleanup"
 rendered: true
 ---
 <!-- emergency-open -->

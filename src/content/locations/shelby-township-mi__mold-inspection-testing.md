@@ -17,7 +17,7 @@ area_slug: "shelby-township-mi"
 service_slug: "mold-inspection-testing"
 city: "Shelby Township"
 state: "MI"
-service_display: "mold-inspection-testing"
+service_display: "Mold Inspection and Testing"
 rendered: true
 ---
 Shelby Township sits in one of Michigan's most active freeze-thaw corridors, and that seasonal cycling does quiet, persistent damage to foundation walls, crawl spaces, and basement slab joints long before a homeowner notices anything wrong. By the time a musty odor reaches the living area or a dark stain appears behind a bookshelf, mold colonies may have been growing for weeks. A professional mold inspection and testing process gives you documented evidence of what is actually present, where it is concentrated, and whether indoor air quality has been compromised, before remediation decisions are made.

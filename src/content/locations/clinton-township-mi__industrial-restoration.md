@@ -17,7 +17,7 @@ area_slug: "clinton-township-mi"
 service_slug: "industrial-restoration"
 city: "Clinton Township"
 state: "MI"
-service_display: "industrial-restoration"
+service_display: "Industrial Restoration"
 rendered: true
 ---
 Clinton Township's industrial corridor along the M-59 and Hall Road corridors hosts a dense mix of warehousing, light manufacturing, and distribution operations, facilities where a burst sprinkler line, a roof drain failure, or a smoldering electrical panel doesn't just damage property, it stops production. Industrial losses at this scale move faster and cost more than residential ones, and the restoration approach has to match that pace. Flood Solutions inc has been working commercial and industrial losses in Macomb County since 1996, and the specific conditions here, freeze-thaw cycles, aging infrastructure in older industrial parks, and the sheer floor-plate size of many facilities, shape how every job gets planned.

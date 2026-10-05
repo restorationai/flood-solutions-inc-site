@@ -17,7 +17,7 @@ area_slug: "rochester-hills-mi"
 service_slug: "basement-flooding-cleanup"
 city: "Rochester Hills"
 state: "MI"
-service_display: "basement-flooding-cleanup"
+service_display: "Basement Flooding Cleanup"
 rendered: true
 ---
 <!-- emergency-open -->

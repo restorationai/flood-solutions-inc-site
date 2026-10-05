@@ -17,7 +17,7 @@ area_slug: "rochester-hills-mi"
 service_slug: "ceiling-water-damage-repair"
 city: "Rochester Hills"
 state: "MI"
-service_display: "ceiling-water-damage-repair"
+service_display: "Ceiling Water Damage Repair"
 rendered: true
 ---
 <!-- emergency-open -->

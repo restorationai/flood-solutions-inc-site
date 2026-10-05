@@ -17,7 +17,7 @@ area_slug: "rochester-hills-mi"
 service_slug: "smoke-damage-restoration"
 city: "Rochester Hills"
 state: "MI"
-service_display: "smoke-damage-restoration"
+service_display: "Smoke Damage Restoration"
 rendered: true
 ---
 <!-- emergency-open -->

@@ -17,7 +17,7 @@ area_slug: "sterling-heights-mi"
 service_slug: "large-loss-response"
 city: "Sterling Heights"
 state: "MI"
-service_display: "large-loss-response"
+service_display: "Large Loss and Catastrophic Response"
 rendered: true
 ---
 Sterling Heights sits at the northern edge of Macomb County, where a mix of mid-century residential blocks, sprawling industrial corridors along Van Dyke Avenue, and large-format commercial properties creates a loss environment unlike most of Metro Detroit. When a fire tears through a manufacturing facility, a water main ruptures beneath a multi-tenant office complex, or a severe storm collapses a roof over a distribution center, the scale of damage quickly outpaces what a standard restoration crew can manage. That is where large loss and catastrophic response work begins, coordinated, documented, and built to satisfy both the property owner and the carriers writing seven-figure checks.

@@ -17,7 +17,7 @@ area_slug: "rochester-hills-mi"
 service_slug: "water-leak-detection"
 city: "Rochester Hills"
 state: "MI"
-service_display: "water-leak-detection"
+service_display: "Water Leak Detection"
 rendered: true
 ---
 Rochester Hills sits on a mix of clay-heavy glacial till and sandy outwash soils left behind by the last ice age, and that combination does something frustrating to residential plumbing: it shifts. Frost heave during Michigan winters and the slow drainage of clay after heavy spring rains put lateral stress on supply lines and slab penetrations that can open hairline cracks without any single dramatic event. A water leak detection call here often starts not with a burst pipe but with a water bill that crept up $40 over three months, a faint musty smell in a finished basement, or a warm spot on a concrete floor that nobody can explain.

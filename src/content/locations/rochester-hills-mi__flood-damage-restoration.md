@@ -17,7 +17,7 @@ area_slug: "rochester-hills-mi"
 service_slug: "flood-damage-restoration"
 city: "Rochester Hills"
 state: "MI"
-service_display: "flood-damage-restoration"
+service_display: "Flood Damage Restoration"
 rendered: true
 ---
 <!-- emergency-open -->

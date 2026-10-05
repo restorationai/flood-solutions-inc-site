@@ -17,7 +17,7 @@ area_slug: "sterling-heights-mi"
 service_slug: "water-leak-detection"
 city: "Sterling Heights"
 state: "MI"
-service_display: "water-leak-detection"
+service_display: "Water Leak Detection"
 rendered: true
 ---
 Sterling Heights sits on clay-heavy glacial till that drains poorly and shifts with Michigan's freeze-thaw cycles, and that combination quietly stresses the plumbing in thousands of homes across the city every winter. A slow leak inside a wall or beneath a slab can go unnoticed for weeks while water migrates through concrete, insulation, and framing. Flood Solutions inc has been tracing hidden water leaks in Macomb County since 1996, and we know how the local soil and housing stock shape where leaks hide and how far they travel before anyone notices.

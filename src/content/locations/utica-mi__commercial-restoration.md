@@ -17,7 +17,7 @@ area_slug: "utica-mi"
 service_slug: "commercial-restoration"
 city: "Utica"
 state: "MI"
-service_display: "commercial-restoration"
+service_display: "Commercial Restoration"
 rendered: true
 ---
 Utica sits in the heart of Macomb County, where freeze-thaw cycles hit hard every winter and commercial buildings along Van Dyke Avenue and M-59 take the brunt of burst pipes, storm intrusion, and the occasional grease fire that spreads faster than a sprinkler system can contain it. When a loss event shuts down your operation, the clock isn't just ticking on the damage itself, it's ticking on payroll, inventory, customer relationships, and lease obligations. Flood Solutions inc has been working through exactly these situations since 1996, and commercial restoration in Utica is a different animal than a residential claim down the street.

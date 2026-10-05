@@ -17,7 +17,7 @@ area_slug: "warren-mi"
 service_slug: "flood-damage-restoration"
 city: "Warren"
 state: "MI"
-service_display: "flood-damage-restoration"
+service_display: "Flood Damage Restoration"
 rendered: true
 ---
 <!-- emergency-open -->

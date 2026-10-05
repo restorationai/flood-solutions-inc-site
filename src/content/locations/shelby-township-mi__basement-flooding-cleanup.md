@@ -17,7 +17,7 @@ area_slug: "shelby-township-mi"
 service_slug: "basement-flooding-cleanup"
 city: "Shelby Township"
 state: "MI"
-service_display: "basement-flooding-cleanup"
+service_display: "Basement Flooding Cleanup"
 rendered: true
 ---
 <!-- emergency-open -->

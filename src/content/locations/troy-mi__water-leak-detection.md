@@ -17,7 +17,7 @@ area_slug: "troy-mi"
 service_slug: "water-leak-detection"
 city: "Troy"
 state: "MI"
-service_display: "water-leak-detection"
+service_display: "Water Leak Detection"
 rendered: true
 ---
 Troy's clay-heavy soil and freeze-thaw winters create conditions where water leaks rarely announce themselves cleanly. A slow drip behind a finished basement wall or beneath a concrete slab can go undetected for months while moisture migrates through the subfloor, silently warping framing and feeding mold colonies. Flood Solutions Inc has been tracking hidden water losses across Macomb County and the surrounding communities since 1996, and the leak patterns in Troy follow rhythms that are worth understanding before water damage compounds into a far costlier repair.

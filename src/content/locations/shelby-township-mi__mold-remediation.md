@@ -17,7 +17,7 @@ area_slug: "shelby-township-mi"
 service_slug: "mold-remediation"
 city: "Shelby Township"
 state: "MI"
-service_display: "mold-remediation"
+service_display: "Mold Remediation"
 rendered: true
 ---
 Shelby Township sits in the heart of Macomb County, where clay-heavy soils slow drainage after heavy rain and finished basements are nearly universal in the subdivision-era homes that define the area. When moisture finds its way into those below-grade spaces, whether through a slow foundation seep, a failed sump pump, or a roof leak that tracked down interior walls, mold can begin colonizing porous materials within 24 to 48 hours. Flood Solutions Inc. has been working in communities across this part of southeast Michigan since 1996, and mold remediation in Shelby Township comes with conditions that demand local familiarity, not a generic playbook.

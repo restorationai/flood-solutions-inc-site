@@ -17,7 +17,7 @@ area_slug: "sterling-heights-mi"
 service_slug: "industrial-restoration"
 city: "Sterling Heights"
 state: "MI"
-service_display: "industrial-restoration"
+service_display: "Industrial Restoration"
 rendered: true
 ---
 Sterling Heights sits at the industrial heart of Macomb County, where decades of automotive supply chain investment have filled the city with stamping plants, fabrication shops, and large-format warehouses. When a sprinkler line ruptures inside a 60,000-square-foot production facility, or a fire tears through a paint booth and leaves smoke residue baked into steel framing, the recovery is nothing like a residential job. Industrial restoration here means working around shift schedules, protecting equipment worth more than most homes, and moving fast enough that downtime stays measured in days rather than weeks. Flood Solutions Inc has been doing exactly that kind of work in southeast Michigan since 1996.

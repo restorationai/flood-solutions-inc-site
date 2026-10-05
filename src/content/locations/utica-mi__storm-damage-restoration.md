@@ -17,7 +17,7 @@ area_slug: "utica-mi"
 service_slug: "storm-damage-restoration"
 city: "Utica"
 state: "MI"
-service_display: "storm-damage-restoration"
+service_display: "Storm Damage Restoration"
 rendered: true
 ---
 <!-- emergency-open -->

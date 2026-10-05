@@ -17,7 +17,7 @@ area_slug: "troy-mi"
 service_slug: "mold-inspection-testing"
 city: "Troy"
 state: "MI"
-service_display: "mold-inspection-testing"
+service_display: "Mold Inspection and Testing"
 rendered: true
 ---
 Troy's mix of post-war ranch homes and newer subdivisions built on the clay-heavy soils common across Oakland County creates conditions where moisture lingers long after a visible leak is resolved. That trapped humidity, especially through the long Michigan shoulder seasons when windows stay closed and HVAC systems cycle inconsistently, gives mold spores exactly the foothold they need. If you've noticed a musty odor in a finished basement or a discolored patch near an exterior wall, a professional mold inspection and testing appointment is the right first step before any remediation work begins.

@@ -17,7 +17,7 @@ area_slug: "warren-mi"
 service_slug: "commercial-restoration"
 city: "Warren"
 state: "MI"
-service_display: "commercial-restoration"
+service_display: "Commercial Restoration"
 rendered: true
 ---
 Warren's commercial corridor runs hard, manufacturing facilities along Van Dyke, office parks tucked between residential grids, retail strips that see heavy foot traffic year-round. When a pipe bursts behind a drop ceiling or smoke from an overnight electrical fire settles into HVAC ductwork, the clock on lost revenue starts immediately. Commercial restoration in Warren carries stakes that a residential job simply doesn't: tenant leases, health department inspections, liability exposure, and the kind of downtime that pushes customers to a competitor down the street.

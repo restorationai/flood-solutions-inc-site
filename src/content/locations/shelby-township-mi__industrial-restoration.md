@@ -17,7 +17,7 @@ area_slug: "shelby-township-mi"
 service_slug: "industrial-restoration"
 city: "Shelby Township"
 state: "MI"
-service_display: "industrial-restoration"
+service_display: "Industrial Restoration"
 rendered: true
 ---
 Shelby Township's industrial corridor runs through one of Macomb County's most active manufacturing and warehousing zones, where concrete tilt-up construction, sprawling roof spans, and decades-old mechanical systems create a specific set of vulnerabilities. When a sprinkler line fails, a roof drain backs up during a Michigan freeze-thaw cycle, or a fire tears through a production bay, the damage compounds fast across square footage that dwarfs anything in residential work. Flood Solutions inc has been handling losses of this scale since 1996, and the team understands what it takes to get a Shelby Township facility back to operational status without dragging out the timeline.

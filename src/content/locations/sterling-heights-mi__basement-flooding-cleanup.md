@@ -17,7 +17,7 @@ area_slug: "sterling-heights-mi"
 service_slug: "basement-flooding-cleanup"
 city: "Sterling Heights"
 state: "MI"
-service_display: "basement-flooding-cleanup"
+service_display: "Basement Flooding Cleanup"
 rendered: true
 ---
 <!-- emergency-open -->

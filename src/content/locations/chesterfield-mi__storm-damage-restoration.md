@@ -17,7 +17,7 @@ area_slug: "chesterfield-mi"
 service_slug: "storm-damage-restoration"
 city: "Chesterfield"
 state: "MI"
-service_display: "storm-damage-restoration"
+service_display: "Storm Damage Restoration"
 rendered: true
 ---
 <!-- emergency-open -->

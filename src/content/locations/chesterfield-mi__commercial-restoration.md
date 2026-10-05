@@ -17,7 +17,7 @@ area_slug: "chesterfield-mi"
 service_slug: "commercial-restoration"
 city: "Chesterfield"
 state: "MI"
-service_display: "commercial-restoration"
+service_display: "Commercial Restoration"
 rendered: true
 ---
 Chesterfield's commercial corridor runs through a township that sits squarely in Macomb County's clay-heavy soil belt, where poor drainage turns a burst sprinkler line or a roof breach into a multi-room loss faster than most business owners expect. Whether you operate a retail strip along Hall Road, a light-industrial suite near the I-94 interchange, or a professional office, the combination of Michigan's freeze-thaw cycles and that dense clay substrate means water has nowhere to go but into your slab, your walls, and your inventory. Flood Solutions Inc has been working commercial losses across metro Detroit since 1996, and Chesterfield's building stock presents a specific set of challenges that require more than a residential playbook.

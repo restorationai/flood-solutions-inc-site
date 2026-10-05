@@ -17,7 +17,7 @@ area_slug: "troy-mi"
 service_slug: "large-loss-response"
 city: "Troy"
 state: "MI"
-service_display: "large-loss-response"
+service_display: "Large Loss and Catastrophic Response"
 rendered: true
 ---
 Troy's commercial corridor along Big Beaver Road and the dense office parks clustered around the I-75 and M-59 interchange concentrate enormous property values into a relatively compact footprint. When a catastrophic loss hits here, whether a sprinkler system failure soaking a multi-tenant professional building or a severe storm event overwhelming a campus drainage system, the scale of damage can climb into seven figures before the first adjuster walks the site. Flood Solutions Inc has been managing large loss and catastrophic response since 1996, and the specific demands of Troy's commercial real estate market shape how every one of these engagements is structured.

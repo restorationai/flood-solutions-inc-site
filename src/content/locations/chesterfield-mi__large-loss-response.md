@@ -17,7 +17,7 @@ area_slug: "chesterfield-mi"
 service_slug: "large-loss-response"
 city: "Chesterfield"
 state: "MI"
-service_display: "large-loss-response"
+service_display: "Large Loss and Catastrophic Response"
 rendered: true
 ---
 When a catastrophic loss hits a commercial property or large residential complex in Chesterfield, the damage rarely stops at one system. Macomb County's clay-heavy soils drain poorly after heavy rain events, and the township's mix of sprawling industrial corridors along Hall Road and newer mixed-use developments means a single flood, fire, or structural failure can cascade across tens of thousands of square feet in hours. Flood Solutions inc has been coordinating large loss response across southeast Michigan since 1996, and the scale and complexity of Chesterfield losses demand a different operational posture than a standard residential claim.

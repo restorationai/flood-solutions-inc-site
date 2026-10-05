@@ -17,7 +17,7 @@ area_slug: "clinton-township-mi"
 service_slug: "commercial-restoration"
 city: "Clinton Township"
 state: "MI"
-service_display: "commercial-restoration"
+service_display: "Commercial Restoration"
 rendered: true
 ---
 Clinton Township's commercial corridor runs hard along Gratiot Avenue and spreads through the industrial and retail pockets that line the township's major arterials. When a water main fails behind a drop ceiling in a busy office suite, or a kitchen suppression system discharges in a restaurant during the dinner rush, the clock starts immediately. Commercial losses in this part of Macomb County carry a specific pressure: every hour a business is offline is revenue that does not come back, and the township's mix of mid-century brick retail blocks and newer flex-space construction means the damage path is rarely predictable from the outside.

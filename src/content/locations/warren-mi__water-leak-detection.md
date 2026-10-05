@@ -17,7 +17,7 @@ area_slug: "warren-mi"
 service_slug: "water-leak-detection"
 city: "Warren"
 state: "MI"
-service_display: "water-leak-detection"
+service_display: "Water Leak Detection"
 rendered: true
 ---
 Warren sits on the southeastern edge of Macomb County, where decades of freeze-thaw cycles have worked quietly against the region's aging water infrastructure. When a pipe joint fails inside a slab or a supply line starts weeping behind drywall, the damage accumulates long before a homeowner notices a stain or a spike on the water bill. Flood Solutions inc has been tracing hidden leaks across Macomb County since 1996, and the conditions specific to Warren, from its post-war brick ranches to its clay-heavy soil, shape how that work gets done here.

@@ -17,7 +17,7 @@ area_slug: "troy-mi"
 service_slug: "basement-flooding-cleanup"
 city: "Troy"
 state: "MI"
-service_display: "basement-flooding-cleanup"
+service_display: "Basement Flooding Cleanup"
 rendered: true
 ---
 <!-- emergency-open -->

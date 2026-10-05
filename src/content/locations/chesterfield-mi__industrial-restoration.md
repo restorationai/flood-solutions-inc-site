@@ -17,7 +17,7 @@ area_slug: "chesterfield-mi"
 service_slug: "industrial-restoration"
 city: "Chesterfield"
 state: "MI"
-service_display: "industrial-restoration"
+service_display: "Industrial Restoration"
 rendered: true
 ---
 Chesterfield Township sits at the edge of Macomb County where light manufacturing corridors, warehousing clusters, and fabrication shops share the landscape with residential growth that has pushed steadily northward from the I-94 corridor. When a suppression system discharge, a roof failure during a Great Lakes storm system, or a fire in a production area shuts down operations, the clock starts running immediately, not just on the physical damage, but on every hour of lost throughput, spoiled inventory, and idle workforce. Industrial restoration in a facility environment is a different discipline than residential work, and the conditions specific to Chesterfield make that difference even sharper.

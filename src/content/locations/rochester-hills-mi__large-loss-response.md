@@ -17,7 +17,7 @@ area_slug: "rochester-hills-mi"
 service_slug: "large-loss-response"
 city: "Rochester Hills"
 state: "MI"
-service_display: "large-loss-response"
+service_display: "Large Loss and Catastrophic Response"
 rendered: true
 ---
 Rochester Hills sits at the northern edge of Oakland County, where a mix of mid-century subdivisions, newer master-planned developments, and large commercial corridors along Rochester Road and Hamlin Road can all be in the path of the same catastrophic event. When a fire tears through a multi-tenant strip center, a burst main floods a corporate campus, or a severe storm collapses a roof over a warehouse, the scale of damage outpaces what a standard restoration crew can absorb. Flood Solutions Inc has been coordinating large-loss response since 1996, and the complexity of Oakland County's commercial and mixed-use building stock is something the team understands from the ground up.

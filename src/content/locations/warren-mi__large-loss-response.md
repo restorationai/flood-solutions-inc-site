@@ -17,7 +17,7 @@ area_slug: "warren-mi"
 service_slug: "large-loss-response"
 city: "Warren"
 state: "MI"
-service_display: "large-loss-response"
+service_display: "Large Loss and Catastrophic Response"
 rendered: true
 ---
 Warren sits at the industrial heart of Macomb County, where sprawling manufacturing campuses, dense commercial corridors, and block after block of mid-century residential construction share the same storm drainage infrastructure. When a catastrophic loss hits here, whether it is a roof collapse across a production floor on Van Dyke, a multi-unit fire that spreads through connected attic spaces, or a major pipe failure that floods a commercial property overnight, the scale of the damage can outpace what a standard restoration crew is equipped to handle. Flood Solutions Inc has been coordinating large loss and catastrophic response work since 1996, and the complexity Warren presents is something we plan for, not something we improvise around.

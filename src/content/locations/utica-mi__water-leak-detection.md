@@ -17,7 +17,7 @@ area_slug: "utica-mi"
 service_slug: "water-leak-detection"
 city: "Utica"
 state: "MI"
-service_display: "water-leak-detection"
+service_display: "Water Leak Detection"
 rendered: true
 ---
 Utica sits in the heart of Macomb County, where clay-heavy glacial soils and aging residential infrastructure create conditions that make hidden water leaks especially stubborn to find and easy to underestimate. A slow drip behind a finished basement wall or beneath a concrete slab can go undetected for weeks, quietly saturating framing and insulation while your water bill climbs. Flood Solutions Inc has been tracing these leaks across Macomb County since 1996, and we know how differently they behave in Utica's housing stock compared to newer construction farther out on the suburban fringe.

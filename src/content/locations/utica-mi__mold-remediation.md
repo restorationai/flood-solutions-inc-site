@@ -17,7 +17,7 @@ area_slug: "utica-mi"
 service_slug: "mold-remediation"
 city: "Utica"
 state: "MI"
-service_display: "mold-remediation"
+service_display: "Mold Remediation"
 rendered: true
 ---
 Utica sits in the heart of Macomb County, where clay-heavy soil and seasonal freeze-thaw cycles push groundwater against foundation walls every spring. When that moisture finds its way inside, mold can begin colonizing porous materials in as little as 24 to 48 hours, often behind drywall or under subfloor sheathing where you cannot see it. If you have noticed a musty odor, discolored drywall, or unexplained allergy symptoms in your home, mold remediation is not something to schedule for next month.

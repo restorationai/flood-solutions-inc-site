@@ -17,7 +17,7 @@ area_slug: "troy-mi"
 service_slug: "industrial-restoration"
 city: "Troy"
 state: "MI"
-service_display: "industrial-restoration"
+service_display: "Industrial Restoration"
 rendered: true
 ---
 Troy's industrial corridor runs through some of Oakland County's most active manufacturing and logistics real estate, and the facilities here face a specific combination of pressures: Michigan's freeze-thaw cycles that stress aging sprinkler mains, flat commercial rooflines that pond water after heavy spring rain, and production schedules that make any unplanned downtime expensive. When a warehouse flood, fire, or structural event hits a plant or distribution center in Troy, the recovery process looks nothing like a residential job. The scale of affected square footage, the presence of machinery and inventory, and the need to coordinate with facility managers, insurers, and sometimes OSHA all shape how restoration has to be approached.

@@ -17,7 +17,7 @@ area_slug: "chesterfield-mi"
 service_slug: "water-leak-detection"
 city: "Chesterfield"
 state: "MI"
-service_display: "water-leak-detection"
+service_display: "Water Leak Detection"
 rendered: true
 ---
 Chesterfield Township sits on clay-heavy glacial soils that shift noticeably through Michigan's freeze-thaw cycles, and that ground movement puts real stress on the supply lines and drain pipes running beneath slab foundations and through exterior walls. When a pinhole forms in a copper line or a joint separates behind drywall, the leak rarely announces itself with a puddle. Instead, it shows up as a spike on your water bill, a warm spot on the floor, or a faint musty odor that gets stronger near one wall. Flood Solutions inc has been tracing those hidden signals back to their source since 1996, working out of Macomb and reaching Chesterfield properties quickly via Hall Road and 23 Mile Road.

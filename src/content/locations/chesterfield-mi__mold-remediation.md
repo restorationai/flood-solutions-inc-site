@@ -17,7 +17,7 @@ area_slug: "chesterfield-mi"
 service_slug: "mold-remediation"
 city: "Chesterfield"
 state: "MI"
-service_display: "mold-remediation"
+service_display: "Mold Remediation"
 rendered: true
 ---
 Chesterfield Township sits in the heart of Macomb County, where clay-heavy soils and a water table that rises quickly after spring snowmelt create conditions that are genuinely favorable to mold growth. When a slow leak behind a basement wall or a flooded crawl space goes unaddressed for more than 48 hours, mold colonies can begin establishing in wall cavities, under subfloor sheathing, and inside HVAC ductwork before the surface ever looks or smells wrong. Flood Solutions inc has been working through exactly these scenarios across southeastern Michigan since 1996, and the remediation approach here is shaped by what Chesterfield's housing stock and climate actually demand.

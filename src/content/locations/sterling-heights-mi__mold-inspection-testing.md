@@ -17,7 +17,7 @@ area_slug: "sterling-heights-mi"
 service_slug: "mold-inspection-testing"
 city: "Sterling Heights"
 state: "MI"
-service_display: "mold-inspection-testing"
+service_display: "Mold Inspection and Testing"
 rendered: true
 ---
 Sterling Heights sits in Macomb County's clay-heavy soil belt, where poor drainage and freeze-thaw cycles push moisture into basements and crawl spaces with quiet persistence. When that moisture lingers, mold doesn't wait long to follow. A surface that looks dry after a slow leak or a backed-up sump can still carry active spore colonies behind drywall or under subfloor material, and the only way to know what you're actually dealing with is a professional mold inspection and testing protocol, not a visual guess.

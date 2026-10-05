@@ -17,7 +17,7 @@ area_slug: "troy-mi"
 service_slug: "commercial-restoration"
 city: "Troy"
 state: "MI"
-service_display: "commercial-restoration"
+service_display: "Commercial Restoration"
 rendered: true
 ---
 Troy's commercial corridor runs hard through Oakland County, and the businesses along that stretch face a particular combination of pressures when disaster strikes: Michigan's freeze-thaw cycles that crack sprinkler lines and slab penetrations, a building stock that ranges from 1970s tilt-up warehouses to glass-curtain office towers built in the 2000s boom, and a tenant-landlord dynamic where every hour of downtime has a dollar figure attached to it. Commercial restoration in Troy means working fast enough to matter and carefully enough to satisfy property managers, adjusters, and municipal inspectors at the same time.

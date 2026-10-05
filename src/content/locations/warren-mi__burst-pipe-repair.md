@@ -17,7 +17,7 @@ area_slug: "warren-mi"
 service_slug: "burst-pipe-repair"
 city: "Warren"
 state: "MI"
-service_display: "burst-pipe-repair"
+service_display: "Burst Pipe Cleanup and Repair"
 rendered: true
 ---
 <!-- emergency-open -->

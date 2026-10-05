@@ -17,7 +17,7 @@ area_slug: "utica-mi"
 service_slug: "industrial-restoration"
 city: "Utica"
 state: "MI"
-service_display: "industrial-restoration"
+service_display: "Industrial Restoration"
 rendered: true
 ---
 Utica sits at the heart of Macomb County's industrial corridor, where decades of automotive supply chain activity have filled the area with manufacturing plants, warehouses, and fabrication facilities that were built fast and built to run hard. When a sprinkler line fails mid-shift, a roof drain backs up during a Great Lakes storm, or a fire tears through a paint booth, the damage compounds quickly in large-footprint buildings where square footage works against you. Flood Solutions Inc has been responding to industrial losses across southeast Michigan since 1996, and the conditions specific to this part of the state shape how that work gets done.

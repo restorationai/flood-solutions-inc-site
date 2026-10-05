@@ -17,7 +17,7 @@ area_slug: "clinton-township-mi"
 service_slug: "flood-damage-restoration"
 city: "Clinton Township"
 state: "MI"
-service_display: "flood-damage-restoration"
+service_display: "Flood Damage Restoration"
 rendered: true
 ---
 <!-- emergency-open -->

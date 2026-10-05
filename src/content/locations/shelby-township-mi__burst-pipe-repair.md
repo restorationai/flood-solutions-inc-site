@@ -17,7 +17,7 @@ area_slug: "shelby-township-mi"
 service_slug: "burst-pipe-repair"
 city: "Shelby Township"
 state: "MI"
-service_display: "burst-pipe-repair"
+service_display: "Burst Pipe Cleanup and Repair"
 rendered: true
 ---
 <!-- emergency-open -->

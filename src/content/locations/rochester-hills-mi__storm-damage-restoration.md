@@ -17,7 +17,7 @@ area_slug: "rochester-hills-mi"
 service_slug: "storm-damage-restoration"
 city: "Rochester Hills"
 state: "MI"
-service_display: "storm-damage-restoration"
+service_display: "Storm Damage Restoration"
 rendered: true
 ---
 <!-- emergency-open -->

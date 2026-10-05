@@ -17,7 +17,7 @@ area_slug: "rochester-hills-mi"
 service_slug: "mold-remediation"
 city: "Rochester Hills"
 state: "MI"
-service_display: "mold-remediation"
+service_display: "Mold Remediation"
 rendered: true
 ---
 Rochester Hills sits in the heart of Oakland County, where the combination of clay-heavy soils, older subdivisions, and Michigan's swing between humid summers and freeze-thaw winters creates conditions that invite mold long after the visible moisture is gone. A slow roof leak above a finished basement, condensation behind poorly insulated rim joists, or a sump pump that ran dry during a spring storm can all seed a colony that spreads quietly inside wall cavities before anyone notices the musty smell. Flood Solutions inc has been working through these scenarios since 1996, and mold remediation in Rochester Hills demands a different approach than a quick wipe-down and a coat of encapsulant.

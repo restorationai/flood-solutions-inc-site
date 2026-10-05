@@ -17,7 +17,7 @@ area_slug: "clinton-township-mi"
 service_slug: "large-loss-response"
 city: "Clinton Township"
 state: "MI"
-service_display: "large-loss-response"
+service_display: "Large Loss and Catastrophic Response"
 rendered: true
 ---
 Clinton Township sits in one of Michigan's most active storm corridors, where Lake St. Clair weather systems push hard rain inland and Macomb County's flat clay-heavy soils give standing water nowhere to go fast. When a large-scale loss hits here, whether it's a commercial roof collapse after a February ice load, a multi-unit apartment complex with a ruptured main, or a manufacturing facility swamped by a backed-up municipal drain, the damage math compounds quickly. Flood Solutions inc has been working large and catastrophic losses across this region since 1996, and the scale of a Clinton Township event demands a response built around coordination, not just equipment.

@@ -17,7 +17,7 @@ area_slug: "chesterfield-mi"
 service_slug: "mold-inspection-testing"
 city: "Chesterfield"
 state: "MI"
-service_display: "mold-inspection-testing"
+service_display: "Mold Inspection and Testing"
 rendered: true
 ---
 Chesterfield Township sits on the western edge of Lake St. Clair's coastal plain, where clay-heavy soils slow drainage and seasonal humidity swings push moisture into crawl spaces and wall cavities year after year. That combination makes mold inspection and testing here a different exercise than in drier inland communities. A surface that looks clean after a wet spring can still harbor active spore colonies behind drywall or under subfloor sheathing, and without air sampling and moisture mapping, there is no reliable way to know what you are actually dealing with.

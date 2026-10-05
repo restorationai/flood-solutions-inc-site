@@ -17,7 +17,7 @@ area_slug: "sterling-heights-mi"
 service_slug: "commercial-restoration"
 city: "Sterling Heights"
 state: "MI"
-service_display: "commercial-restoration"
+service_display: "Commercial Restoration"
 rendered: true
 ---
 Sterling Heights sits in the heart of Macomb County, where clay-heavy soil, freeze-thaw cycles that crack foundation walls, and a commercial building stock that ranges from mid-century industrial to sprawling big-box retail creates a restoration environment unlike most suburban markets. When a sprinkler line fails overnight in a warehouse off Van Dyke Avenue, or a grease fire leaves smoke residue baked into the HVAC system of a busy strip center, the cost clock starts immediately. Flood Solutions inc has been working through exactly these scenarios since 1996, and the team understands what it takes to get a commercial property back to operating condition without dragging out the timeline.

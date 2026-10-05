@@ -17,7 +17,7 @@ area_slug: "rochester-hills-mi"
 service_slug: "industrial-restoration"
 city: "Rochester Hills"
 state: "MI"
-service_display: "industrial-restoration"
+service_display: "Industrial Restoration"
 rendered: true
 ---
 Rochester Hills sits at the northern edge of Oakland County, where a mix of mid-century manufacturing corridors and newer industrial parks along major commercial routes houses everything from precision auto suppliers to large-scale distribution operations. When a sprinkler line fails overnight, a roof drain backs up during a heavy Michigan freeze-thaw cycle, or a fire tears through a production area, the damage compounds fast inside buildings designed for throughput, not moisture management. Flood Solutions Inc has been working through industrial losses across southeastern Michigan since 1996, and the conditions in Rochester Hills present a specific set of challenges that require more than a standard residential playbook.

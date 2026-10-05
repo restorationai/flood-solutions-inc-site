@@ -17,7 +17,7 @@ area_slug: "utica-mi"
 service_slug: "large-loss-response"
 city: "Utica"
 state: "MI"
-service_display: "large-loss-response"
+service_display: "Large Loss and Catastrophic Response"
 rendered: true
 ---
 When a major loss strikes a commercial property or multi-unit building in Utica, the damage rarely waits for a convenient moment. Macomb County's freeze-thaw cycle pushes hard on aging infrastructure every winter, and when a roof fails, a sprinkler system ruptures, or a fire tears through a mixed-use corridor, the scale of destruction can outpace what a standard restoration crew is equipped to handle. Flood Solutions Inc. has been coordinating large loss and catastrophic response since 1996, and the team based in nearby Macomb understands exactly what that kind of event looks like in this part of southeastern Michigan.

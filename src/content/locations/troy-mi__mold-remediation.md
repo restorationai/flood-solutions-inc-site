@@ -17,7 +17,7 @@ area_slug: "troy-mi"
 service_slug: "mold-remediation"
 city: "Troy"
 state: "MI"
-service_display: "mold-remediation"
+service_display: "Mold Remediation"
 rendered: true
 ---
 Troy's position in Oakland County puts it squarely in Michigan's freeze-thaw belt, where late-winter temperature swings push moisture through foundation walls and into crawl spaces before most homeowners notice anything is wrong. By the time a musty smell reaches the living area or a dark stain appears along a basement wall, mold has often been colonizing behind drywall or under subflooring for weeks. Mold remediation in Troy is not a simple wipe-down job, it requires containment, source correction, and verified clearance to actually stop the cycle.

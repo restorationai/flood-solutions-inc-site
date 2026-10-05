@@ -17,7 +17,7 @@ area_slug: "clinton-township-mi"
 service_slug: "water-leak-detection"
 city: "Clinton Township"
 state: "MI"
-service_display: "water-leak-detection"
+service_display: "Water Leak Detection"
 rendered: true
 ---
 Clinton Township sits on a mix of clay-heavy glacial soils that drain poorly after a hard Michigan rain, and when that ground pressure builds against a slab or foundation wall, even a pinhole supply line failure can stay invisible for weeks. Water leak detection here isn't simply a matter of turning off valves and listening, it requires reading a home's behavior in the context of Macomb County's freeze-thaw cycles, aging copper and galvanized plumbing common in mid-century ranch homes, and a water table that rises noticeably every spring. Flood Solutions Inc has been working these conditions since 1996, and the difference between a fast find and a prolonged search usually comes down to knowing what this ground does to a building.

@@ -17,7 +17,7 @@ area_slug: "shelby-township-mi"
 service_slug: "commercial-restoration"
 city: "Shelby Township"
 state: "MI"
-service_display: "commercial-restoration"
+service_display: "Commercial Restoration"
 rendered: true
 ---
 Shelby Township's commercial corridors along Van Dyke Avenue and 23 Mile Road host everything from medical offices and auto-service plazas to multi-tenant retail strips, and when water or fire damage hits one of those properties, every hour of downtime translates directly into lost revenue, disrupted leases, and frustrated customers. Commercial restoration here carries pressures that a residential job simply does not: coordinating with property managers, satisfying lender or franchisor requirements, and navigating Macomb County's permitting office while keeping at least part of a building operational. Flood Solutions inc has been working through exactly those pressures since 1996, and our Macomb headquarters puts us close enough to Shelby Township to respond promptly when a call comes in.
