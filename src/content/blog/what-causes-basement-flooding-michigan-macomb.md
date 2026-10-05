@@ -34,7 +34,7 @@ That pressure is the reason so many Macomb, Sterling Heights, and Clinton Townsh
 
 Heavy rain floods basements in older Macomb County neighborhoods because many were built with combined sewer systems that carry stormwater and sewage in the same pipe, and a big enough downpour overwhelms that pipe. When the system surcharges, water has nowhere to go but back up through the lowest point in the house, usually a floor drain or basement toilet.
 
-This is different from groundwater seeping through a wall. A sewer backup brings water that's been mixed with wastewater, which the IICRC classifies as [Category 3](https://www.iicrc.org) water, the most contaminated category. It requires different handling than a clean-water seep, including discarding porous materials that absorbed it rather than trying to dry them.
+This is different from groundwater seeping through a wall. A sewer backup brings water that's been mixed with wastewater, which the industry's S500 water damage standard classifies as [Category 3](https://www.iicrc.org) water, the most contaminated category. It requires different handling than a clean-water seep, including discarding porous materials that absorbed it rather than trying to dry them.
 
 Newer developments in Troy and Rochester Hills with separated storm and sanitary lines are less exposed to this specific failure mode, but they're not immune to the next one.
 

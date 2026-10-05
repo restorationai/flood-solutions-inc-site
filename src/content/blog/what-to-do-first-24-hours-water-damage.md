@@ -28,7 +28,7 @@ Before anything else, find the source.
 
 - **Burst pipe or appliance leak?** Turn off the main shutoff valve. In most Macomb-area homes, it's near the water meter, often in the basement, crawl space, or utility room. If you can't locate it, your municipality's emergency line can walk you through it.
 - **Roof or window intrusion?** You can't stop rain, but you can move valuables out of the path and place buckets or plastic sheeting to slow secondary spread.
-- **Sewage backup?** Don't touch the water without rubber gloves and boots. Blackwater carries pathogens and requires a different cleanup protocol than a clean-water pipe burst.
+- **Sewage backup?** Don't touch the water without rubber gloves and boots. Blackwater carries pathogens and requires a [different cleanup protocol](/services/sewage-cleanup/) than a clean-water pipe burst.
 
 Once the water source is controlled, go to your electrical panel and shut off the breaker for any room with standing water. Water and live outlets are a lethal combination, and this step is non-negotiable before you wade in to start moving furniture.
 
@@ -53,7 +53,7 @@ If you have a wet/dry shop vac, use it. If you have a mop and buckets, use those
 4. **Open windows if outdoor humidity is lower than indoor humidity.** In Michigan summers, this is often not the case, outdoor air can be just as humid. Use your judgment; if it's a dry, cool day, ventilation helps.
 5. **Run dehumidifiers and fans if you have them.** Point box fans across wet surfaces, not directly at walls, you want air movement across the floor plane.
 
-What you're doing here is slowing the spread. You are almost certainly not drying the structure, the moisture that has already wicked into subfloor, wall cavities, and insulation requires professional-grade equipment to extract.
+What you're doing here is slowing the spread. You are almost certainly not drying the structure, the moisture that has already wicked into subfloor, wall cavities, and insulation requires [professional-grade equipment to extract](/services/emergency-water-removal/).
 
 ## What NOT to Do in the First 24 Hours
 
@@ -67,9 +67,9 @@ Some common instincts make water damage significantly worse:
 
 ## When the Damage Is Beyond a DIY Response
 
-There's a clear line between mopping up a slow toilet supply-line leak and managing structural water intrusion. Call a professional water damage restoration company when:
+There's a clear line between mopping up a slow toilet supply-line leak and managing structural water intrusion. Call a professional [water damage restoration](/services/water-damage-restoration/) company when:
 
-- The water source was a sewage line, a sump pump failure, or outdoor flooding (any of these may involve contaminated water).
+- The water source was a sewage line, a [sump pump failure](/services/basement-flooding-cleanup/), or outdoor flooding (any of these may involve contaminated water).
 - Water has been standing for more than a few hours, or you discovered the leak after the fact, a stain on the ceiling, a smell, a soft spot in the floor.
 - The affected area is larger than roughly one room, or water has reached wall cavities, insulation, or a crawl space.
 - You can smell a musty or earthy odor, that smell is microbial activity that's already started.

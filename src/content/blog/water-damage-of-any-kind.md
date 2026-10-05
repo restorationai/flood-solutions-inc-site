@@ -33,7 +33,7 @@ Water damage falls into a few distinct categories, and the type you have determi
 
 Beyond water category, professional water damage categories also classify losses by how far water has spread into materials (Class 1 through 4). A slow leak behind a wall that saturated the framing is a Class 3 or 4 loss, much harder to dry than a Category 1 puddle on a tile floor.
 
-Common sources Macomb County homeowners see include burst pipes during freeze-thaw cycles, sump pump failures during heavy rain, water heater tank failures, roof leaks that track down interior walls, and storm-driven basement intrusion. Each one is different, but the response framework is the same.
+Common sources Macomb County homeowners see include [burst pipes](/services/burst-pipe-repair/) during freeze-thaw cycles, sump pump failures during heavy rain, water heater tank failures, roof leaks that track down interior walls, and [storm-driven basement intrusion](/services/basement-flooding-cleanup/). Each one is different, but the response framework is the same.
 
 ## What Should You Do in the First Hour After Water Damage?
 
@@ -45,7 +45,7 @@ The first hour determines how much damage you can limit. Here is what to do, in 
 4. **Do not use a household vacuum or fan to dry the space.** A shop vac is not designed for structural drying. Box fans push humid air around without removing moisture from materials. You need extraction equipment and LGR (low-grain refrigerant) dehumidifiers.
 5. **Call a licensed restoration company.** The longer wet materials sit, the more damage spreads into subfloors, wall cavities, and framing. Category 2 and 3 water losses need professional handling from the start.
 
-For sewer backups specifically: do not attempt cleanup yourself. Category 3 water contains pathogens. The [EPA's guidance on sewage and flooding](https://www.epa.gov/mold) addresses the health risks of contaminated water in residential spaces.
+For [sewer backups](/services/sewage-cleanup/) specifically: do not attempt cleanup yourself. Category 3 water contains pathogens. The [EPA's guidance on sewage and flooding](https://www.epa.gov/mold) addresses the health risks of contaminated water in residential spaces.
 
 ## How Does the Restoration Process Work for Any Type of Water Damage?
 
@@ -53,7 +53,7 @@ Professional water damage restoration follows a structured process regardless of
 
 **Phase 1, Assessment and moisture mapping.** A technician uses a calibrated moisture meter and thermal imaging to find where water has traveled, including inside walls and under flooring. You cannot dry what you cannot find.
 
-**Phase 2, Water extraction.** Truck-mounted or portable extractors remove standing water and pull moisture from carpet and porous materials. This is not optional, it is the foundation of everything that follows.
+**Phase 2, Water extraction.** Truck-mounted or portable extractors remove standing water and pull moisture from carpet and porous materials. This is not optional, it is the foundation of everything that follows (see [emergency water removal](/services/emergency-water-removal/)).
 
 **Phase 3, Structural drying.** Air movers (high-velocity fans positioned at specific angles per industry drying standards) combined with LGR dehumidifiers create a controlled drying environment. Drying typically takes 3 to 5 days for a standard loss, longer for Class 3 and 4 losses with saturated framing or concrete. Our post on [how long water damage restoration actually takes](/blog/how-long-does-water-damage-restoration-take/) breaks down the timeline by loss type.
 
@@ -63,7 +63,7 @@ Professional water damage restoration follows a structured process regardless of
 
 **Phase 6, Reconstruction scope.** Once materials are dry and the industrial hygiene clearance is confirmed, any removed drywall, flooring, or insulation is rebuilt. Some restoration companies handle reconstruction in-house; others hand off to a general contractor.
 
-If mold is already visible when the restoration crew arrives, the scope expands to include remediation. Mold can begin colonizing wet drywall and wood in as little as 24 to 48 hours under warm, humid conditions, a real concern in Michigan's late-summer humidity. Read more about [how quickly mold grows after water damage](/blog/mold-after-water-damage/) if you are concerned about timing.
+If mold is already visible when the restoration crew arrives, the scope expands to include [mold remediation](/services/mold-remediation/). Mold can begin colonizing wet drywall and wood in as little as 24 to 48 hours under warm, humid conditions, a real concern in Michigan's late-summer humidity. Read more about [how quickly mold grows after water damage](/blog/mold-after-water-damage/) if you are concerned about timing.
 
 ## Will Insurance Cover Water Damage of Any Kind?
 
@@ -79,7 +79,7 @@ The documentation you create in the first hour, video, photos, written notes on 
 
 If you have active water damage right now, the priority is stopping the source, documenting the scene, and getting a licensed restoration crew on-site before materials deteriorate further. The longer wet drywall, insulation, and framing sit, the more likely you are to face a mold remediation cost on top of the water damage bill.
 
-Flood & Fire Solutions is a licensed and insured water damage restoration company serving Chesterfield, Clinton Township, Shelby Township, and the surrounding Macomb County area since 1996. Their crews handle water extraction, structural drying, moisture mapping, and the documentation your insurance claim requires. To schedule an assessment or get a written scope of work, call (586) 580-0197.
+Flood & Fire Solutions is a licensed and insured water damage restoration company serving [Chesterfield](/service-areas/chesterfield-mi/), [Clinton Township](/service-areas/clinton-township-mi/), [Shelby Township](/service-areas/shelby-township-mi/), and the surrounding Macomb County area since 1996. Their crews handle water extraction, structural drying, moisture mapping, and the documentation your insurance claim requires. To schedule an assessment or get a written scope of work, call (586) 580-0197.
 
 ---
 
