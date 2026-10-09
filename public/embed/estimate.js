@@ -14,7 +14,7 @@
   frame.src = origin + "/embed/estimate/?source=" + encodeURIComponent(source) + "&js=1";
   frame.style.cssText = "width:100%;border:0;display:block;height:620px;overflow:hidden";
   frame.setAttribute("loading", "lazy");
-  frame.setAttribute("title", "Free estimate");
+  frame.setAttribute("title", "Free consultation");
   frame.setAttribute("scrolling", "no");
   s.parentNode.insertBefore(frame, s.nextSibling);
   window.addEventListener("message", function (e) {

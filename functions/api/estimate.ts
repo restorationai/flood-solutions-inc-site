@@ -83,7 +83,7 @@ async function sendEmail(env: Env, lead: Record<string, string>, toEmail: string
   if (!toEmail) return "skipped:no-recipient";
 
   const lines = [
-    `New Free Estimate request from ${brand.domain}`,
+    `New Free Consultation request from ${brand.domain}`,
     "",
     `Name:        ${lead.name}`,
     `Phone:       ${lead.phone}`,
@@ -100,7 +100,7 @@ async function sendEmail(env: Env, lead: Record<string, string>, toEmail: string
   const payload: Record<string, unknown> = {
     personalizations: [{ to: toEmail.split(",").map((e) => ({ email: e.trim() })) }],
     from: { email: FROM_EMAIL, name: `${brand.displayName} Website` },
-    subject: `New Free Estimate request — ${lead.name}, ${lead.city}`,
+    subject: `New Free Consultation request — ${lead.name}, ${lead.city}`,
     content: [{ type: "text/plain", value: lines }],
   };
   if (lead.email && /^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(lead.email)) {
@@ -292,7 +292,7 @@ async function insertContact(env: Env, lead: Record<string, string>): Promise<st
     pipeline_stage: "Inbound",
     role: "Other",
     tags: ["website", "free-estimate"],
-    notes: `${lead.description || "(no description)"} — via ${brand.domain} free estimate form` +
+    notes: `${lead.description || "(no description)"} — via ${brand.domain} free consultation form` +
       ` [source: ${lead.lead_source}${lead.attribution ? `; ${lead.attribution}` : ""}]`,
   };
   if (lead.email) row.email = lead.email;
