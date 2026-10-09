@@ -21,7 +21,7 @@ type Props = {
 };
 const {
   compact = false,
-  heading = compact ? "Or Request a Free Estimate" : "Request Your Free Estimate",
+  heading = compact ? "Or Request a Free Consultation" : "Request Your Free Consultation",
 } = Astro.props;
 ---
 
@@ -112,7 +112,7 @@ const {
           type="submit"
           class="inline-flex items-center justify-center font-bold px-8 py-4 rounded-md transition-all text-lg shadow-lg bg-primary-600 text-white hover:bg-primary-700 disabled:opacity-60 disabled:cursor-not-allowed"
         >
-          Get My Free Estimate
+          Get My Free Consultation
         </button>
         {brand.smsConsentEntity && (
           <p class="text-[11px] leading-snug text-white/50">Submitting this form or calling us is how you request service. If you check the SMS box above, our team will text you about your request from our business line. Message and data rates may apply; reply STOP any time to opt out.</p>
@@ -222,7 +222,7 @@ const {
             show("Something went wrong sending your request. Please call us instead — it's faster anyway.", false);
           })
           .finally(function () {
-            if (btn) { btn.disabled = false; btn.textContent = "Get My Free Estimate"; }
+            if (btn) { btn.disabled = false; btn.textContent = "Get My Free Consultation"; }
           });
       });
     });

@@ -56,7 +56,7 @@ Finally, structural drying matters even after fire. Firefighting water introduce
 
 ## What does fire damage restoration cost?
 
-Typical costs for fire damage restoration vary significantly based on the size of the affected area, the type of materials burned, and whether structural reconstruction is required. Most homeowners pay somewhere between $3,000 and $50,000 for the full scope of fire cleanup and post-fire restoration, with smaller, contained losses on the lower end and whole-floor or multi-story losses at the higher end. Every loss is different, and Flood & Fire Solutions provides a written scope of work before any restoration begins. Homeowners insurance typically covers fire damage restoration in full, less your deductible, when the loss is sudden and accidental.
+Typical costs for fire damage restoration vary significantly based on the size of the affected area, the type of materials burned, and how much structural damage there is. Most homeowners pay somewhere between $3,000 and $50,000 for the full scope of fire cleanup and post-fire restoration, with smaller, contained losses on the lower end and whole-floor or multi-story losses at the higher end. Every loss is different, and Flood & Fire Solutions provides a written scope of work before any restoration begins. Homeowners insurance typically covers fire damage restoration in full, less your deductible, when the loss is sudden and accidental.
 
 | Scenario | Typical industry range |
 |---|---|
