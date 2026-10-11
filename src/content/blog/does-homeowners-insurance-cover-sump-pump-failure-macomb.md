@@ -65,7 +65,7 @@ Here's the sequence that protects both your home and your claim, if you have one
 4. **Start extraction and drying within 24 to 48 hours.** Standing water in a Michigan basement in fall humidity creates conditions for mold growth fast, and insurers (even on covered claims) expect documented, prompt mitigation.
 5. **Keep every receipt** for emergency services, temporary equipment rental, and any contents you had to discard.
 
-Our crews follow drying and moisture-documentation protocols aligned with the [IICRC S500 standard](https://www.iicrc.org/page/IICRCS500) for water damage restoration, which gives you a defensible paper trail whether the claim is approved, denied, or you're paying out of pocket and want the lowest total repair cost. If you're not sure where your water came from, read our broader breakdown of [what homeowners insurance actually covers for water damage](/blog/does-homeowners-insurance-cover-water-damage/) before you file anything.
+Our crews follow drying and moisture-documentation protocols aligned with the [IICRC S500 standard](https://iicrc.org/s500/) for water damage restoration, which gives you a defensible paper trail whether the claim is approved, denied, or you're paying out of pocket and want the lowest total repair cost. If you're not sure where your water came from, read our broader breakdown of [what homeowners insurance actually covers for water damage](/blog/does-homeowners-insurance-cover-water-damage/) before you file anything.
 
 If your basement has flooded before and you want to reduce the odds of a repeat, our guide on [preventing basement flooding](/blog/basement-flooding-prevention/) covers backup power for sump systems and battery backup units, which is the most common fix we see after a failure like this.
 

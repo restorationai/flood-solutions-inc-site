@@ -45,7 +45,7 @@ These are typical ranges, not a quote. Every loss is different, and [Flood Solut
 
 The price is driven by water category, volume, and what the water has already damaged, not by the square footage alone. A crew can extract 500 square feet of clean water from a tile floor faster and cheaper than 150 square feet of sewage-contaminated carpet.
 
-**Water category.** The [IICRC S500 standard](https://www.iicrc.org/page/IICRCS500) classifies water loss into three categories. Category 1 is clean water from a supply line or appliance. Category 2, or gray water, carries some contamination, think washing machine discharge or a sump pump backup. Category 3, also called black water, includes sewage backups and floodwater from outside the home, and it requires full extraction, disposal of porous materials that contacted it, and antimicrobial treatment. Category 3 jobs cost more because more material has to come out, not because the labor hours differ wildly.
+**Water category.** The [IICRC S500 standard](https://iicrc.org/s500/) classifies water loss into three categories. Category 1 is clean water from a supply line or appliance. Category 2, or gray water, carries some contamination, think washing machine discharge or a sump pump backup. Category 3, also called black water, includes sewage backups and floodwater from outside the home, and it requires full extraction, disposal of porous materials that contacted it, and antimicrobial treatment. Category 3 jobs cost more because more material has to come out, not because the labor hours differ wildly.
 
 **Volume and square footage.** More standing water means more extraction time and often more disposal weight, especially if carpet pad, insulation, or drywall has to be cut out and bagged.
 

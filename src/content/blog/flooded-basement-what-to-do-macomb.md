@@ -40,7 +40,7 @@ Groundwater seepage comes in through a crack in the foundation wall or the cove 
 
 Sump pump failure means the perimeter drain tile did its job, but the pump that's supposed to eject that water outside didn't, often from a power outage, a stuck float switch, or a pump that simply wore out. Our guide on [what causes basement flooding in Michigan](/blog/what-causes-basement-flooding-michigan-macomb/) covers the mechanics in more detail, and our piece on [whether insurance covers sump pump failure in Macomb](/blog/does-homeowners-insurance-cover-sump-pump-failure-macomb/) is worth reading before you file anything, because most standard homeowners policies exclude this unless you added a specific endorsement.
 
-Sewer or floor-drain backup is the one that smells bad and needs the most caution. It's Category 3 water under the [IICRC S500 standard](https://www.iicrc.org/page/IICRCS500), meaning it's treated as contaminated regardless of how it looks. This usually requires professional extraction and disposal of anything porous it touched.
+Sewer or floor-drain backup is the one that smells bad and needs the most caution. It's Category 3 water under the [IICRC S500 standard](https://iicrc.org/s500/), meaning it's treated as contaminated regardless of how it looks. This usually requires professional extraction and disposal of anything porous it touched.
 
 ![What's actually causing the water, and why does it matter: flooded basement what to do](/images/blog/2026/10/flooded-basement-what-to-do-macomb/section.webp)
 

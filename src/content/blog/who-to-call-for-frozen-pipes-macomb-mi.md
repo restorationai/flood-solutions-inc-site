@@ -30,7 +30,7 @@ A frozen pipe that hasn't split yet is a plumber's job, not a restoration job. T
 
 Once that same pipe cracks, or you find water already inside a wall cavity, under flooring, or pooling in the basement, the job splits in two. The plumber isolates the water supply and repairs or replaces the damaged section of pipe. Flood Solutions inc does not perform plumbing repairs, and won't claim to: our crews handle what the water does to the structure once it's out of the pipe, not the pipe itself.
 
-Those two calls run in parallel, not back to back. Waiting for the plumber to finish before calling a restoration crew costs you hours that matter: wet drywall and subfloor start supporting mold growth within roughly 24 to 48 hours, a window the [S500 standard](https://www.iicrc.org/page/IICRCS500) for water damage restoration is built around.
+Those two calls run in parallel, not back to back. Waiting for the plumber to finish before calling a restoration crew costs you hours that matter: wet drywall and subfloor start supporting mold growth within roughly 24 to 48 hours, a window the [S500 standard](https://iicrc.org/s500/) for water damage restoration is built around.
 
 ## How Do You Know If a Pipe Is Frozen or Already Burst?
 

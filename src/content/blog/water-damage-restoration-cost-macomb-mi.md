@@ -56,7 +56,7 @@ Per-square-foot pricing gives you a quick sanity check against a contractor's es
 
 A 400-square-foot finished basement flooded by a backed-up drain (Category 3) could realistically hit $4,800 to $10,000 in mitigation alone before a single sheet of drywall goes back up. That math surprises a lot of homeowners who expected a simpler number.
 
-For the technical definitions behind these categories, the [IICRC S500 Standard for Professional Water Damage Restoration](https://www.iicrc.org/page/IICRCS500) is the industry reference that adjusters and contractors both use.
+For the technical definitions behind these categories, the [IICRC S500 Standard for Professional Water Damage Restoration](https://iicrc.org/s500/) is the industry reference that adjusters and contractors both use.
 
 ## What Line Items Will My Insurance Adjuster Expect to See?
 
