@@ -44,7 +44,7 @@ Equipment matters here. Truck-mounted or high-capacity portable extractors remov
 
 ## What separates a good flood damage response from a bad one
 
-The most common mistake in residential flood cleanup is stopping at what is visible. A crew that extracts standing water, runs fans for two days, and declares the job done leaves saturated framing and subfloor behind. Mold colonization in those cavities typically becomes apparent within two to three weeks, and by then the remediation cost has multiplied.
+The most common mistake in residential flood cleanup is stopping at what is visible. A crew that extracts standing water, runs fans for two days, and declares the job done leaves saturated framing and subfloor behind. [Mold colonization](/services/mold-remediation/) in those cavities typically becomes apparent within two to three weeks, and by then the remediation cost has multiplied.
 
 A second frequent failure is misclassifying the water source. Treating Category 3 floodwater the same as a clean supply line break skips the antimicrobial treatment and contaminated-material disposal steps that protect occupant health and satisfy insurance documentation requirements.
 

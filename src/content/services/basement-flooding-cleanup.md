@@ -20,7 +20,7 @@ rendered: true
 <!-- emergency-open -->
 **Flooded basement in Macomb? Call now for emergency service.** Our crew responds fast to pump out the water and start drying.
 
-Standing water in a basement does not wait. Within the first hour, it seeps behind drywall, soaks into wall framing, and begins saturating the concrete slab beneath any flooring you have down. Within 24 to 48 hours, conditions are right for mold colonization. Basement flooding cleanup in Macomb is time-sensitive in a way that a slow drip from a supply line simply is not, and the response has to match that urgency from the moment the water is found.
+Standing water in a basement does not wait. Within the first hour, it seeps behind drywall, soaks into wall framing, and begins saturating the concrete slab beneath any flooring you have down. Within 24 to 48 hours, conditions are right for [mold colonization](/services/mold-remediation/). Basement flooding cleanup in Macomb is time-sensitive in a way that a slow drip from a supply line simply is not, and the response has to match that urgency from the moment the water is found.
 
 ## What basement flooding cleanup actually involves
 

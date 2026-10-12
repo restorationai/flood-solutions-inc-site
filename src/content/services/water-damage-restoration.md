@@ -20,7 +20,7 @@ rendered: true
 <!-- emergency-open -->
 **Water damage emergency in Macomb? Call now for emergency service.** Our crew responds fast to stop the water and start drying your property.
 
-Standing water doesn't wait. Within the first hour after a pipe bursts or a washing machine supply line fails, water is already wicking into drywall, migrating under flooring, and beginning to saturate the wood framing behind your walls. By 24 to 48 hours, conditions are right for mold colonization, and by then, what started as a plumbing problem has become a structural one. Water damage restoration is the work of stopping that clock: removing the water, drying the structure completely, and verifying with instruments, not guesswork, that the building is actually dry.
+Standing water doesn't wait. Within the first hour after a pipe bursts or a washing machine supply line fails, water is already wicking into drywall, migrating under flooring, and beginning to saturate the wood framing behind your walls. By 24 to 48 hours, conditions are right for [mold colonization](/services/mold-remediation/), and by then, what started as a plumbing problem has become a structural one. Water damage restoration is the work of stopping that clock: removing the water, drying the structure completely, and verifying with instruments, not guesswork, that the building is actually dry.
 
 ## What water damage restoration actually involves
 
