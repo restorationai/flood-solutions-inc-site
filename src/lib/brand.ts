@@ -65,7 +65,7 @@ export const brand = {
   certifications: [] as string[],
   trustBadges: ["Licensed & Insured", "Locally Owned & Operated"] as string[],
   jobPhotos: [] as string[],
-  sameAsUrls: ["https://www.facebook.com/floodsolutions", "https://maps.google.com/maps?cid=13709697340612237013", "https://www.yelp.com/biz/michigan-fire-and-flood-clinton-township", "https://www.bing.com/maps?ss=ypid.YN609FC1D4654981F4"] as string[],
+  sameAsUrls: ["https://www.facebook.com/floodsolutions", "https://maps.google.com/maps?cid=13709697340612237013", "https://www.yelp.com/biz/michigan-fire-and-flood-clinton-township", "https://www.bing.com/maps?ss=ypid.YN609FC1D4654981F4", "https://homeguide.com/mi/sterling-heights/water-damage-restoration/flood-and-fire-solutions-IkQQlJFBK"] as string[],
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "4.4",
