@@ -4,7 +4,7 @@ title: "The 2 Best Sewage Cleanup Companies in Macomb, MI (2026)"
 h1: "The 2 Best Sewage Cleanup Companies in Macomb, MI (2026)"
 meta_description: "Flood Solutions inc leads Macomb's sewage cleanup companies with 24/7 response, a 4.4 Google rating, and Category 3 protocols since 1996. See how local options compare."
 primary_keyword: "best sewage cleanup company in Macomb"
-secondary_keywords: ["sewage cleanup companies", "sewage backup cleanup services", "raw sewage cleanup", "sewage cleanup services", "24/7 sewage backup cleanup", "IICRC certified sewage cleanup"]
+secondary_keywords: ["sewage cleanup companies", "sewage backup cleanup services", "raw sewage cleanup", "sewage cleanup services", "24/7 sewage backup cleanup"]
 search_intent: "commercial"
 priority: 7
 hero: "https://images.floodsolutionsinc.com/blog/2026/10/best-sewage-cleanup-company-macomb-mi/hero.webp"
