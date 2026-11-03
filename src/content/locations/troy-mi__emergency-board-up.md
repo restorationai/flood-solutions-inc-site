@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Board Up in Troy, MI | Flood Solutions inc"
+title: "Emergency Board Up in Troy, MI | Flood and Fire Solutions"
 h1: "Emergency Board Up in Troy"
 meta_description: "Emergency board up in Troy, MI. Insurance billing accepted. Call (586) 580-0197."
 primary_keyword: "emergency board up troy"
@@ -42,4 +42,4 @@ Most Troy homeowners we work with are filing a claim tied to the same event that
 
 One thing that catches people off guard in Troy: a board-up that looks solid in October can loosen by January once the wood shrinks and swells through a few freeze-thaw cycles. We check fastener tightness as part of any follow-up visit rather than assuming a board installed during a fall storm is still snug three months later, because in Michigan winters, a gap that opens up around a board-up panel is often how ice and meltwater find their way in long after the original storm has passed.
 
-If a window, door, or wall opening on your Troy property needs to be secured right now, call Flood Solutions inc at (586) 580-0197. We'll get the opening measured, boarded, and documented so you can move on to the repair conversation instead of worrying about what's getting in overnight.
+If a window, door, or wall opening on your Troy property needs to be secured right now, call Flood and Fire Solutions at (586) 580-0197. We'll get the opening measured, boarded, and documented so you can move on to the repair conversation instead of worrying about what's getting in overnight.

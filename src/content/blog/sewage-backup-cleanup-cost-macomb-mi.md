@@ -83,12 +83,12 @@ Related full-loss cost context for Macomb homes is in [Water Damage Restoration 
 
 The first move is to stop using water in the house (toilets, sinks, the washing machine) so you don't add more sewage to the backup, and keep people and pets away from the affected area. Category 3 water carries real health risk, and it isn't a DIY cleanup job once it's past a small, contained spot.
 
-From there, call a licensed restoration company with -trained technicians who can assess the category of water, start extraction, and document the loss for your insurer. [Flood Solutions inc](/services/sewage-cleanup/) handles Category 3 sewage cleanup, along with broader [water damage restoration](/services/water-damage-restoration/) and [basement flooding cleanup](/services/basement-flooding-cleanup/), for homes across Macomb, Sterling Heights, Warren, and Clinton Township.
+From there, call a licensed restoration company with -trained technicians who can assess the category of water, start extraction, and document the loss for your insurer. [Flood and Fire Solutions](/services/sewage-cleanup/) handles Category 3 sewage cleanup, along with broader [water damage restoration](/services/water-damage-restoration/) and [basement flooding cleanup](/services/basement-flooding-cleanup/), for homes across Macomb, Sterling Heights, Warren, and Clinton Township.
 
 If your basement just took on sewage and you want a written scope before you decide anything, [request a free consultation at (586) 580-0197](tel:+15865800197).
 
 ---
 
-**About Flood Solutions inc**
+**About Flood and Fire Solutions**
 
 The company has served Macomb, MI and the surrounding communities since 1996. Its technicians handle water damage restoration, sewage cleanup, fire damage restoration, and related emergency services, including board-up and content recovery, across Macomb County. The company is licensed and insured and operates on a 24/7 basis for emergency calls.

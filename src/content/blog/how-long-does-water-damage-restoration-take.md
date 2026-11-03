@@ -77,6 +77,6 @@ If the affected area is larger than roughly 10 square feet, involves any categor
 
 Restoration professionals use calibrated moisture meters and thermal imaging to find water that isn't visible. They generate drying logs that document the progression to dry standard, which protects you if a mold claim surfaces later. They also know when a situation is beyond drying, when materials need to come out rather than be dried in place.
 
-If you're in Macomb or the surrounding area and trying to figure out whether what you're dealing with warrants a professional assessment, Flood Solutions Inc. can be reached at **(586) 580-0197**. An assessment gives you a clear picture of what you're working with before you commit to a course of action.
+If you're in Macomb or the surrounding area and trying to figure out whether what you're dealing with warrants a professional assessment, Flood and Fire Solutions Inc. can be reached at **(586) 580-0197**. An assessment gives you a clear picture of what you're working with before you commit to a course of action.
 
 The most important thing to understand about water damage timelines is that they're not fixed, they're responsive. The sooner the right equipment is running, the shorter the drying phase. The shorter the drying phase, the smaller the repair scope. Time is the one variable in this process that works entirely against you.

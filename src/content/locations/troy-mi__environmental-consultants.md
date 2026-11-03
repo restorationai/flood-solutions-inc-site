@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Environmental Consultants in Troy, MI | Flood Solutions inc"
+title: "Environmental Consultants in Troy, MI | Flood and Fire Solutions"
 h1: "Environmental Consultants in Troy"
 meta_description: "Environmental consultants in Troy, MI. Insurance billing accepted. Call (586) 580-0197."
 primary_keyword: "environmental consultants troy"
@@ -20,7 +20,7 @@ state: "MI"
 service_display: "Environmental Consultants"
 rendered: true
 ---
-Environmental consultants get called to Troy properties for reasons that rarely show up in a home inspector's report: a lender requiring a Phase I Site Assessment before a commercial closing on Big Beaver Road, a property manager needing mold sampling after a slow roof leak in an office suite, or a homeowner who wants lead or asbestos testing before renovating a ranch built decades before either material was regulated. Flood Solutions inc has worked around southeast Michigan's building stock and soil conditions since 1996, and that background shapes how we scope environmental work in Troy specifically.
+Environmental consultants get called to Troy properties for reasons that rarely show up in a home inspector's report: a lender requiring a Phase I Site Assessment before a commercial closing on Big Beaver Road, a property manager needing mold sampling after a slow roof leak in an office suite, or a homeowner who wants lead or asbestos testing before renovating a ranch built decades before either material was regulated. Flood and Fire Solutions has worked around southeast Michigan's building stock and soil conditions since 1996, and that background shapes how we scope environmental work in Troy specifically.
 
 ## Why Troy Properties See Environmental Consultants Called In
 
@@ -42,4 +42,4 @@ Most environmental consulting work in Troy isn't insurance-driven, it's transact
 
 A detail that catches out-of-town inspectors off guard: several of Troy's commercial corridors were built out in phases over multiple decades, so a single office park can have one building from the 1970s sitting next to a 2000s addition with completely different construction materials and mechanical systems. We treat each building on a site separately rather than assuming uniform construction, which matters when deciding where asbestos or lead sampling actually needs to happen.
 
-If you're closing on a Troy property, renovating a home built before the 1980s, or dealing with a moisture problem that's raised mold questions, a proper environmental consultation gives you documentation you can act on instead of guesswork. Call Flood Solutions inc at (586) 580-0197 to talk through what your Troy property actually needs tested.
+If you're closing on a Troy property, renovating a home built before the 1980s, or dealing with a moisture problem that's raised mold questions, a proper environmental consultation gives you documentation you can act on instead of guesswork. Call Flood and Fire Solutions at (586) 580-0197 to talk through what your Troy property actually needs tested.

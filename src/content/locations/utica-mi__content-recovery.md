@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Content Recovery in Utica, MI | Flood Solutions inc"
+title: "Content Recovery in Utica, MI | Flood and Fire Solutions"
 h1: "Content Recovery in Utica"
 meta_description: "Content recovery in Utica, MI. Insurance billing accepted. Call (586) 580-0197."
 primary_keyword: "content recovery utica"
@@ -38,4 +38,4 @@ Most homeowner policies in Macomb County distinguish between sudden water damage
 
 One pattern we see often in Utica: basement storage shelving installed a few inches too low, sitting right at the height where floodwater from a sump failure or river-adjacent flooding typically crests. Homeowners who raise storage shelving even eight to ten inches off the slab cut their contents losses significantly in the events we've responded to across the area. It's a small detail, but in a city where finished basements double as storage and rec rooms, it's often the difference between a load of laundry and a full pack-out.
 
-If water, smoke, or fire has damaged the contents of your Utica home, don't start sorting through the wreckage alone. Flood Solutions inc has been handling contents recovery for Macomb County homes since 1996, and a phone call to (586) 580-0197 gets you a straight answer on what's likely salvageable before you throw anything away.
+If water, smoke, or fire has damaged the contents of your Utica home, don't start sorting through the wreckage alone. Flood and Fire Solutions has been handling contents recovery for Macomb County homes since 1996, and a phone call to (586) 580-0197 gets you a straight answer on what's likely salvageable before you throw anything away.

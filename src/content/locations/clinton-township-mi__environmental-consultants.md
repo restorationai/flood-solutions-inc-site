@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Environmental Consultants in Clinton Township, MI | Flood Solutions inc"
+title: "Environmental Consultants in Clinton Township, MI | Flood and Fire Solutions"
 h1: "Environmental Consultants in Clinton Township"
 meta_description: "Environmental consultants in Clinton Township, MI. Insurance billing accepted. Call (586) 580-0197."
 primary_keyword: "environmental consultants clinton township"
@@ -46,4 +46,4 @@ Environmental consulting work here is usually tied to a transaction, a refinance
 
 One thing that trips up a lot of out-of-area firms: Clinton Township's older commercial parcels along Gratiot were frequently subdivided and re-purposed multiple times since the 1960s, so the current use of a property often has almost nothing to do with what a Phase I records search turns up. We've learned to dig into the parcel's full ownership chain rather than stopping at the most recent listing, because the fuel station or dry cleaner three owners back is usually the thing that actually matters for a Phase II scope.
 
-If you're facing a deadline tied to a sale, a refinance, or a suspected contamination issue on a Clinton Township property, call Flood Solutions inc at (586) 580-0197. We've been doing this kind of work across Macomb County since 1996, and we can talk through what your specific property and timeline actually require before you commit to a scope of work.
+If you're facing a deadline tied to a sale, a refinance, or a suspected contamination issue on a Clinton Township property, call Flood and Fire Solutions at (586) 580-0197. We've been doing this kind of work across Macomb County since 1996, and we can talk through what your specific property and timeline actually require before you commit to a scope of work.

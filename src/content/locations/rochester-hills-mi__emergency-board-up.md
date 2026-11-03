@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Board Up in Rochester Hills, MI | Flood Solutions inc"
+title: "Emergency Board Up in Rochester Hills, MI | Flood and Fire Solutions"
 h1: "Emergency Board Up in Rochester Hills"
 meta_description: "Emergency board up in Rochester Hills, MI. Insurance billing accepted. Call (586) 580-0197."
 primary_keyword: "emergency board up rochester hills"
@@ -38,4 +38,4 @@ We've worked out of Macomb since 1996, and the run into Rochester Hills is a fam
 
 A number of Rochester Hills subdivisions carry HOA design standards that technically apply to exterior appearance, including temporary repairs. We haven't run into an HOA that objects to a board-up done to protect a home, but we do use unpainted, uniform plywood rather than mismatched scrap when a job is likely to sit boarded for more than a few days, simply because it draws less attention from a neighbor or a board member driving past and keeps the homeowner from getting an unnecessary letter on top of an already bad week.
 
-If a window, door, or wall section in your Rochester Hills home or business needs to be closed up right now, call Flood Solutions inc at (586) 580-0197. We'll get the opening secured, document the damage for your insurance carrier, and talk through what the repair side of the job looks like once the structure is stable.
+If a window, door, or wall section in your Rochester Hills home or business needs to be closed up right now, call Flood and Fire Solutions at (586) 580-0197. We'll get the opening secured, document the damage for your insurance carrier, and talk through what the repair side of the job looks like once the structure is stable.

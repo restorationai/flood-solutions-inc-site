@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Environmental Consultants in Utica, MI | Flood Solutions inc"
+title: "Environmental Consultants in Utica, MI | Flood and Fire Solutions"
 h1: "Environmental Consultants in Utica"
 meta_description: "Environmental consultants in Utica, MI. Insurance billing accepted. Call (586) 580-0197."
 primary_keyword: "environmental consultants utica"
@@ -38,4 +38,4 @@ Michigan doesn't require a specific state license for mold assessment work, but 
 
 One thing that catches homeowners off guard in Utica: basements finished in the 1990s and early 2000s often used a carpet-over-concrete setup with no vapor barrier underneath, which means a slow slab leak can wick moisture into carpet padding for weeks before it's visible at the surface. By the time someone notices a musty smell, mold has often already colonized the drywall behind the baseboard, not just the carpet itself. We've learned to test behind the baseboard line as a matter of course in these homes rather than assuming the visible damage tells the whole story.
 
-If you're dealing with a water loss, fire damage, or a lingering odor in a Utica property and you're not sure what's actually in the walls, call Flood Solutions inc at (586) 580-0197. We've worked from our Macomb base since 1996, and an environmental consultant on the front end of a claim can save weeks of back-and-forth with an insurance carrier later.
+If you're dealing with a water loss, fire damage, or a lingering odor in a Utica property and you're not sure what's actually in the walls, call Flood and Fire Solutions at (586) 580-0197. We've worked from our Macomb base since 1996, and an environmental consultant on the front end of a claim can save weeks of back-and-forth with an insurance carrier later.

@@ -39,7 +39,7 @@ A single bedroom with a few gallons from an overflowing appliance is a half-day 
 | After-hours emergency extraction | +$150 - $400 add-on |
 | Structural drying equipment (per day, multi-day jobs) | $150 - $350/day |
 
-These are typical ranges, not a quote. Every loss is different, and [Flood Solutions inc](/) provides a written scope before any work begins so there are no surprises on the invoice.
+These are typical ranges, not a quote. Every loss is different, and [Flood and Fire Solutions](/) provides a written scope before any work begins so there are no surprises on the invoice.
 
 ## What actually drives the price of water extraction?
 
@@ -61,7 +61,7 @@ The price is driven by water category, volume, and what the water has already da
 
 Most homeowners policies cover water extraction when the water loss is sudden and accidental, such as a burst pipe, failed water heater, or a one-time sump pump failure, but not gradual leaks or routine groundwater seepage. Sewage backup coverage is often a separate rider that has to be added to the policy ahead of time.
 
-The documentation matters as much as the cause. Adjusters want moisture readings, photos of the affected materials before removal, and an itemized scope showing what was extracted and why. [Flood Solutions inc](/) documents every job with moisture maps and photos specifically because that record is what gets a claim paid without a fight. If you haven't filed yet, our guide on [what to do in the first 24 hours after water damage](/blog/what-to-do-first-24-hours-water-damage/) walks through the documentation steps before extraction even starts.
+The documentation matters as much as the cause. Adjusters want moisture readings, photos of the affected materials before removal, and an itemized scope showing what was extracted and why. [Flood and Fire Solutions](/) documents every job with moisture maps and photos specifically because that record is what gets a claim paid without a fight. If you haven't filed yet, our guide on [what to do in the first 24 hours after water damage](/blog/what-to-do-first-24-hours-water-damage/) walks through the documentation steps before extraction even starts.
 
 If you want the full line-item breakdown for a complete restoration job, not just the extraction step, see our [water damage restoration cost guide for Macomb](/blog/water-damage-restoration-cost-macomb-mi/), which covers drying, repairs, and reconstruction pricing separately.
 
@@ -82,6 +82,6 @@ Shut off the water source if you can do it safely, move what you can off the flo
 
 Take photos of the standing water and affected areas before anyone starts moving things, since that's the record your insurer will ask for. Then get a written scope from whoever comes out, not a verbal ballpark, so you know exactly what you're paying for and why.
 
-Flood Solutions inc has operated in Macomb County since 1996 and runs a 24/7 emergency line, so extraction can start the same day water shows up rather than after a multi-day wait. [Call Flood Solutions inc at (586) 580-0197](tel:+15865800197) to schedule a water extraction assessment, or start with our [emergency water removal page](/services/emergency-water-removal/) for the full service scope.
+Flood and Fire Solutions has operated in Macomb County since 1996 and runs a 24/7 emergency line, so extraction can start the same day water shows up rather than after a multi-day wait. [Call Flood and Fire Solutions at (586) 580-0197](tel:+15865800197) to schedule a water extraction assessment, or start with our [emergency water removal page](/services/emergency-water-removal/) for the full service scope.
 
 Every flooded basement is a different job, and the only way to know your real number is a site visit and a written scope, not a phone estimate.

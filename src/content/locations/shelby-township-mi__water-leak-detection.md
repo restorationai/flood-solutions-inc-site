@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Water Leak Detection in Shelby Township, MI | Flood Solutions inc"
+title: "Water Leak Detection in Shelby Township, MI | Flood and Fire Solutions"
 h1: "Water Leak Detection in Shelby Township"
 meta_description: "Water leak detection in Shelby Township, MI. Insurance billing accepted. Call (586) 580-0197."
 primary_keyword: "water leak detection shelby township"
@@ -20,7 +20,7 @@ state: "MI"
 service_display: "Water Leak Detection"
 rendered: true
 ---
-Shelby Township sits on a clay-heavy glacial till that drains poorly, and when a supply line or slab penetration begins to weep, that moisture has nowhere to go quickly. A leak that might stay contained for weeks in sandier soil can migrate laterally under a slab here, traveling ten or fifteen feet before it surfaces as a warm spot on a tile floor or a soft patch in drywall. Flood Solutions inc has been tracing hidden leaks across Macomb County since 1996, and the local soil and construction patterns shape how every detection job gets done.
+Shelby Township sits on a clay-heavy glacial till that drains poorly, and when a supply line or slab penetration begins to weep, that moisture has nowhere to go quickly. A leak that might stay contained for weeks in sandier soil can migrate laterally under a slab here, traveling ten or fifteen feet before it surfaces as a warm spot on a tile floor or a soft patch in drywall. Flood and Fire Solutions has been tracing hidden leaks across Macomb County since 1996, and the local soil and construction patterns shape how every detection job gets done.
 
 ## Why Shelby Township Properties Experience Hidden Leak Problems
 
@@ -38,14 +38,14 @@ For leaks inside walls, moisture meters and thermal cameras work together. A wal
 
 ## Reaching Shelby Township from Macomb
 
-Flood Solutions inc operates out of Macomb, which puts Shelby Township within a short drive along Van Dyke Avenue or 23 Mile Road depending on where in the township the call originates. The northern reaches of the township near 26 Mile Road are a straightforward run up Van Dyke. Scheduling is handled by phone at (586) 580-0197, and the team will give you a realistic arrival window when you call.
+Flood and Fire Solutions operates out of Macomb, which puts Shelby Township within a short drive along Van Dyke Avenue or 23 Mile Road depending on where in the township the call originates. The northern reaches of the township near 26 Mile Road are a straightforward run up Van Dyke. Scheduling is handled by phone at (586) 580-0197, and the team will give you a realistic arrival window when you call.
 
 ## Shelby Township Insurance Coordination
 
-Insurance coverage for hidden water leaks varies more than most homeowners expect. Many standard homeowner policies cover sudden and accidental discharge but exclude slow leaks that have been present for an extended period. The documentation produced during a professional leak detection visit, including pressure test readings, thermal images, and moisture meter logs, gives your adjuster the evidence needed to evaluate the claim accurately. Flood Solutions inc provides that documentation as part of the detection process, and the team can walk you through what to expect when you file.
+Insurance coverage for hidden water leaks varies more than most homeowners expect. Many standard homeowner policies cover sudden and accidental discharge but exclude slow leaks that have been present for an extended period. The documentation produced during a professional leak detection visit, including pressure test readings, thermal images, and moisture meter logs, gives your adjuster the evidence needed to evaluate the claim accurately. Flood and Fire Solutions provides that documentation as part of the detection process, and the team can walk you through what to expect when you file.
 
 ## Local Note
 
 Shelby Township's finished basements deserve particular attention during any leak investigation. The township saw a significant wave of basement finishing projects through the 1990s and early 2000s, and a common pattern from that era is drywall installed directly against the foundation wall without a drainage plane or vapor barrier. When a slab leak or a wall penetration leaks in one of these basements, the moisture wicks into the drywall paper and insulation before it ever reaches the floor. By the time a homeowner notices discoloration or odor, the affected area is often larger than the visible damage suggests. Thermal imaging on the finished wall surface, not just the floor, is the step that catches this pattern early.
 
-If you are noticing unexplained water bills, warm spots on your floor, or a persistent damp smell in a finished space, call Flood Solutions inc at (586) 580-0197. Catching a hidden leak in Shelby Township before it reaches the framing or the slab edge is always less expensive than the alternative.
+If you are noticing unexplained water bills, warm spots on your floor, or a persistent damp smell in a finished space, call Flood and Fire Solutions at (586) 580-0197. Catching a hidden leak in Shelby Township before it reaches the framing or the slab edge is always less expensive than the alternative.

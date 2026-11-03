@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Water Leak Detection in Rochester Hills, MI | Flood Solutions inc"
+title: "Water Leak Detection in Rochester Hills, MI | Flood and Fire Solutions"
 h1: "Water Leak Detection in Rochester Hills"
 meta_description: "Water leak detection in Rochester Hills, MI. Insurance billing accepted. Call (586) 580-0197."
 primary_keyword: "water leak detection rochester hills"
@@ -40,7 +40,7 @@ For suspected slab leaks, tracer gas detection is the most precise option. An in
 
 ## Reaching Rochester Hills from Macomb
 
-Flood Solutions inc operates out of Macomb, and Rochester Hills is a straightforward run west on M-59 (Hall Road) or north on Dequindre Road depending on which part of the city the call is coming from. The eastern portions of Rochester Hills are the closest to our base. Getting to the western reaches near the Paint Creek corridor takes a bit longer, but the routes are direct and well-traveled year-round.
+Flood and Fire Solutions operates out of Macomb, and Rochester Hills is a straightforward run west on M-59 (Hall Road) or north on Dequindre Road depending on which part of the city the call is coming from. The eastern portions of Rochester Hills are the closest to our base. Getting to the western reaches near the Paint Creek corridor takes a bit longer, but the routes are direct and well-traveled year-round.
 
 When you call (586) 580-0197, the team will confirm scheduling and give you a realistic arrival window based on current conditions.
 
@@ -48,7 +48,7 @@ When you call (586) 580-0197, the team will confirm scheduling and give you a re
 
 Most homeowner policies cover sudden and accidental water damage, but the phrase "sudden and accidental" does real work in a claim. A slow leak that has been running for months may be classified as a maintenance issue rather than a covered loss. Documenting the detection findings thoroughly, including the acoustic or thermal data, the pressure test results, and photographs of affected materials, gives your adjuster the evidence needed to support a covered claim.
 
-Flood Solutions inc has worked with the major carriers active in the Oakland County market. We provide written detection reports and can communicate directly with adjusters during the documentation phase.
+Flood and Fire Solutions has worked with the major carriers active in the Oakland County market. We provide written detection reports and can communicate directly with adjusters during the documentation phase.
 
 ## Local Note
 
@@ -56,4 +56,4 @@ One pattern that comes up repeatedly in Rochester Hills is the interaction betwe
 
 If you are noticing unexplained wet areas in your yard or along your foundation in Rochester Hills, particularly after the ground thaws in March or April, that pattern is worth a detection inspection before the problem migrates indoors.
 
-Call Flood Solutions inc at **(586) 580-0197** to schedule water leak detection in Rochester Hills. The sooner a hidden leak is located, the smaller the repair scope and the lower the risk of secondary mold growth in concealed cavities.
+Call Flood and Fire Solutions at **(586) 580-0197** to schedule water leak detection in Rochester Hills. The sooner a hidden leak is located, the smaller the repair scope and the lower the risk of secondary mold growth in concealed cavities.

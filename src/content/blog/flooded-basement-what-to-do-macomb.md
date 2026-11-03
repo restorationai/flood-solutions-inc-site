@@ -68,14 +68,14 @@ Know that most standard Michigan homeowners policies do not automatically cover 
 
 Call a restoration company once the water is Category 2 or 3, covers more than roughly 10 square feet, or hasn't been fully extracted and drying within the first 24 hours, since those are the thresholds where DIY equipment typically can't keep up. A finished basement with drywall, flooring, and insulation raises the stakes further, because moisture hides inside the wall assembly even after the surface looks dry.
 
-[Flood Solutions inc](/) has handled basement flooding across Macomb, Sterling Heights, Clinton Township, and the surrounding area since 1996, and runs a 24/7 line for exactly this situation. Our [water cleanup](/services/emergency-water-removal/) team extracts, maps moisture with meters (not guesswork), and documents the loss for your adjuster as part of the job. For the broader first-day checklist beyond basements specifically, our [first 24 hours after water damage](/blog/what-to-do-first-24-hours-water-damage/) guide covers the rest of the house.
+[Flood and Fire Solutions](/) has handled basement flooding across Macomb, Sterling Heights, Clinton Township, and the surrounding area since 1996, and runs a 24/7 line for exactly this situation. Our [water cleanup](/services/emergency-water-removal/) team extracts, maps moisture with meters (not guesswork), and documents the loss for your adjuster as part of the job. For the broader first-day checklist beyond basements specifically, our [first 24 hours after water damage](/blog/what-to-do-first-24-hours-water-damage/) guide covers the rest of the house.
 
 A flooded basement is unpleasant, but it's also one of the more predictable restoration jobs once you know the source and move fast on drying. Get the power safe, identify the water, document it, and start drying within hours rather than days.
 
-[Call Flood Solutions inc at (586) 580-0197](tel:+15865800197) for a basement water extraction and drying assessment, day or night.
+[Call Flood and Fire Solutions at (586) 580-0197](tel:+15865800197) for a basement water extraction and drying assessment, day or night.
 
 ---
 
-**About Flood Solutions inc**
+**About Flood and Fire Solutions**
 
-Flood Solutions inc is a licensed and insured restoration company based in Ira, Michigan, serving Macomb, Sterling Heights, Warren, Clinton Township, Troy, and the surrounding area since 1996. Their crews handle water damage restoration, water cleanup, sewage cleanup, emergency water removal, and emergency board-up for homeowners dealing with basement flooding, burst pipes, and storm damage, with a 24/7 response line for active water emergencies.
+Flood and Fire Solutions is a licensed and insured restoration company based in Ira, Michigan, serving Macomb, Sterling Heights, Warren, Clinton Township, Troy, and the surrounding area since 1996. Their crews handle water damage restoration, water cleanup, sewage cleanup, emergency water removal, and emergency board-up for homeowners dealing with basement flooding, burst pipes, and storm damage, with a 24/7 response line for active water emergencies.

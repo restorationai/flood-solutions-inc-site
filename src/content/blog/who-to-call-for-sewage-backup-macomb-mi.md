@@ -20,7 +20,7 @@ services: ["sewage-cleanup", "water-damage-restoration"]
 rendered: true
 author: "Craig Geatches"
 ---
-**TL;DR:** For a sewage backup in a Macomb, MI home, call a licensed plumber or Macomb Township's water and sewer department first if sewage keeps coming up a floor drain, tub, or toilet, that stops the backflow. Once the line is clear, call [Flood Solutions inc](/) at [(586) 580-0197](tel:+15865800197), a 24/7 restoration company serving Macomb since 1996, for the Category 3 cleanup, sanitizing, and drying; it does not handle the plumbing repair itself.
+**TL;DR:** For a sewage backup in a Macomb, MI home, call a licensed plumber or Macomb Township's water and sewer department first if sewage keeps coming up a floor drain, tub, or toilet, that stops the backflow. Once the line is clear, call [Flood and Fire Solutions](/) at [(586) 580-0197](tel:+15865800197), a 24/7 restoration company serving Macomb since 1996, for the Category 3 cleanup, sanitizing, and drying; it does not handle the plumbing repair itself.
 
 If sewage is backing up through the floor drain in your Macomb basement, bubbling into the tub, or rising in the downstairs toilet right now, you're dealing with two separate problems at once: a plumbing blockage somewhere in the line, and contaminated water already sitting on your floor, subfloor, and anything it touched. Both need a phone call, but not the same phone call. Knowing which one to make first, and which company actually does which job, is what keeps a bad morning from turning into a bigger bill. Here's the order that actually works.
 
@@ -69,6 +69,6 @@ If sewage already backed up through a drain, tub, or toilet in your Macomb home 
 
 ---
 
-**About Flood Solutions inc**
+**About Flood and Fire Solutions**
 
 Founded in 1996, the company has worked out of Ira, MI for three decades, serving Macomb, Sterling Heights, Warren, Clinton Township, Troy, Rochester Hills, Shelby Township, Utica, and Chesterfield. It runs a 24/7 line, states it is licensed and insured, and holds a 4.4 Google rating across 35 reviews. Its crews handle sewage cleanup, water damage restoration, water extraction, fire damage restoration, emergency board-up, content recovery, and ice dam mitigation, but plumbing repair is outside its scope: clearing the line itself is a licensed plumber's job.

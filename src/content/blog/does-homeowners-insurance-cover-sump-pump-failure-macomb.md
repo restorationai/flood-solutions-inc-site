@@ -73,6 +73,6 @@ A flooded basement from a dead sump pump is a plumbing and electrical problem fi
 
 ---
 
-**About Flood Solutions inc**
+**About Flood and Fire Solutions**
 
-Flood Solutions inc is a licensed and insured restoration company based in Ira, MI, serving Macomb County and the surrounding communities since 1996. Their crews handle water damage restoration, water cleanup, sewage cleanup, fire damage restoration, and related emergency services across Macomb, Sterling Heights, Warren, Clinton Township, Troy, and Rochester Hills.
+Flood and Fire Solutions is a licensed and insured restoration company based in Ira, MI, serving Macomb County and the surrounding communities since 1996. Their crews handle water damage restoration, water cleanup, sewage cleanup, fire damage restoration, and related emergency services across Macomb, Sterling Heights, Warren, Clinton Township, Troy, and Rochester Hills.

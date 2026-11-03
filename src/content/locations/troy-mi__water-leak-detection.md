@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Water Leak Detection in Troy, MI | Flood Solutions inc"
+title: "Water Leak Detection in Troy, MI | Flood and Fire Solutions"
 h1: "Water Leak Detection in Troy"
 meta_description: "Water leak detection in Troy, MI. Insurance billing accepted. Call (586) 580-0197."
 primary_keyword: "water leak detection troy"
@@ -20,7 +20,7 @@ state: "MI"
 service_display: "Water Leak Detection"
 rendered: true
 ---
-Troy's clay-heavy soil and freeze-thaw winters create conditions where water leaks rarely announce themselves cleanly. A slow drip behind a finished basement wall or beneath a concrete slab can go undetected for months while moisture migrates through the subfloor, silently warping framing and feeding mold colonies. Flood Solutions Inc has been tracking hidden water losses across Macomb County and the surrounding communities since 1996, and the leak patterns in Troy follow rhythms that are worth understanding before water damage compounds into a far costlier repair.
+Troy's clay-heavy soil and freeze-thaw winters create conditions where water leaks rarely announce themselves cleanly. A slow drip behind a finished basement wall or beneath a concrete slab can go undetected for months while moisture migrates through the subfloor, silently warping framing and feeding mold colonies. Flood and Fire Solutions Inc has been tracking hidden water losses across Macomb County and the surrounding communities since 1996, and the leak patterns in Troy follow rhythms that are worth understanding before water damage compounds into a far costlier repair.
 
 ## Why Troy Properties See Hidden Leak Issues
 
@@ -44,7 +44,7 @@ Once the source is confirmed and mapped, the findings are documented with photog
 
 ## Reaching Troy from Macomb
 
-Flood Solutions Inc operates out of Macomb, which puts Troy well within a practical service radius via I-696 and M-59. The drive along I-696 westbound to the Rochester Road corridor is a straightforward run under normal traffic conditions, making Troy a city we schedule regularly. If you are calling during business hours, our team can discuss your situation, gather the details needed to dispatch the right equipment, and get a technician moving toward your address promptly.
+Flood and Fire Solutions Inc operates out of Macomb, which puts Troy well within a practical service radius via I-696 and M-59. The drive along I-696 westbound to the Rochester Road corridor is a straightforward run under normal traffic conditions, making Troy a city we schedule regularly. If you are calling during business hours, our team can discuss your situation, gather the details needed to dispatch the right equipment, and get a technician moving toward your address promptly.
 
 ## Troy Insurance and Documentation
 
@@ -54,4 +54,4 @@ Most homeowner policies in Michigan cover sudden and accidental water discharge 
 
 Troy's split-level homes, which were built in large numbers during the late 1960s and into the 1970s, present a specific challenge for slab leak detection. The intermediate floor level in a split-level sits close to grade, and the concrete beneath it is often thinner than a full basement slab. Acoustic equipment picks up more ambient noise interference at that depth, particularly near mechanical rooms where furnace and water heater vibration competes with the leak signal. Technicians who work Troy regularly learn to take multiple listening points and cross-reference them with thermal imaging before committing to a location, rather than acting on a single acoustic reading.
 
-If a hidden water leak is affecting your Troy home, the longer it runs the more it costs. Call Flood Solutions Inc at (586) 580-0197 during business hours to schedule leak detection and get a clear picture of what is happening behind your walls or beneath your slab before the damage spreads further.
+If a hidden water leak is affecting your Troy home, the longer it runs the more it costs. Call Flood and Fire Solutions Inc at (586) 580-0197 during business hours to schedule leak detection and get a clear picture of what is happening behind your walls or beneath your slab before the damage spreads further.

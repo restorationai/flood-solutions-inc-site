@@ -1,8 +1,8 @@
 ---
 archetype: "service-area"
-title: "Serving All of Macomb, MI | Flood Solutions inc"
+title: "Serving All of Macomb, MI | Flood and Fire Solutions"
 h1: "Serving All of Macomb"
-meta_description: "Flood Solutions inc is based in Macomb, MI. See the parts of Macomb we cover and every service we offer here. Call (586) 580-0197."
+meta_description: "Flood and Fire Solutions is based in Macomb, MI. See the parts of Macomb we cover and every service we offer here. Call (586) 580-0197."
 primary_keyword: "macomb service area"
 secondary_keywords: ["macomb neighborhoods we serve"]
 search_intent: "local_commercial"
@@ -12,14 +12,14 @@ generated_at: "2026-10-02T19:34:27.631817+00:00"
 manual_override: false
 internal_links: ["/service-areas/", "/contact/", "/service-areas/chesterfield-mi/", "/service-areas/clinton-township-mi/", "/service-areas/rochester-hills-mi/"]
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "Macomb"}]
-faq: [{"question": "Do you cover all of Macomb, Michigan, or just certain areas?", "answer": "Flood Solutions inc works throughout Macomb and the surrounding townships from a local base in Macomb. Call (586) 580-0197 and the team will confirm scheduling for your specific location."}, {"question": "What restoration services do you offer in Macomb?", "answer": "The core services are water damage restoration, fire and smoke cleanup, mold remediation, storm damage response with board-up and tarping, and biohazard cleanup. Most calls start with an assessment to determine how far water, smoke, or contamination has traveled into the structure before a drying or cleanup plan is set."}, {"question": "Why do so many Macomb homes have basement water problems?", "answer": "Michigan's frost-depth footing requirements mean most homes here are built with full basements rather than slabs or crawlspaces, and those basement walls sit against clay soil that drains slowly. Spring thaw and heavy storms raise groundwater pressure against the foundation, which is why sump pump failure and basement seepage are such common calls."}, {"question": "Can you work directly with my insurance carrier or property management company?", "answer": "Yes. The crew documents the loss with photos and moisture readings and can communicate directly with your adjuster or property manager to keep the claim moving, which is especially useful for managers handling multiple units across Macomb."}]
+faq: [{"question": "Do you cover all of Macomb, Michigan, or just certain areas?", "answer": "Flood and Fire Solutions works throughout Macomb and the surrounding townships from a local base in Macomb. Call (586) 580-0197 and the team will confirm scheduling for your specific location."}, {"question": "What restoration services do you offer in Macomb?", "answer": "The core services are water damage restoration, fire and smoke cleanup, mold remediation, storm damage response with board-up and tarping, and biohazard cleanup. Most calls start with an assessment to determine how far water, smoke, or contamination has traveled into the structure before a drying or cleanup plan is set."}, {"question": "Why do so many Macomb homes have basement water problems?", "answer": "Michigan's frost-depth footing requirements mean most homes here are built with full basements rather than slabs or crawlspaces, and those basement walls sit against clay soil that drains slowly. Spring thaw and heavy storms raise groundwater pressure against the foundation, which is why sump pump failure and basement seepage are such common calls."}, {"question": "Can you work directly with my insurance carrier or property management company?", "answer": "Yes. The crew documents the loss with photos and moisture readings and can communicate directly with your adjuster or property manager to keep the claim moving, which is especially useful for managers handling multiple units across Macomb."}]
 area_slug: "macomb-mi"
 city: "Macomb"
 state: "MI"
 primary: true
 rendered: true
 ---
-Flood Solutions inc handles water extraction, structural drying, fire and smoke cleanup, and biohazard remediation for homeowners and property managers throughout Macomb, Michigan. Based right in Macomb since 1996, the crew works directly with insurance carriers on documentation and scope, so property owners aren't stuck managing the claim process on top of the damage itself.
+Flood and Fire Solutions handles water extraction, structural drying, fire and smoke cleanup, and biohazard remediation for homeowners and property managers throughout Macomb, Michigan. Based right in Macomb since 1996, the crew works directly with insurance carriers on documentation and scope, so property owners aren't stuck managing the claim process on top of the damage itself.
 
 ## Restoration emergencies common in Macomb
 

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Burst Pipe Cleanup and Repair in Troy, MI | Flood Solutions inc"
+title: "Emergency Burst Pipe Cleanup and Repair in Troy, MI | Flood and Fire Solutions"
 h1: "Emergency Burst Pipe Cleanup and Repair in Troy"
 meta_description: "Emergency burst pipe cleanup and repair in Troy, MI. Insurance billing accepted. Call (586) 580-0197."
 primary_keyword: "burst pipe cleanup and repair troy"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Burst pipe or leak in Troy? Call now for emergency service.** Our crew responds fast to stop the water and start the cleanup.
 
-Troy sits in one of Michigan's coldest suburban corridors, where January wind chills routinely drive pipe-wall temperatures below freezing in uninsulated exterior walls and garage-adjacent supply lines. When a pipe lets go, water moves fast through the open floor plans and finished basements that define so much of Troy's housing stock, and the damage clock starts the moment the break happens. Flood Solutions inc has been responding to pipe break water damage across Macomb County and the surrounding communities since 1996, and the pattern we see in Troy has its own distinct character.
+Troy sits in one of Michigan's coldest suburban corridors, where January wind chills routinely drive pipe-wall temperatures below freezing in uninsulated exterior walls and garage-adjacent supply lines. When a pipe lets go, water moves fast through the open floor plans and finished basements that define so much of Troy's housing stock, and the damage clock starts the moment the break happens. Flood and Fire Solutions has been responding to pipe break water damage across Macomb County and the surrounding communities since 1996, and the pattern we see in Troy has its own distinct character.
 
 ## Why Troy Properties See Burst Pipe Issues
 
@@ -41,7 +41,7 @@ If the pipe break has compromised drywall, insulation, or cabinetry beyond dryin
 
 ## Reaching Troy from Macomb
 
-Flood Solutions inc is based in Macomb, which puts us well-positioned to reach Troy via I-696 or M-59 depending on where in the city the loss is located. The northern reaches of Troy near the Oakland County border are a straightforward run down Rochester Road or Crooks Road from our service area. For addresses in the central and southern parts of the city, I-75 south to Big Beaver Road is typically the most direct corridor. We do not publish a minute guarantee we cannot stand behind, but Troy is well within our primary response zone and we prioritize pipe break calls because active water intrusion compounds damage with every passing hour.
+Flood and Fire Solutions is based in Macomb, which puts us well-positioned to reach Troy via I-696 or M-59 depending on where in the city the loss is located. The northern reaches of Troy near the Oakland County border are a straightforward run down Rochester Road or Crooks Road from our service area. For addresses in the central and southern parts of the city, I-75 south to Big Beaver Road is typically the most direct corridor. We do not publish a minute guarantee we cannot stand behind, but Troy is well within our primary response zone and we prioritize pipe break calls because active water intrusion compounds damage with every passing hour.
 
 ## Troy Insurance Coordination
 
@@ -51,4 +51,4 @@ Most homeowner policies cover sudden and accidental water damage from a burst pi
 
 Troy has a notable number of homes built on concrete slab foundations, particularly in subdivisions developed through the 1970s along the city's western corridors. When a supply line breaks inside a slab-on-grade home, water migrates laterally under the concrete before it ever surfaces, and moisture meters at the floor level can read deceptively low while the material beneath the slab stays saturated for weeks. We account for this by extending monitoring periods on slab homes and using readings at multiple points across the floor plane rather than relying on a single spot check near the visible water.
 
-If you are dealing with a burst pipe in Troy right now, call Flood Solutions inc at (586) 580-0197. We will assess the damage, stop the spread, and put together a clear plan for getting your home dry and repaired.
+If you are dealing with a burst pipe in Troy right now, call Flood and Fire Solutions at (586) 580-0197. We will assess the damage, stop the spread, and put together a clear plan for getting your home dry and repaired.

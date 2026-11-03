@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Ice Dams in Shelby Township, MI | Flood Solutions inc"
+title: "Ice Dams in Shelby Township, MI | Flood and Fire Solutions"
 h1: "Ice Dams in Shelby Township"
 meta_description: "Ice dams in Shelby Township, MI. Insurance billing accepted. Call (586) 580-0197."
 primary_keyword: "ice dams shelby township"
@@ -38,4 +38,4 @@ Most homeowner policies in Michigan cover sudden water damage from ice dams but 
 
 One pattern we watch for in Shelby Township specifically: homes built with cathedral ceilings over great rooms, common in several of the township's 1990s-era subdivisions, often have almost no attic space above the peak, which means there's nowhere for heat to dissipate before it hits the roof deck. Ice dams on these roofs tend to form lower and wider than on a standard attic roof, and the water intrusion point is often several feet from where the ceiling stain actually appears, so we always trace the water path before opening drywall rather than cutting at the visible stain.
 
-Ice dams rarely wait for convenient timing, and in a Macomb County winter the freeze-thaw cycle that caused the problem can also make it worse within a day if it's left alone. Flood Solutions inc has been handling water intrusion calls in this area since 1996, and if your Shelby Township home has ice building up along the eaves or water already showing on a ceiling, call (586) 580-0197 and we'll get the situation assessed before it spreads further into the structure.
+Ice dams rarely wait for convenient timing, and in a Macomb County winter the freeze-thaw cycle that caused the problem can also make it worse within a day if it's left alone. Flood and Fire Solutions has been handling water intrusion calls in this area since 1996, and if your Shelby Township home has ice building up along the eaves or water already showing on a ceiling, call (586) 580-0197 and we'll get the situation assessed before it spreads further into the structure.

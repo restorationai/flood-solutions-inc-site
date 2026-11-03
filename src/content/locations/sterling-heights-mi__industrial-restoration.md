@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Industrial Restoration in Sterling Heights, MI | Flood Solutions inc"
+title: "Industrial Restoration in Sterling Heights, MI | Flood and Fire Solutions"
 h1: "Industrial Restoration in Sterling Heights"
 meta_description: "Industrial restoration in Sterling Heights, MI. Insurance billing accepted. Call (586) 580-0197."
 primary_keyword: "industrial restoration sterling heights"
@@ -20,7 +20,7 @@ state: "MI"
 service_display: "Industrial Restoration"
 rendered: true
 ---
-Sterling Heights sits at the industrial heart of Macomb County, where decades of automotive supply chain investment have filled the city with stamping plants, fabrication shops, and large-format warehouses. When a sprinkler line ruptures inside a 60,000-square-foot production facility, or a fire tears through a paint booth and leaves smoke residue baked into steel framing, the recovery is nothing like a residential job. Industrial restoration here means working around shift schedules, protecting equipment worth more than most homes, and moving fast enough that downtime stays measured in days rather than weeks. Flood Solutions Inc has been doing exactly that kind of work in southeast Michigan since 1996.
+Sterling Heights sits at the industrial heart of Macomb County, where decades of automotive supply chain investment have filled the city with stamping plants, fabrication shops, and large-format warehouses. When a sprinkler line ruptures inside a 60,000-square-foot production facility, or a fire tears through a paint booth and leaves smoke residue baked into steel framing, the recovery is nothing like a residential job. Industrial restoration here means working around shift schedules, protecting equipment worth more than most homes, and moving fast enough that downtime stays measured in days rather than weeks. Flood and Fire Solutions Inc has been doing exactly that kind of work in southeast Michigan since 1996.
 
 ## Why Sterling Heights Industrial Facilities Face Distinct Restoration Challenges
 
@@ -50,4 +50,4 @@ Commercial and industrial property claims in Michigan are handled differently fr
 
 One pattern specific to Sterling Heights industrial properties: facilities built along the Mound Road corridor in the late 1970s frequently have original overhead crane rail systems embedded in the structural steel. When a fire or significant water event affects the roof structure, the crane rail assembly can trap moisture against the steel flange for weeks after surface materials appear dry. We flag these assemblies during scope and include them in moisture monitoring plans, because a rail system that corrodes internally after a loss can create a liability that shows up long after the restoration invoice is closed.
 
-If your facility in Sterling Heights has taken on water, smoke, or fire damage, call Flood Solutions Inc at (586) 580-0197 to schedule an assessment. We will walk the affected areas with you, document what we find, and give you a clear picture of the scope before any work begins.
+If your facility in Sterling Heights has taken on water, smoke, or fire damage, call Flood and Fire Solutions Inc at (586) 580-0197 to schedule an assessment. We will walk the affected areas with you, document what we find, and give you a clear picture of the scope before any work begins.

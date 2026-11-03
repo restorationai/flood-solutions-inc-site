@@ -4,15 +4,15 @@
 
 export const brand = {
   slug: "flood-solutions-inc",
-  displayName: "Flood Solutions inc",
-  shortName: "Flood Solutions inc",
+  displayName: "Flood and Fire Solutions",
+  shortName: "Flood and Fire Solutions",
   legalName: "Flood Solutions inc",
   // Registered DBA / trade name — filled by rename_site_sync.py the moment
   // the state approves the client's DBA filing (empty until then). When set,
   // the footer carries the "[legal] doing business as [DBA]" line and schema
   // declares it as the business name, so Google/BrightLocal find the new
   // name corroborated on the site before and during the GBP rename.
-  dbaName: "",
+  dbaName: "Flood and Fire Solutions - 24/7 Emergency Water & Fire Damage Restoration, Sewage Cleanup",
   domain: "floodsolutionsinc.com",
   canonicalUrl: "https://floodsolutionsinc.com",
   phone: "(586) 580-0197",
@@ -89,7 +89,7 @@ export const brand = {
   tradeNoun: "restoration",
   specialistPhrase: "Damage Restoration Specialists",
   announcementSuffix: "24/7 Emergency Response",
-  homeAboutBlurb: "Flood Solutions inc serves Macomb and the surrounding MI area with professional damage restoration for homes and businesses. From the first emergency call to the final walkthrough, our team manages the entire recovery — and we answer the phone 24/7, so help is on the way the moment something goes wrong.",
+  homeAboutBlurb: "Flood and Fire Solutions serves Macomb and the surrounding MI area with professional damage restoration for homes and businesses. From the first emergency call to the final walkthrough, our team manages the entire recovery — and we answer the phone 24/7, so help is on the way the moment something goes wrong.",
 } as const;
 
 export const entityId = `${brand.canonicalUrl}/#identity`;

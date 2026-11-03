@@ -67,7 +67,7 @@ Most standard homeowners policies cover sudden, accidental fire damage, includin
 
 What typically gets covered: structural cleaning, soot and smoke remediation, odor treatment, and content cleaning or replacement tied directly to the fire event, per the [Insurance Information Institute's guidance on homeowners coverage](https://www.iii.org/article/what-is-covered-by-standard-homeowners-insurance). You can also review general consumer guidance through [Michigan's Department of Insurance and Financial Services](https://www.michigan.gov/difs).
 
-A written assessment from Flood Solutions inc documents pre-loss condition, moisture readings, and the scope of work for your adjuster, which is usually the single biggest factor in how smoothly a fire claim moves. Save receipts for any emergency costs (board-up, temporary lodging) since most policies reimburse those as part of the claim.
+A written assessment from Flood and Fire Solutions documents pre-loss condition, moisture readings, and the scope of work for your adjuster, which is usually the single biggest factor in how smoothly a fire claim moves. Save receipts for any emergency costs (board-up, temporary lodging) since most policies reimburse those as part of the claim.
 
 ## What Happens During the Fire Damage Restoration Process?
 
@@ -91,8 +91,8 @@ If you're weighing whether to tackle smoke cleaning yourself or bring in a [fire
 
 ---
 
-**About Flood Solutions inc**
+**About Flood and Fire Solutions**
 
-Flood Solutions inc has served Macomb and the surrounding Macomb County communities, including Sterling Heights, Warren, and Clinton Township, since 1996. Licensed and insured, the team operates on a 24/7 basis and handles fire damage restoration, smoke damage cleanup, emergency board-up, and water removal tied to firefighting efforts.
+Flood and Fire Solutions has served Macomb and the surrounding Macomb County communities, including Sterling Heights, Warren, and Clinton Township, since 1996. Licensed and insured, the team operates on a 24/7 basis and handles fire damage restoration, smoke damage cleanup, emergency board-up, and water removal tied to firefighting efforts.
 
-**Need help now?** [Call Flood Solutions inc at (586) 580-0197](tel:+15865800197).
+**Need help now?** [Call Flood and Fire Solutions at (586) 580-0197](tel:+15865800197).

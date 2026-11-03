@@ -81,4 +81,4 @@ Call a mold remediation professional when: the affected area is larger than a si
 
 A professional assessment will include moisture mapping of the surrounding area, not just the visible stain. That matters because mold often extends further than the visible growth, and remediation that does not address the full affected area will leave the problem partially in place.
 
-If you are in Macomb or the surrounding area and you are seeing these signs, Flood Solutions Inc. can assess the situation and walk you through what remediation would involve. Reach the team at (586) 580-0197.
+If you are in Macomb or the surrounding area and you are seeing these signs, Flood and Fire Solutions Inc. can assess the situation and walk you through what remediation would involve. Reach the team at (586) 580-0197.

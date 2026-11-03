@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Inspection and Testing in Clinton Township, MI | Flood Solutions inc"
+title: "Mold Inspection and Testing in Clinton Township, MI | Flood and Fire Solutions"
 h1: "Mold Inspection and Testing in Clinton Township"
 meta_description: "Mold inspection and testing in Clinton Township, MI. Insurance billing accepted. Call (586) 580-0197."
 primary_keyword: "mold inspection and testing clinton township"
@@ -50,4 +50,4 @@ Mold testing reports are frequently requested by homeowners insurance carriers b
 
 Clinton Township homes built in the 1960s and 1970s often used a combination of concrete block basement walls and wood-paneled interior finishing. The gap between the block and the paneling creates a hidden channel where moisture migrates upward from the footing and condenses on the back of the wood. By the time a musty smell is noticeable in the living space above, the framing cavity behind those panels can already show significant colonization. Inspectors working in this area learn to probe that wall assembly specifically, because a moisture reading taken only at the panel face will almost always read dry.
 
-If you are noticing a persistent musty odor in your Clinton Township home or have had any water event in the past year, call Flood Solutions at (586) 580-0197 to schedule a mold inspection and testing appointment. A documented assessment gives you facts instead of guesswork, and that is the right starting point whether remediation follows or not.
+If you are noticing a persistent musty odor in your Clinton Township home or have had any water event in the past year, call Flood and Fire Solutions at (586) 580-0197 to schedule a mold inspection and testing appointment. A documented assessment gives you facts instead of guesswork, and that is the right starting point whether remediation follows or not.

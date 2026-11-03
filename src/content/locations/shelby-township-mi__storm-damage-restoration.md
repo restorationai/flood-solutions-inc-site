@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Storm Damage Restoration in Shelby Township, MI | Flood Solutions inc"
+title: "Emergency Storm Damage Restoration in Shelby Township, MI | Flood and Fire Solutions"
 h1: "Emergency Storm Damage Restoration in Shelby Township"
 meta_description: "Emergency storm damage restoration in Shelby Township, MI. Insurance billing accepted. Call (586) 580-0197."
 primary_keyword: "storm damage restoration shelby township"
@@ -41,7 +41,7 @@ Tree impact damage adds a structural assessment layer. If a limb or trunk has st
 
 ## Reaching Shelby Township from Macomb
 
-Flood Solutions inc operates out of Macomb, which puts the township a short drive up M-53 or Hall Road depending on where in Shelby the call is coming from. The road network here is straightforward for equipment staging: wide residential streets in most subdivisions accommodate box trucks and drying equipment trailers without the access complications you find in denser urban areas. Scheduling is handled through our office at (586) 580-0197, and we coordinate arrival windows so crews are not sitting in traffic on Hall Road during peak commute hours when a faster route is available.
+Flood and Fire Solutions operates out of Macomb, which puts the township a short drive up M-53 or Hall Road depending on where in Shelby the call is coming from. The road network here is straightforward for equipment staging: wide residential streets in most subdivisions accommodate box trucks and drying equipment trailers without the access complications you find in denser urban areas. Scheduling is handled through our office at (586) 580-0197, and we coordinate arrival windows so crews are not sitting in traffic on Hall Road during peak commute hours when a faster route is available.
 
 ## Shelby Township Insurance Coordination
 
@@ -51,4 +51,4 @@ Storm damage claims in Michigan involve a specific documentation sequence that a
 
 Shelby Township's established neighborhoods contain a significant number of homes with attached three-car garages that were added as second-phase construction in the late 1980s and 1990s. The connection point between the original home and the addition is a common weak spot in storm events: flashing at that seam is often the first place water finds its way in, and because the attic spaces on each side of the joint are separate, moisture can accumulate in the addition's attic for days before it shows up as a ceiling stain in the living space below. If your home has an addition built in a different decade than the main structure, that junction is worth checking after any significant wind-driven rain event.
 
-If a recent storm has left your home with a compromised roof, standing water, or structural concerns, call Flood Solutions inc at (586) 580-0197. We serve Shelby Township and the surrounding Macomb County area and can walk you through next steps before you commit to any repair work.
+If a recent storm has left your home with a compromised roof, standing water, or structural concerns, call Flood and Fire Solutions at (586) 580-0197. We serve Shelby Township and the surrounding Macomb County area and can walk you through next steps before you commit to any repair work.

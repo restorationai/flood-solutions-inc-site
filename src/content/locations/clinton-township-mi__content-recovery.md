@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Content Recovery in Clinton Township, MI | Flood Solutions inc"
+title: "Content Recovery in Clinton Township, MI | Flood and Fire Solutions"
 h1: "Content Recovery in Clinton Township"
 meta_description: "Content recovery in Clinton Township, MI. Insurance billing accepted. Call (586) 580-0197."
 primary_keyword: "content recovery clinton township"
@@ -38,4 +38,4 @@ Our crews are based out of Macomb, and Clinton Township sits close enough that w
 
 A pattern we see often in Clinton Township's older ranch-style basements: finished rec rooms built in the 1970s and 80s frequently have carpet glued directly to the slab rather than installed over padding. When these basements flood, the carpet holds water against the concrete far longer than a padded install would, which means contents stored nearby, particularly cardboard boxes and wood furniture legs sitting on that carpet, wick moisture upward even after the visible water is gone. We check moisture levels at the base of stored items specifically for this reason rather than relying on surface appearance alone.
 
-If water has reached the contents of your Clinton Township home or business, the sooner those items are assessed, the more of them can realistically be saved. Flood Solutions inc has been handling water damage and content recovery work out of Macomb since 1996, and we can walk you through what's salvageable, what isn't, and how the process fits into your insurance claim. Call (586) 580-0197 to schedule an assessment.
+If water has reached the contents of your Clinton Township home or business, the sooner those items are assessed, the more of them can realistically be saved. Flood and Fire Solutions has been handling water damage and content recovery work out of Macomb since 1996, and we can walk you through what's salvageable, what isn't, and how the process fits into your insurance claim. Call (586) 580-0197 to schedule an assessment.

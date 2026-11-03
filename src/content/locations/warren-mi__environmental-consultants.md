@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Environmental Consultants in Warren, MI | Flood Solutions inc"
+title: "Environmental Consultants in Warren, MI | Flood and Fire Solutions"
 h1: "Environmental Consultants in Warren"
 meta_description: "Environmental consultants in Warren, MI. Insurance billing accepted. Call (586) 580-0197."
 primary_keyword: "environmental consultants warren"
@@ -38,4 +38,4 @@ Carriers handling claims in this part of Macomb County are accustomed to seeing 
 
 One detail that catches out-of-area contractors: a lot of Warren's older slab-on-grade homes were built without a vapor barrier, which means moisture intrusion at the foundation can carry soil-borne contaminants upward into wall cavities over time. We factor that into sampling locations, not just the obviously damaged area, because a consultant who only tests where the water was visible can miss what migrated along the slab edge.
 
-If a loss at your Warren property has opened up older plaster, flooring, or insulation and you want to know what's actually in it before reconstruction starts, Flood Solutions inc has been working Macomb County properties since 1996 and can get an environmental consultant scoped and sampling scheduled promptly. Call (586) 580-0197 to talk through what your specific structure and damage type likely need.
+If a loss at your Warren property has opened up older plaster, flooring, or insulation and you want to know what's actually in it before reconstruction starts, Flood and Fire Solutions has been working Macomb County properties since 1996 and can get an environmental consultant scoped and sampling scheduled promptly. Call (586) 580-0197 to talk through what your specific structure and damage type likely need.

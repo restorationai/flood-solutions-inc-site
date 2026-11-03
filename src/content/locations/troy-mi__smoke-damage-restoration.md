@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Smoke Damage Restoration in Troy, MI | Flood Solutions inc"
+title: "Emergency Smoke Damage Restoration in Troy, MI | Flood and Fire Solutions"
 h1: "Emergency Smoke Damage Restoration in Troy"
 meta_description: "Emergency smoke damage restoration in Troy, MI. Insurance billing accepted. Call (586) 580-0197."
 primary_keyword: "smoke damage restoration troy"
@@ -39,11 +39,11 @@ Porous materials like drywall, wood trim, and upholstered furniture require diff
 
 ## Reaching Troy from Macomb
 
-Flood Solutions inc operates out of Macomb, which puts the crew on a straightforward route into Troy via M-59 or Hall Road connecting to I-75 southbound. Troy is a manageable distance from the Macomb base, and the team is familiar with the city's major corridors. If you are calling from the northern or western parts of Troy, routing is equally direct. Contact us at (586) 580-0197 to schedule service and confirm timing based on current crew availability.
+Flood and Fire Solutions operates out of Macomb, which puts the crew on a straightforward route into Troy via M-59 or Hall Road connecting to I-75 southbound. Troy is a manageable distance from the Macomb base, and the team is familiar with the city's major corridors. If you are calling from the northern or western parts of Troy, routing is equally direct. Contact us at (586) 580-0197 to schedule service and confirm timing based on current crew availability.
 
 ## Troy Insurance Coordination for Smoke Claims
 
-Smoke damage claims in Michigan are among the more documentation-intensive property claims, partly because the damage is not always visible and adjusters sometimes dispute scope. Flood Solutions inc documents losses with photographs, moisture and air quality readings, and written scope reports that align with carrier expectations. We work directly with most major insurance carriers and can communicate with your adjuster throughout the process, reducing the back-and-forth that often delays approval and restoration start dates.
+Smoke damage claims in Michigan are among the more documentation-intensive property claims, partly because the damage is not always visible and adjusters sometimes dispute scope. Flood and Fire Solutions documents losses with photographs, moisture and air quality readings, and written scope reports that align with carrier expectations. We work directly with most major insurance carriers and can communicate with your adjuster throughout the process, reducing the back-and-forth that often delays approval and restoration start dates.
 
 If your policy includes additional living expense coverage and smoke odor makes the home temporarily uninhabitable, that documentation matters too. We can provide the written assessment your carrier will need to evaluate that portion of the claim.
 
@@ -51,4 +51,4 @@ If your policy includes additional living expense coverage and smoke odor makes 
 
 Troy's older colonials and ranch homes frequently have original 1960s and 1970s forced-air furnaces that were replaced at some point but connected to the original duct runs. Those original metal ducts often have joints sealed with now-degraded mastic or foil tape, and smoke infiltrates through those gaps during a fire event. When we assess a post-fire home in Troy, we pay particular attention to duct joint integrity, because a duct system that looks intact from the register can be leaking smoke-saturated air into wall and floor cavities throughout the house. Cleaning registers and visible duct surfaces is not enough if the joints themselves are compromised.
 
-If your Troy home has had smoke damage, the longer residue sits in porous materials, the harder complete odor removal becomes. Call Flood Solutions inc at (586) 580-0197 to schedule an assessment. We will walk through the property, identify where smoke has traveled, and give you a clear picture of what restoration involves before any work begins.
+If your Troy home has had smoke damage, the longer residue sits in porous materials, the harder complete odor removal becomes. Call Flood and Fire Solutions at (586) 580-0197 to schedule an assessment. We will walk through the property, identify where smoke has traveled, and give you a clear picture of what restoration involves before any work begins.

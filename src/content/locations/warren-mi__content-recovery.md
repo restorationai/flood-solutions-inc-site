@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Content Recovery in Warren, MI | Flood Solutions inc"
+title: "Content Recovery in Warren, MI | Flood and Fire Solutions"
 h1: "Content Recovery in Warren"
 meta_description: "Content recovery in Warren, MI. Insurance billing accepted. Call (586) 580-0197."
 primary_keyword: "content recovery warren"
@@ -44,4 +44,4 @@ Many Warren homeowners find out during a claim that their standard policy treats
 
 A detail specific to Warren's older ranch-style basements: many were finished with drop ceilings over the original poured concrete, and contents stored on the shelving units built into those spaces sit only inches above the slab. When a floor drain backs up, that shelving height is often the only thing separating a full loss from a partial one, so we check shelf height and box placement early in the assessment since it tells us a lot about what's likely still dry versus what's already been sitting in water.
 
-If your basement has taken on water and there are boxes, furniture, or family belongings you don't want to lose, call Flood Solutions inc at (586) 580-0197. We handle content recovery throughout Warren with the documentation and cleaning process insurance carriers expect, and the sooner contents are separated and assessed, the more comes home.
+If your basement has taken on water and there are boxes, furniture, or family belongings you don't want to lose, call Flood and Fire Solutions at (586) 580-0197. We handle content recovery throughout Warren with the documentation and cleaning process insurance carriers expect, and the sooner contents are separated and assessed, the more comes home.

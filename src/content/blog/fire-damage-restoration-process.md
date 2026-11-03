@@ -94,4 +94,4 @@ The timeline for reconstruction depends on contractor availability, permit lead 
 
 Fire damage is one of the more disorienting losses a homeowner can face because the damage is visible, the smell is persistent, and the process is long. Understanding the sequence helps: stabilization first, then drying, then smoke remediation, then rebuild. Each phase has to be completed before the next one starts.
 
-If you are in Macomb or the surrounding area and trying to figure out your next step, Flood Solutions Inc handles fire damage restoration and smoke damage remediation and can walk you through what the process looks like for your specific situation. Call (586) 580-0197 to talk through what happened and what comes next.
+If you are in Macomb or the surrounding area and trying to figure out your next step, Flood and Fire Solutions Inc handles fire damage restoration and smoke damage remediation and can walk you through what the process looks like for your specific situation. Call (586) 580-0197 to talk through what happened and what comes next.

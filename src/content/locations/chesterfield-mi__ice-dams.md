@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Ice Dams in Chesterfield, MI | Flood Solutions inc"
+title: "Ice Dams in Chesterfield, MI | Flood and Fire Solutions"
 h1: "Ice Dams in Chesterfield"
 meta_description: "Ice dams in Chesterfield, MI. Insurance billing accepted. Call (586) 580-0197."
 primary_keyword: "ice dams chesterfield"
@@ -42,4 +42,4 @@ Most homeowner policies treat sudden ice dam water intrusion as covered water da
 
 One thing we watch for specifically in this township: homes with finished bonus rooms over the garage, common in several of the split-level layouts built here in the 1970s, often have a ventilation gap right where the garage roofline meets the main house. That seam is a common spot for ice dams to form even when the rest of the roof looks fine, and it's easy to miss on a quick exterior look from the driveway.
 
-If water is already coming through a ceiling or wall from an ice dam, don't wait on the weather to break on its own. Call Flood Solutions inc at (586) 580-0197 and we'll get a crew scheduled to assess the roofline, stop the intrusion, and start drying out the attic and interior before Chesterfield's next freeze-thaw cycle makes it worse.
+If water is already coming through a ceiling or wall from an ice dam, don't wait on the weather to break on its own. Call Flood and Fire Solutions at (586) 580-0197 and we'll get a crew scheduled to assess the roofline, stop the intrusion, and start drying out the attic and interior before Chesterfield's next freeze-thaw cycle makes it worse.

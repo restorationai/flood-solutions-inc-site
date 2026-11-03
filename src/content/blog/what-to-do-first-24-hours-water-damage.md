@@ -87,4 +87,4 @@ Keep a written log of every call, every visit, and every piece of equipment plac
 
 ---
 
-If you're in the Macomb area and the situation is beyond what a shop vac and a few fans can handle, Flood Solutions Inc. can assess the loss and walk you through the documentation and drying process. Reach them at **(586) 580-0197**.
+If you're in the Macomb area and the situation is beyond what a shop vac and a few fans can handle, Flood and Fire Solutions Inc. can assess the loss and walk you through the documentation and drying process. Reach them at **(586) 580-0197**.

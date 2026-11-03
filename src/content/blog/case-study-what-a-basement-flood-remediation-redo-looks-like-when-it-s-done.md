@@ -41,7 +41,7 @@ The other shortcut is skipping demolition where it was actually needed. Porous m
 
 You verify it with moisture readings and, when there's a history of mold, independent testing, not by eye or by smell. A thermo-hygrometer and penetrating moisture meter should show numbers at or near the dry standard for the material, logged daily until the job closes.
 
-For a basement with a known mold history, like Donna's, that verification goes a step further. An environmental consultant can collect air or surface samples and send them to a third-party lab, so the homeowner gets a written result instead of someone's opinion. That kind of post-remediation verification is exactly why Flood Solutions inc keeps environmental consulting as part of how a flood job gets closed out, not as an upsell.
+For a basement with a known mold history, like Donna's, that verification goes a step further. An environmental consultant can collect air or surface samples and send them to a third-party lab, so the homeowner gets a written result instead of someone's opinion. That kind of post-remediation verification is exactly why Flood and Fire Solutions keeps environmental consulting as part of how a flood job gets closed out, not as an upsell.
 
 If you're unsure what hidden moisture or regrowth looks like in your own basement, [this breakdown of how quickly mold grows after water damage](/blog/mold-after-water-damage/) walks through the timeline and warning signs.
 
@@ -61,16 +61,16 @@ Keep whatever paperwork the first company gave you. It may matter for a dispute 
 
 If you're dealing with a flooded Macomb-area basement right now, [this guide to the first hours after a flooded basement](/blog/flooded-basement-what-to-do-macomb/) covers what to do before a crew even arrives.
 
-A flood remediation job isn't finished when the floor is dry to the touch. It's finished when moisture readings confirm the structure is dry and, where there's a mold history, when testing confirms the air and surfaces are clean. [Request a water damage assessment from Flood Solutions inc](/contact/) if a previous job left you with lingering moisture, odor, or visible mold.
+A flood remediation job isn't finished when the floor is dry to the touch. It's finished when moisture readings confirm the structure is dry and, where there's a mold history, when testing confirms the air and surfaces are clean. [Request a water damage assessment from Flood and Fire Solutions](/contact/) if a previous job left you with lingering moisture, odor, or visible mold.
 
 ---
 
-**About Flood Solutions inc**
+**About Flood and Fire Solutions**
 
-Flood Solutions inc has served Macomb, Michigan and the surrounding communities, including Sterling Heights, Warren, Clinton Township, and Troy, since 1996. The company is licensed and insured, answers calls 24/7, and holds a 4.4-star Google rating across 36 reviews. Their crews handle water damage restoration, sewage cleanup, fire damage restoration, emergency board-up and water removal, and environmental consulting across Macomb County.
+Flood and Fire Solutions has served Macomb, Michigan and the surrounding communities, including Sterling Heights, Warren, Clinton Township, and Troy, since 1996. The company is licensed and insured, answers calls 24/7, and holds a 4.4-star Google rating across 36 reviews. Their crews handle water damage restoration, sewage cleanup, fire damage restoration, emergency board-up and water removal, and environmental consulting across Macomb County.
 
-**Need help now?** [Call Flood Solutions inc at (586) 580-0197](tel:+15865800197).
+**Need help now?** [Call Flood and Fire Solutions at (586) 580-0197](tel:+15865800197).
 
 ## Video Transcript
 
-If your basement was already dried once by another company and mold showed up anyway, you're not alone, and you're not out of options. Rushed flood jobs skip steps. Equipment gets pulled before materials actually reach dry standard, leaving moisture trapped behind walls. Mold can start growing in just 24 to 48 hours, so a basement that looked dry on day three can hide trouble by day five. A real fix starts with moisture mapping: checking drywall, framing, and carpet pad, not just how the floor feels. Drying should follow the IICRC S500 standard, with daily readings logged on schedule every day until every material hits dry targets. When there's a known mold history, testing matters even more. Air and surface samples go to an independent lab for written results, not guesses. One Michigan homeowner learned this the hard way. Her first company took her money and left mold behind. A proper redo means the same crew shows up on schedule every day, tracking moisture numbers until the job is truly finished. If your first contractor failed you, get a second opinion, keep your paperwork, and ask for documentation before new work begins. Call Flood Solutions inc at (586) 580-0197 to schedule an assessment.
+If your basement was already dried once by another company and mold showed up anyway, you're not alone, and you're not out of options. Rushed flood jobs skip steps. Equipment gets pulled before materials actually reach dry standard, leaving moisture trapped behind walls. Mold can start growing in just 24 to 48 hours, so a basement that looked dry on day three can hide trouble by day five. A real fix starts with moisture mapping: checking drywall, framing, and carpet pad, not just how the floor feels. Drying should follow the IICRC S500 standard, with daily readings logged on schedule every day until every material hits dry targets. When there's a known mold history, testing matters even more. Air and surface samples go to an independent lab for written results, not guesses. One Michigan homeowner learned this the hard way. Her first company took her money and left mold behind. A proper redo means the same crew shows up on schedule every day, tracking moisture numbers until the job is truly finished. If your first contractor failed you, get a second opinion, keep your paperwork, and ask for documentation before new work begins. Call Flood and Fire Solutions at (586) 580-0197 to schedule an assessment.

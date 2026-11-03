@@ -93,12 +93,12 @@ For a plain-English breakdown of what policies typically cover and exclude, [Doe
 
 Do not enter the affected area without waterproof boots and gloves at minimum. Turn off the water source if it is still active and you can do so safely. Do not run your HVAC system, which can spread contaminated air through the ductwork. Open windows in unaffected areas to ventilate if possible.
 
-Then call a licensed restoration company that handles sewage cleanup. For Sterling Heights homeowners, Flood Solutions inc at (586) 580-0197 provides [water damage restoration](/services/water-damage-restoration/) and [sewage cleanup](/services/emergency-water-removal/) services across Macomb County. Request a written scope of work before any remediation begins, and notify your insurance carrier as soon as you have the scope in hand.
+Then call a licensed restoration company that handles sewage cleanup. For Sterling Heights homeowners, Flood and Fire Solutions at (586) 580-0197 provides [water damage restoration](/services/water-damage-restoration/) and [sewage cleanup](/services/emergency-water-removal/) services across Macomb County. Request a written scope of work before any remediation begins, and notify your insurance carrier as soon as you have the scope in hand.
 
 The faster Category 3 water is professionally extracted and the affected materials are removed, the lower the risk of secondary mold growth, which can begin in as little as 24 to 48 hours on wet porous surfaces. For more on that timeline, see [How Quickly Does Mold Grow After Water Damage?](/blog/mold-after-water-damage/)
 
 ---
 
-**About Flood Solutions inc**
+**About Flood and Fire Solutions**
 
-Flood Solutions inc is a licensed and insured restoration company serving Sterling Heights, Macomb, Warren, Clinton Township, and surrounding communities in Macomb County since 1996. Their crews handle water damage restoration, sewage cleanup, water cleanup, and fire damage restoration across the region. License and insurance documentation available on request.
+Flood and Fire Solutions is a licensed and insured restoration company serving Sterling Heights, Macomb, Warren, Clinton Township, and surrounding communities in Macomb County since 1996. Their crews handle water damage restoration, sewage cleanup, water cleanup, and fire damage restoration across the region. License and insurance documentation available on request.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Ice Dams in Clinton Township, MI | Flood Solutions inc"
+title: "Ice Dams in Clinton Township, MI | Flood and Fire Solutions"
 h1: "Ice Dams in Clinton Township"
 meta_description: "Ice dams in Clinton Township, MI. Insurance billing accepted. Call (586) 580-0197."
 primary_keyword: "ice dams clinton township"
@@ -42,4 +42,4 @@ Most carriers treat ice dam water intrusion as a sudden and accidental loss rath
 
 Homes with attached garages built under living space, common in a lot of Clinton Township's mid-century construction, tend to develop a second, smaller ice dam right above the garage ceiling line, because that section of roof sits over unconditioned space and cools faster than the rest of the attic. Homeowners often fix the main roof dam and miss this one entirely, so we check that transition point specifically rather than assuming the whole roofline is behaved the same way.
 
-If you're watching ice build up along your eaves or already have a stain spreading across a ceiling, don't wait for the next thaw cycle to make it worse. Call Flood Solutions inc at (586) 580-0197 and we'll get a crew scheduled to assess the roof, the attic, and any interior water damage before the next freeze sets in.
+If you're watching ice build up along your eaves or already have a stain spreading across a ceiling, don't wait for the next thaw cycle to make it worse. Call Flood and Fire Solutions at (586) 580-0197 and we'll get a crew scheduled to assess the roof, the attic, and any interior water damage before the next freeze sets in.

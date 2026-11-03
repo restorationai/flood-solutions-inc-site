@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Commercial Restoration in Warren, MI | Flood Solutions inc"
+title: "Commercial Restoration in Warren, MI | Flood and Fire Solutions"
 h1: "Commercial Restoration in Warren"
 meta_description: "Commercial restoration in Warren, MI. Insurance billing accepted. Call (586) 580-0197."
 primary_keyword: "commercial restoration warren"
@@ -38,7 +38,7 @@ Throughout, we maintain a daily drying log and photographic record that feeds di
 
 ## Reaching Warren from Macomb
 
-Flood Solutions inc operates out of Macomb, which puts Warren within straightforward reach via M-53 (Van Dyke Avenue) southbound. That corridor runs directly into the heart of Warren's commercial district, and it avoids the interchange congestion that can slow response on I-94 during peak hours. For properties on the city's western side, Dequindre Road or Mound Road provide direct north-south access without the freight-traffic delays common on the eastern routes.
+Flood and Fire Solutions operates out of Macomb, which puts Warren within straightforward reach via M-53 (Van Dyke Avenue) southbound. That corridor runs directly into the heart of Warren's commercial district, and it avoids the interchange congestion that can slow response on I-94 during peak hours. For properties on the city's western side, Dequindre Road or Mound Road provide direct north-south access without the freight-traffic delays common on the eastern routes.
 
 When you call (586) 580-0197, the first question we ask is the building address and whether the structure is occupied, that determines staging logistics and whether we need to coordinate with Warren Fire or a utility shutoff before the crew arrives.
 
@@ -52,4 +52,4 @@ For property managers overseeing multi-tenant retail or office space, we can pro
 
 Warren's postwar commercial buildings, particularly the single-story masonry retail and light-industrial structures built through the 1950s and 1960s, frequently have poured concrete ceilings with embedded conduit rather than accessible plenum space. When smoke or water migrates into those assemblies, standard moisture readings at the surface can look acceptable while the concrete itself retains moisture for weeks. We account for this by extending the monitoring period on those building types and using vapor transmission testing rather than relying on surface readings alone. It's a detail that matters for preventing secondary mold growth in a structure that looks dry before it actually is.
 
-If your Warren commercial property has been affected by water, fire, smoke, or mold, call Flood Solutions inc at (586) 580-0197. We've been doing this work since 1996, and we understand what it takes to get a business space back to operational, documented, coordinated, and done right the first time.
+If your Warren commercial property has been affected by water, fire, smoke, or mold, call Flood and Fire Solutions at (586) 580-0197. We've been doing this work since 1996, and we understand what it takes to get a business space back to operational, documented, coordinated, and done right the first time.

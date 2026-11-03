@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Content Recovery in Shelby Township, MI | Flood Solutions inc"
+title: "Content Recovery in Shelby Township, MI | Flood and Fire Solutions"
 h1: "Content Recovery in Shelby Township"
 meta_description: "Content recovery in Shelby Township, MI. Insurance billing accepted. Call (586) 580-0197."
 primary_keyword: "content recovery shelby township"
@@ -38,4 +38,4 @@ Most Shelby Township homeowners we work with are filing a claim through their ho
 
 A lot of Shelby Township basements were finished by a previous owner or a contractor without a permit, which means the wall assemblies and flooring underneath don't match what shows on the county's records. That matters for content recovery because carpet pad, subfloor, and wall insulation hidden behind unpermitted finishing work can hold moisture long after the visible surfaces look dry, and any contents that were pushed against those walls need closer inspection before they get cleared for storage or return.
 
-If a flood, fire, or backup in your Shelby Township home has left you looking at a basement full of damaged belongings, don't wait to sort through it alone. Flood Solutions inc has been handling water and content losses in Macomb County since 1996, and we can walk your property, inventory what's affected, and get a recovery plan moving. Call (586) 580-0197 to get started.
+If a flood, fire, or backup in your Shelby Township home has left you looking at a basement full of damaged belongings, don't wait to sort through it alone. Flood and Fire Solutions has been handling water and content losses in Macomb County since 1996, and we can walk your property, inventory what's affected, and get a recovery plan moving. Call (586) 580-0197 to get started.

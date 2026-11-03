@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Content Recovery in Troy, MI | Flood Solutions inc"
+title: "Content Recovery in Troy, MI | Flood and Fire Solutions"
 h1: "Content Recovery in Troy"
 meta_description: "Content recovery in Troy, MI. Insurance billing accepted. Call (586) 580-0197."
 primary_keyword: "content recovery troy"
@@ -40,4 +40,4 @@ Content claims tend to be more paperwork-heavy than structural claims because ca
 
 One detail that catches Troy homeowners off guard: basements finished after the original build, which is common in this city's older ranch and colonial stock, often have carpet laid directly over a slab without a proper vapor barrier. When that carpet gets wet, the pad wicks moisture into the subfloor edges and baseboards far faster than a standard finished space, which means furniture and boxes sitting near the perimeter walls are usually wetter than they look on first inspection. We check those edge zones specifically rather than relying on how dry the center of the room feels underfoot.
 
-If water or smoke has reached your belongings, the clock that matters most is the one before mold and odor become permanent. Flood Solutions inc has worked Michigan losses since 1996, and for Troy homeowners that means a team that understands how this city's basements, soil, and building stock behave once water gets in. Call (586) 580-0197 to get a content recovery assessment started and a documented inventory building from the first visit.
+If water or smoke has reached your belongings, the clock that matters most is the one before mold and odor become permanent. Flood and Fire Solutions has worked Michigan losses since 1996, and for Troy homeowners that means a team that understands how this city's basements, soil, and building stock behave once water gets in. Call (586) 580-0197 to get a content recovery assessment started and a documented inventory building from the first visit.

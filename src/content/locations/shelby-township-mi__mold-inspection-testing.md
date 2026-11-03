@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Inspection and Testing in Shelby Township, MI | Flood Solutions inc"
+title: "Mold Inspection and Testing in Shelby Township, MI | Flood and Fire Solutions"
 h1: "Mold Inspection and Testing in Shelby Township"
 meta_description: "Mold inspection and testing in Shelby Township, MI. Insurance billing accepted. Call (586) 580-0197."
 primary_keyword: "mold inspection and testing shelby township"
@@ -38,7 +38,7 @@ The written report documents moisture readings, sample locations, lab findings, 
 
 ## Reaching Shelby Township from Macomb
 
-Flood Solutions inc is based in Macomb, which puts Shelby Township well within our regular service area. Heading west on 23 Mile Road or south on Hayes Road are the most direct routes depending on where in the township the property sits. Scheduling is handled by phone at (586) 580-0197, and our team can typically arrange an inspection appointment without a long wait.
+Flood and Fire Solutions is based in Macomb, which puts Shelby Township well within our regular service area. Heading west on 23 Mile Road or south on Hayes Road are the most direct routes depending on where in the township the property sits. Scheduling is handled by phone at (586) 580-0197, and our team can typically arrange an inspection appointment without a long wait.
 
 ## Shelby Township Insurance and Real Estate Coordination
 

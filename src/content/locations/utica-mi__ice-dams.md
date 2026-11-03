@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Ice Dams in Utica, MI | Flood Solutions inc"
+title: "Ice Dams in Utica, MI | Flood and Fire Solutions"
 h1: "Ice Dams in Utica"
 meta_description: "Ice dams in Utica, MI. Insurance billing accepted. Call (586) 580-0197."
 primary_keyword: "ice dams utica"
@@ -20,7 +20,7 @@ state: "MI"
 service_display: "Ice Dams"
 rendered: true
 ---
-Ice dams along Utica rooflines usually start the same way: a warm attic melts snow near the ridge, that water runs down to a cold overhang, and it refreezes right where the roof meets the gutter. In a Macomb County winter that cycle can repeat for days, and the backed-up water eventually finds a gap in the shingles or flashing and drips into insulation, drywall, or a bedroom ceiling. Flood Solutions inc has worked on Michigan winter damage since 1996, and ice dam calls from the Utica area follow a pattern shaped by the local housing stock and the Clinton River valley's damp, heavy-snow microclimate.
+Ice dams along Utica rooflines usually start the same way: a warm attic melts snow near the ridge, that water runs down to a cold overhang, and it refreezes right where the roof meets the gutter. In a Macomb County winter that cycle can repeat for days, and the backed-up water eventually finds a gap in the shingles or flashing and drips into insulation, drywall, or a bedroom ceiling. Flood and Fire Solutions has worked on Michigan winter damage since 1996, and ice dam calls from the Utica area follow a pattern shaped by the local housing stock and the Clinton River valley's damp, heavy-snow microclimate.
 
 ## Why Utica Properties See Ice Dam Issues
 
@@ -38,4 +38,4 @@ Most homeowner policies in Michigan cover sudden ice dam water intrusion, but ca
 
 On the older ranch homes scattered through Utica's established streets, we often find the original attic insulation was installed flush against the roof deck with no baffle to keep airflow moving from soffit to ridge. That detail alone explains a surprising number of the ice dam calls we get in this area: the attic stays just warm enough at the eaves to melt snow that a properly vented attic wouldn't touch. Fixing the insulation and adding baffles is usually a smaller job than the water damage it prevents, and we point it out during the initial assessment even when it's outside the scope of the water loss itself.
 
-If ice is backing up along your roofline or water has already found its way into a ceiling or wall, call Flood Solutions inc at (586) 580-0197. We're based in Macomb and handle ice dam water damage throughout Utica, from the extraction and drying through the insurance documentation that gets your claim moving.
+If ice is backing up along your roofline or water has already found its way into a ceiling or wall, call Flood and Fire Solutions at (586) 580-0197. We're based in Macomb and handle ice dam water damage throughout Utica, from the extraction and drying through the insurance documentation that gets your claim moving.

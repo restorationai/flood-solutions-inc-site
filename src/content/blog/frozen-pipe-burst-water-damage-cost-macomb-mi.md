@@ -83,10 +83,10 @@ The job runs in a predictable sequence once the water is shut off: assess, extra
 
 An older ranch home in Macomb Township with a crawl space often dries differently than a two-story with a finished basement near the Hall Road corridor, which is part of why an on-site assessment matters more than a phone estimate.
 
-If water is actively running right now, shutting off the main valve comes first. For a step-by-step order of operations, see our [burst pipe emergency checklist](/blog/burst-pipe-emergency-checklist/). Once the water's stopped and you're looking at next steps, [Flood Solutions inc](tel:+15865800197) can send a crew to assess the damage and provide a written drying scope before any work starts.
+If water is actively running right now, shutting off the main valve comes first. For a step-by-step order of operations, see our [burst pipe emergency checklist](/blog/burst-pipe-emergency-checklist/). Once the water's stopped and you're looking at next steps, [Flood and Fire Solutions](tel:+15865800197) can send a crew to assess the damage and provide a written drying scope before any work starts.
 
 ---
 
-**About Flood Solutions inc**
+**About Flood and Fire Solutions**
 
-Flood Solutions inc has served Macomb, MI and surrounding communities including Sterling Heights, Warren, and Clinton Township since 1996. The company is licensed and insured and runs a 24/7 emergency line for water damage calls. Their work covers water damage restoration, emergency water removal, sewage cleanup, fire damage restoration, and related services across Macomb County, with technicians following the ANSI/IICRC S500 standard for structural drying on water losses.
+Flood and Fire Solutions has served Macomb, MI and surrounding communities including Sterling Heights, Warren, and Clinton Township since 1996. The company is licensed and insured and runs a 24/7 emergency line for water damage calls. Their work covers water damage restoration, emergency water removal, sewage cleanup, fire damage restoration, and related services across Macomb County, with technicians following the ANSI/IICRC S500 standard for structural drying on water losses.

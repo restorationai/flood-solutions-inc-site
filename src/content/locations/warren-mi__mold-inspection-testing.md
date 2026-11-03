@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Inspection and Testing in Warren, MI | Flood Solutions inc"
+title: "Mold Inspection and Testing in Warren, MI | Flood and Fire Solutions"
 h1: "Mold Inspection and Testing in Warren"
 meta_description: "Mold inspection and testing in Warren, MI. Insurance billing accepted. Call (586) 580-0197."
 primary_keyword: "mold inspection and testing warren"
@@ -38,7 +38,7 @@ If remediation is needed, the inspection report becomes the scope document. If r
 
 ## Reaching Warren from Macomb
 
-Flood Solutions inc operates out of Macomb, which places the team a short drive from Warren via M-53 (Van Dyke Avenue) or Groesbeck Highway depending on which part of the city you're in. The northern and eastern sections of Warren are particularly close to our base, making scheduling straightforward. Call (586) 580-0197 to set up an appointment and confirm availability for your address.
+Flood and Fire Solutions operates out of Macomb, which places the team a short drive from Warren via M-53 (Van Dyke Avenue) or Groesbeck Highway depending on which part of the city you're in. The northern and eastern sections of Warren are particularly close to our base, making scheduling straightforward. Call (586) 580-0197 to set up an appointment and confirm availability for your address.
 
 ## Warren Insurance and Documentation
 
@@ -50,4 +50,4 @@ If you are buying or selling a home in Warren, a mold assessment report also sat
 
 Warren's mid-century ranch homes were frequently built with minimal attic ventilation, relying on soffit vents alone without a corresponding ridge or gable vent to create airflow. During cold Michigan winters, warm humid air from the living space migrates upward and condenses on the cold roof deck. Over years, that repeated condensation cycle produces mold on the underside of OSB or plank sheathing that is invisible from the living space below. Homeowners often discover it only during a real estate inspection or when a roofer notices staining. If your home was built before 1980 and has never had an attic inspection, it is worth including the attic in any mold assessment, not just the basement.
 
-If you have questions about what mold inspection and testing involves for your specific Warren property, or if you want to schedule an assessment, call Flood Solutions inc at (586) 580-0197. A written report with laboratory results gives you the clearest possible picture of your indoor air quality so you can make informed decisions about your home.
+If you have questions about what mold inspection and testing involves for your specific Warren property, or if you want to schedule an assessment, call Flood and Fire Solutions at (586) 580-0197. A written report with laboratory results gives you the clearest possible picture of your indoor air quality so you can make informed decisions about your home.

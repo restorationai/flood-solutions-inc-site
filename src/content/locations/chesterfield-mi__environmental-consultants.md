@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Environmental Consultants in Chesterfield, MI | Flood Solutions inc"
+title: "Environmental Consultants in Chesterfield, MI | Flood and Fire Solutions"
 h1: "Environmental Consultants in Chesterfield"
 meta_description: "Environmental consultants in Chesterfield, MI. Insurance billing accepted. Call (586) 580-0197."
 primary_keyword: "environmental consultants chesterfield"
@@ -46,4 +46,4 @@ Most homeowners we work with in Chesterfield are dealing with a claim tied to wa
 
 One thing that trips up out-of-area inspectors working in Chesterfield: a lot of the older lakefront cottages here were built slab-on-grade or with shallow crawlspaces instead of full basements, which means moisture behaves differently than it would in a home with a deep basement further inland. Sampling at a single interior point can miss what's happening at the perimeter, so we take readings at multiple points around the foundation line on these homes rather than assuming one crawlspace reading tells the whole story.
 
-If you're staring at a water stain that won't go away, a musty smell that shows up every time it rains, or you need documentation before a remediation job starts, call Flood Solutions inc at (586) 580-0197. We'll walk the property, explain what we're testing for and why, and give you a straight answer on what the results mean for your home in Chesterfield.
+If you're staring at a water stain that won't go away, a musty smell that shows up every time it rains, or you need documentation before a remediation job starts, call Flood and Fire Solutions at (586) 580-0197. We'll walk the property, explain what we're testing for and why, and give you a straight answer on what the results mean for your home in Chesterfield.

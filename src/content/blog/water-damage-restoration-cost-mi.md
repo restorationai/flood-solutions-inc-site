@@ -36,7 +36,7 @@ Most Michigan homeowners pay between $1,200 and $8,000 for a typical residential
 | Category 3 black water / sewage backup | $5,000 - $12,000+ |
 | Whole-house structural drying with reconstruction | $10,000 - $30,000+ |
 
-These are typical industry ranges for Michigan, not a quote. Every loss is different, and [Flood Solutions inc](https://floodsolutionsinc.com) provides a written scope of work and pricing before any work begins, so you know the number before crews start.
+These are typical industry ranges for Michigan, not a quote. Every loss is different, and [Flood and Fire Solutions](https://floodsolutionsinc.com) provides a written scope of work and pricing before any work begins, so you know the number before crews start.
 
 ## What Factors Change the Price?
 
@@ -60,7 +60,7 @@ A few things that affect your claim:
 - **Deductibles** on Michigan homeowners policies commonly range from $500 to $2,000, which comes off the top of any covered claim.
 - **Sump pump failure** is sometimes covered only if you purchased a specific sump pump or water backup endorsement, so check your policy language before assuming it's included.
 - **Sewage backups** from a municipal line or your own plumbing usually need a separate sewer backup rider.
-- **Documentation matters.** Photos of standing water, moisture readings, and an itemized list of affected contents all strengthen a claim. Flood Solutions inc documents moisture levels and drying progress throughout the job, which gives your adjuster the paper trail they need.
+- **Documentation matters.** Photos of standing water, moisture readings, and an itemized list of affected contents all strengthen a claim. Flood and Fire Solutions documents moisture levels and drying progress throughout the job, which gives your adjuster the paper trail they need.
 
 For a deeper walkthrough of what's typically covered versus excluded, see our guide on [whether homeowners insurance covers water damage](/blog/does-homeowners-insurance-cover-water-damage/).
 
@@ -81,12 +81,12 @@ If you're wondering how long the whole thing takes start to finish, our post on 
 
 If water is actively coming in, shut off the source if you can safely reach it, then call for an assessment rather than waiting to see if it dries on its own. Standing water and wet drywall left untreated for more than a couple of days raise both the mold risk and the eventual repair bill.
 
-Flood Solutions inc serves Macomb and the surrounding communities, including Sterling Heights, Warren, Clinton Township, and Troy, and provides a written scope and cost estimate before work begins. If you want a Macomb-specific cost breakdown with local examples, our companion post on [water damage restoration cost in Macomb, MI](/blog/water-damage-restoration-cost-macomb-mi/) goes deeper on that market specifically.
+Flood and Fire Solutions serves Macomb and the surrounding communities, including Sterling Heights, Warren, Clinton Township, and Troy, and provides a written scope and cost estimate before work begins. If you want a Macomb-specific cost breakdown with local examples, our companion post on [water damage restoration cost in Macomb, MI](/blog/water-damage-restoration-cost-macomb-mi/) goes deeper on that market specifically.
 
 Getting a professional moisture assessment early is the single biggest lever you have over the final cost of a water damage job. The longer water sits, the more materials it ruins and the more it costs to put back.
 
 ---
 
-**About Flood Solutions inc**
+**About Flood and Fire Solutions**
 
-Flood Solutions inc is a locally owned and operated, licensed and insured restoration company based in Ira, Michigan, serving Macomb, Sterling Heights, Warren, Clinton Township, Troy, and surrounding communities since 1996. Their crews handle water damage restoration, sewage cleanup and sanitization, emergency water cleanup, and fire damage restoration across southeast Michigan.
+Flood and Fire Solutions is a locally owned and operated, licensed and insured restoration company based in Ira, Michigan, serving Macomb, Sterling Heights, Warren, Clinton Township, Troy, and surrounding communities since 1996. Their crews handle water damage restoration, sewage cleanup and sanitization, emergency water cleanup, and fire damage restoration across southeast Michigan.

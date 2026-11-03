@@ -88,4 +88,4 @@ The restoration and reconstruction phases can often be handled by the same compa
 
 ---
 
-If you're in Macomb County and you're dealing with a burst pipe right now, or you dried things yourself and you're not sure whether it was enough, Flood Solutions Inc. can assess the moisture levels and walk you through what comes next. Reach them at **(586) 580-0197**.
+If you're in Macomb County and you're dealing with a burst pipe right now, or you dried things yourself and you're not sure whether it was enough, Flood and Fire Solutions Inc. can assess the moisture levels and walk you through what comes next. Reach them at **(586) 580-0197**.

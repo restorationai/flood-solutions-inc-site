@@ -71,4 +71,4 @@ In Macomb County, the housing stock runs heavily toward brick ranch homes and sp
 
 The first 24 to 48 hours after a water loss do matter, mold colonization can begin quickly in warm, humid conditions, and Michigan summers give it every advantage. But "act fast" doesn't mean "sign the first contract someone hands you." It means extract standing water, protect your belongings, document everything with photos, and call your insurance carrier. Then take 30 minutes to vet the company before work begins.
 
-If you're dealing with water damage, fire damage, or a mold concern in the Macomb area and want to talk through what proper remediation looks like for your situation, Flood Solutions Inc. is available at (586) 580-0197.
+If you're dealing with water damage, fire damage, or a mold concern in the Macomb area and want to talk through what proper remediation looks like for your situation, Flood and Fire Solutions Inc. is available at (586) 580-0197.

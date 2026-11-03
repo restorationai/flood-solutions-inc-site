@@ -62,12 +62,12 @@ Document the water level with photos before anything is moved, note whether the 
 
 For the mechanical side of prevention, our [basement flooding prevention guide](/blog/basement-flooding-prevention/) covers grading, gutter extensions, and backup pump options in more detail than makes sense to repeat here.
 
-If your basement has already taken on water, [Flood Solutions inc](/) runs [emergency water extraction and structural drying](/services/water-damage-restoration/) across Macomb, Sterling Heights, Warren, and Clinton Township, and documents the loss the way most Michigan insurers expect to see it.
+If your basement has already taken on water, [Flood and Fire Solutions](/) runs [emergency water extraction and structural drying](/services/water-damage-restoration/) across Macomb, Sterling Heights, Warren, and Clinton Township, and documents the loss the way most Michigan insurers expect to see it.
 
 ---
 
-**About Flood Solutions inc**
+**About Flood and Fire Solutions**
 
-Flood Solutions inc has served Macomb County since 1996, handling water damage restoration, sewage cleanup, fire damage restoration, and related emergency services for homeowners across Macomb, Sterling Heights, Warren, Clinton Township, Troy, Rochester Hills, Shelby Township, Utica, and Chesterfield. The company is locally owned and operated, licensed and insured, and holds a 4.4 rating across 35 Google reviews. This post was prepared with the Flood Solutions inc team.
+Flood and Fire Solutions has served Macomb County since 1996, handling water damage restoration, sewage cleanup, fire damage restoration, and related emergency services for homeowners across Macomb, Sterling Heights, Warren, Clinton Township, Troy, Rochester Hills, Shelby Township, Utica, and Chesterfield. The company is locally owned and operated, licensed and insured, and holds a 4.4 rating across 35 Google reviews. This post was prepared with the Flood and Fire Solutions team.
 
-**Need help now?** [Call Flood Solutions inc at (586) 580-0197](tel:+15865800197).
+**Need help now?** [Call Flood and Fire Solutions at (586) 580-0197](tel:+15865800197).

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Environmental Consultants in Rochester Hills, MI | Flood Solutions inc"
+title: "Environmental Consultants in Rochester Hills, MI | Flood and Fire Solutions"
 h1: "Environmental Consultants in Rochester Hills"
 meta_description: "Environmental consultants in Rochester Hills, MI. Insurance billing accepted. Call (586) 580-0197."
 primary_keyword: "environmental consultants rochester hills"
@@ -42,4 +42,4 @@ A number of Rochester Hills neighborhoods sit within homeowners associations tha
 
 Basements in the older sections of Rochester Hills, particularly homes built in the 1960s and 70s before modern vapor barrier requirements, often show moisture readings that look fine at the surface of a concrete floor while the soil directly beneath stays saturated for days after a storm. We've learned not to trust a single surface reading in these homes and instead take multiple points across the slab before ruling a space dry, since Oakland County's clay subsoil holds water longer than the reading at any one spot would suggest.
 
-If you're dealing with a property in Rochester Hills where water, mold, or an unknown material has you second-guessing the next step, an environmental assessment gives you documentation you can actually act on, whether that's for your insurance carrier, your HOA, or your own peace of mind before a renovation starts. Call Flood Solutions inc at (586) 580-0197 to talk through what your property needs.
+If you're dealing with a property in Rochester Hills where water, mold, or an unknown material has you second-guessing the next step, an environmental assessment gives you documentation you can actually act on, whether that's for your insurance carrier, your HOA, or your own peace of mind before a renovation starts. Call Flood and Fire Solutions at (586) 580-0197 to talk through what your property needs.

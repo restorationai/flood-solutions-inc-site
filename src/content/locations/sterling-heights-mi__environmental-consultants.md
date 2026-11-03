@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Environmental Consultants in Sterling Heights, MI | Flood Solutions inc"
+title: "Environmental Consultants in Sterling Heights, MI | Flood and Fire Solutions"
 h1: "Environmental Consultants in Sterling Heights"
 meta_description: "Environmental consultants in Sterling Heights, MI. Insurance billing accepted. Call (586) 580-0197."
 primary_keyword: "environmental consultants sterling heights"
@@ -38,4 +38,4 @@ Macomb County adjusters see a steady volume of basement water claims every sprin
 
 One pattern worth knowing: basements in Sterling Heights that back up to older sanitary or storm sewer lines are more prone to slow seepage during the heavy spring rain events Macomb County sees most years, and that seepage often goes unnoticed until a finished basement wall or carpet pad already shows mold growth. Because that growth can establish within 24 to 48 hours of sustained dampness, we recommend testing sooner rather than waiting to see if a musty smell clears on its own, especially in finished lower levels where the moisture source isn't visible behind drywall.
 
-If you're staring at a discolored ceiling tile, planning a renovation in a home built before 1980, or just need a documented answer before a real estate closing, Flood Solutions inc has been doing this kind of assessment work out of Macomb since 1996. Call (586) 580-0197 to schedule an environmental consultation for your Sterling Heights property and get lab-backed answers instead of guesses.
+If you're staring at a discolored ceiling tile, planning a renovation in a home built before 1980, or just need a documented answer before a real estate closing, Flood and Fire Solutions has been doing this kind of assessment work out of Macomb since 1996. Call (586) 580-0197 to schedule an environmental consultation for your Sterling Heights property and get lab-backed answers instead of guesses.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Ice Dams in Troy, MI | Flood Solutions inc"
+title: "Ice Dams in Troy, MI | Flood and Fire Solutions"
 h1: "Ice Dams in Troy"
 meta_description: "Ice dams in Troy, MI. Insurance billing accepted. Call (586) 580-0197."
 primary_keyword: "ice dams troy"
@@ -38,4 +38,4 @@ Most homeowner policies in Michigan treat ice dam water intrusion as a covered p
 
 A detail worth knowing if you're dealing with this for the first time: Troy's building department typically requires a permit for structural drywall or framing repair tied to storm or water damage once the repair exceeds a cosmetic patch, even when the work is insurance-driven. We coordinate that paperwork as part of the repair scope so it doesn't hold up your claim timeline or leave you doing a follow-up call to the city after the crew has already left.
 
-Ice dams rarely announce themselves until there's a wet spot on a bedroom ceiling or water pooling on a windowsill, and by then the damage is usually further along than the visible sign suggests. Flood Solutions inc has worked on water intrusion issues across southeast Michigan since 1996, and we know the freeze-thaw pattern that Troy's older subdivisions go through most winters. Call (586) 580-0197 to get a technician scheduled for an ice dam inspection or active water intrusion before the next thaw makes it worse.
+Ice dams rarely announce themselves until there's a wet spot on a bedroom ceiling or water pooling on a windowsill, and by then the damage is usually further along than the visible sign suggests. Flood and Fire Solutions has worked on water intrusion issues across southeast Michigan since 1996, and we know the freeze-thaw pattern that Troy's older subdivisions go through most winters. Call (586) 580-0197 to get a technician scheduled for an ice dam inspection or active water intrusion before the next thaw makes it worse.

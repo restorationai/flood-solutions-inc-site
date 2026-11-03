@@ -1,7 +1,7 @@
 ---
 archetype: "contact"
-title: "Contact Flood & Fire Solutions | Restoration in Macomb"
-h1: "Contact Flood & Fire Solutions"
+title: "Contact Flood and Fire Solutions | Restoration in Macomb"
+h1: "Contact Flood and Fire Solutions"
 meta_description: "Call (586) 580-0197 for restoration services in Macomb and surrounding areas. Free consultations and inspections. Direct insurance billing."
 primary_keyword: "flood solutions inc contact"
 secondary_keywords: ["restoration company contact"]
@@ -27,4 +27,4 @@ If you're planning ahead, requesting a written estimate, asking about a slow lea
 
 ## Where we're located
 
-Flood Solutions is based at 10153 Marine City Highway, Ira, MI, a short drive from the Macomb County communities we serve. We work with homeowners and property managers throughout the area, including Sterling Heights, Shelby Township, Utica, Clinton Township, and Warren. Macomb County's mix of mid-century slab-on-grade homes and newer construction means water intrusion problems vary widely by neighborhood, slab leaks and foundation seepage in older subdivisions, ice-dam damage and roof-related moisture in newer builds. Wherever you are in the area, call first and we'll confirm we can reach you.
+Flood and Fire Solutions is based at 10153 Marine City Highway, Ira, MI, a short drive from the Macomb County communities we serve. We work with homeowners and property managers throughout the area, including Sterling Heights, Shelby Township, Utica, Clinton Township, and Warren. Macomb County's mix of mid-century slab-on-grade homes and newer construction means water intrusion problems vary widely by neighborhood, slab leaks and foundation seepage in older subdivisions, ice-dam damage and roof-related moisture in newer builds. Wherever you are in the area, call first and we'll confirm we can reach you.

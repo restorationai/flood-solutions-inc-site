@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Ice Dams in Rochester Hills, MI | Flood Solutions inc"
+title: "Ice Dams in Rochester Hills, MI | Flood and Fire Solutions"
 h1: "Ice Dams in Rochester Hills"
 meta_description: "Ice dams in Rochester Hills, MI. Insurance billing accepted. Call (586) 580-0197."
 primary_keyword: "ice dams rochester hills"
@@ -38,4 +38,4 @@ Michigan homeowner policies generally treat ice dam water intrusion as a covered
 
 A detail that catches a lot of homeowners off guard: Rochester Hills' mix of wooded, ravine-adjacent lots near the Clinton River tend to hold shade and cold air longer into the afternoon than open subdivisions a few miles away, so roofs on those lots can carry ice dams for days after a sunny thaw has cleared neighboring streets. If a homeowner on one of those lots sees water spots reappear after what looked like a full melt, it's usually because the north-facing eave never actually cleared, not because the first repair failed.
 
-Ice dams rarely announce themselves before the ceiling stain does, and by then water has usually been sitting in the insulation for a while. If you're watching ice build along the eaves or you've already found a wet spot on a ceiling or wall, call Flood Solutions inc at (586) 580-0197. We work Rochester Hills roofs and the interior damage that follows them, and we document everything along the way so the insurance side of the repair moves as smoothly as the physical one.
+Ice dams rarely announce themselves before the ceiling stain does, and by then water has usually been sitting in the insulation for a while. If you're watching ice build along the eaves or you've already found a wet spot on a ceiling or wall, call Flood and Fire Solutions at (586) 580-0197. We work Rochester Hills roofs and the interior damage that follows them, and we document everything along the way so the insurance side of the repair moves as smoothly as the physical one.

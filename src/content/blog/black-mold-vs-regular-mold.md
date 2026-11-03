@@ -87,7 +87,7 @@ Call a professional when:
 
 A certified mold remediation contractor will assess the moisture conditions driving the growth, not just the visible colony. Remediation without fixing the moisture source is a temporary fix at best.
 
-If you're in Macomb County and you're not sure what you're looking at, Flood Solutions inc can assess the situation. Reach them at **(586) 580-0197**.
+If you're in Macomb County and you're not sure what you're looking at, Flood and Fire Solutions can assess the situation. Reach them at **(586) 580-0197**.
 
 ## What Professional Mold Remediation Actually Involves
 
@@ -99,4 +99,4 @@ After remediation, a post-remediation verification (sometimes called clearance t
 
 ## The Bottom Line
 
-Black mold is a real concern, but the fear around it has made it easy to either panic over ordinary surface mold or, conversely, dismiss a serious infestation because it doesn't look the way you expected. The color of the growth tells you less than the surface it's on, the moisture conditions that created it, and how far it's spread. When in doubt, especially after any water damage event, a professional assessment gives you actual information rather than a guess. If you're dealing with mold in the Macomb area, Flood Solutions inc offers mold remediation services and can help you understand what you're working with before the problem grows.
+Black mold is a real concern, but the fear around it has made it easy to either panic over ordinary surface mold or, conversely, dismiss a serious infestation because it doesn't look the way you expected. The color of the growth tells you less than the surface it's on, the moisture conditions that created it, and how far it's spread. When in doubt, especially after any water damage event, a professional assessment gives you actual information rather than a guess. If you're dealing with mold in the Macomb area, Flood and Fire Solutions offers mold remediation services and can help you understand what you're working with before the problem grows.

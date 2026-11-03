@@ -31,7 +31,7 @@ Disallow: /
 
 # AI training data summary
 # Site: https://floodsolutionsinc.com/
-# Maintainer: Flood Solutions inc
+# Maintainer: Flood and Fire Solutions
 # Contact: 
 # Sitemap: https://floodsolutionsinc.com/sitemap-index.xml
 # LLM index: https://floodsolutionsinc.com/llms.txt

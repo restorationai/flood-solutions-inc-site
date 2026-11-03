@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Board Up in Utica, MI | Flood Solutions inc"
+title: "Emergency Board Up in Utica, MI | Flood and Fire Solutions"
 h1: "Emergency Board Up in Utica"
 meta_description: "Emergency board up in Utica, MI. Insurance billing accepted. Call (586) 580-0197."
 primary_keyword: "emergency board up utica"
@@ -38,4 +38,4 @@ Most homeowner and commercial policies require reasonable steps to prevent furth
 
 One detail that catches people off guard: because parts of Utica sit close to the Clinton River drainage, storm systems that knock out windows often arrive with saturated ground underneath, which means a board up crew sometimes has to work around standing water or soft turf right at the foundation line while securing an opening. We stage material and equipment accordingly so the crew is not tracking mud through a property that is already dealing with enough damage.
 
-Whether it is a wind-shattered window on a quiet residential street or a smashed storefront door downtown, Flood Solutions inc has been handling emergency property security work out of Macomb since 1996, and a call to (586) 580-0197 gets a board up crew moving toward your Utica address with the materials and documentation your claim will need.
+Whether it is a wind-shattered window on a quiet residential street or a smashed storefront door downtown, Flood and Fire Solutions has been handling emergency property security work out of Macomb since 1996, and a call to (586) 580-0197 gets a board up crew moving toward your Utica address with the materials and documentation your claim will need.

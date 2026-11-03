@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Inspection and Testing in Utica, MI | Flood Solutions inc"
+title: "Mold Inspection and Testing in Utica, MI | Flood and Fire Solutions"
 h1: "Mold Inspection and Testing in Utica"
 meta_description: "Mold inspection and testing in Utica, MI. Insurance billing accepted. Call (586) 580-0197."
 primary_keyword: "mold inspection and testing utica"
@@ -38,10 +38,10 @@ Surface sampling, tape lifts or swabs from a visible stain, can confirm whether 
 
 ## Reaching Utica from Our Macomb Base
 
-Flood Solutions inc has operated out of Macomb since 1996, which puts Utica well within our regular service area. M-59 connects the two communities directly, and Van Dyke Avenue provides an alternate corridor when traffic is heavy. Scheduling is straightforward, call (586) 580-0197 and we will confirm availability and get an inspector on the calendar promptly.
+Flood and Fire Solutions has operated out of Macomb since 1996, which puts Utica well within our regular service area. M-59 connects the two communities directly, and Van Dyke Avenue provides an alternate corridor when traffic is heavy. Scheduling is straightforward, call (586) 580-0197 and we will confirm availability and get an inspector on the calendar promptly.
 
 ## Local Note: What Clay Soil Means for Your Test Results
 
 One thing that becomes clear after years of inspecting homes across Macomb County: outdoor spore counts here tend to run higher during the late summer and early fall than in many other Michigan regions, partly because the clay soil retains organic matter that supports outdoor mold populations. That makes the outdoor control sample in your air test especially important. An indoor reading that looks alarming in isolation may fall within an acceptable ratio once it is compared against what is naturally present outside on the same day. Conversely, a modestly elevated indoor count can still be significant if the outdoor baseline is unusually low. Interpreting the lab report in context, not just reading the raw numbers, is where the assessment adds real value.
 
-If your home is showing signs of moisture intrusion, if a previous water loss was not fully dried, or if you are preparing to list a property and want documentation ahead of a buyer's inspection, call Flood Solutions inc at (586) 580-0197. We will schedule a thorough mold inspection and testing appointment and give you a clear picture of what the air and surfaces in your Utica home are actually telling you.
+If your home is showing signs of moisture intrusion, if a previous water loss was not fully dried, or if you are preparing to list a property and want documentation ahead of a buyer's inspection, call Flood and Fire Solutions at (586) 580-0197. We will schedule a thorough mold inspection and testing appointment and give you a clear picture of what the air and surfaces in your Utica home are actually telling you.

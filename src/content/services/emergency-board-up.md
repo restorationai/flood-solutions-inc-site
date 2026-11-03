@@ -1,6 +1,6 @@
 ---
 archetype: "service-landing"
-title: "Emergency Board Up in Macomb | Flood Solutions inc"
+title: "Emergency Board Up in Macomb | Flood and Fire Solutions"
 h1: "Emergency Board Up in Macomb"
 meta_description: "Emergency board up in Macomb and surrounding areas. Insurance billing accepted. Call (586) 580-0197."
 primary_keyword: "emergency board up macomb"
@@ -12,7 +12,7 @@ generated_at: "2026-09-30T16:41:09.771856+00:00"
 manual_override: false
 internal_links: ["/services/", "/contact/", "/service-areas/chesterfield-mi/emergency-board-up/", "/service-areas/clinton-township-mi/emergency-board-up/", "/service-areas/rochester-hills-mi/emergency-board-up/", "/service-areas/shelby-township-mi/emergency-board-up/", "/service-areas/sterling-heights-mi/emergency-board-up/", "/service-areas/troy-mi/emergency-board-up/", "/service-areas/utica-mi/emergency-board-up/", "/service-areas/warren-mi/emergency-board-up/"]
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Services", "url": "/services/"}, {"name": "Emergency Board Up"}]
-faq: [{"question": "Does homeowners insurance cover emergency board up?", "answer": "In most cases, yes, when the damage causing the opening is from a covered peril such as a storm, fire, or break-in. Flood Solutions inc works with all insurance carriers and documents the loss with photos and a written scope so the claim has what it needs from the start."}, {"question": "How fast does a broken window or roof opening need to be boarded?", "answer": "As soon as possible. Rain and wind can soak insulation and drywall within hours, and an open entry point also invites animals or intruders, so most insurers expect reasonable steps to be taken quickly to limit further loss."}, {"question": "What materials do you use to board up a window, door, or roof?", "answer": "Plywood or OSB panels are cut to the exact opening and fastened into studs, jambs, or rafters rather than just trim. Roof openings and larger wall breaches typically also get a tarp or plastic sheeting layer underneath the board to keep water from tracking in around the edges."}, {"question": "Will the board up be removed once permanent repairs start?", "answer": "Yes. Board up is a temporary measure meant to protect the structure until a window installer, roofer, or general contractor can complete the actual repair, and it gets removed once that permanent work is ready to begin."}, {"question": "Does board up alone secure a fire- or storm-damaged property, or do I need more?", "answer": "Board up addresses the specific openings, but larger losses sometimes need temporary fencing or additional securing depending on how much of the structure is exposed. We assess the full property during the site walk and note in the scope if anything beyond boarding is needed."}]
+faq: [{"question": "Does homeowners insurance cover emergency board up?", "answer": "In most cases, yes, when the damage causing the opening is from a covered peril such as a storm, fire, or break-in. Flood and Fire Solutions works with all insurance carriers and documents the loss with photos and a written scope so the claim has what it needs from the start."}, {"question": "How fast does a broken window or roof opening need to be boarded?", "answer": "As soon as possible. Rain and wind can soak insulation and drywall within hours, and an open entry point also invites animals or intruders, so most insurers expect reasonable steps to be taken quickly to limit further loss."}, {"question": "What materials do you use to board up a window, door, or roof?", "answer": "Plywood or OSB panels are cut to the exact opening and fastened into studs, jambs, or rafters rather than just trim. Roof openings and larger wall breaches typically also get a tarp or plastic sheeting layer underneath the board to keep water from tracking in around the edges."}, {"question": "Will the board up be removed once permanent repairs start?", "answer": "Yes. Board up is a temporary measure meant to protect the structure until a window installer, roofer, or general contractor can complete the actual repair, and it gets removed once that permanent work is ready to begin."}, {"question": "Does board up alone secure a fire- or storm-damaged property, or do I need more?", "answer": "Board up addresses the specific openings, but larger losses sometimes need temporary fencing or additional securing depending on how much of the structure is exposed. We assess the full property during the site walk and note in the scope if anything beyond boarding is needed."}]
 service_slug: "emergency-board-up"
 service_display: "Emergency Board Up"
 rendered: true
@@ -40,7 +40,7 @@ The most common failure is fastening into the wrong material. A board screwed on
 
 ## What does Emergency Board Up cost?
 
-Costs vary by opening size, height, material thickness, and whether roof or structural work is involved. Every property and every loss is different, which is why Flood Solutions inc provides a written scope before any work begins rather than a phone estimate. Homeowners insurance typically covers emergency board up as part of loss mitigation when the damage stems from a covered peril like a storm, fire, or break-in, since insurers generally want the opening secured to limit further loss.
+Costs vary by opening size, height, material thickness, and whether roof or structural work is involved. Every property and every loss is different, which is why Flood and Fire Solutions provides a written scope before any work begins rather than a phone estimate. Homeowners insurance typically covers emergency board up as part of loss mitigation when the damage stems from a covered peril like a storm, fire, or break-in, since insurers generally want the opening secured to limit further loss.
 
 | Scenario | Typical range |
 |---|---|
@@ -57,6 +57,6 @@ Macomb County sees lake-effect snow loads and wind events through the winter mon
 
 ## Service area
 
-Flood Solutions inc responds to board up calls throughout Macomb, MI and surrounding communities including Clinton Township, Sterling Heights, Warren, Shelby Township, St. Clair Shores, and Chesterfield Township.
+Flood and Fire Solutions responds to board up calls throughout Macomb, MI and surrounding communities including Clinton Township, Sterling Heights, Warren, Shelby Township, St. Clair Shores, and Chesterfield Township.
 
 If a window, door, or roof section on your property is open to the weather right now, call (586) 580-0197 to get it secured and get the documentation your insurance claim will need.

@@ -80,4 +80,4 @@ If the mold is connected to a water damage event, your homeowner's insurance pol
 
 ## Ready to Know What You're Actually Dealing With?
 
-If you've found something that looks or smells like mold in your Macomb-area home, the team at Flood Solutions inc can help you understand the scope of the problem before you decide on next steps. Whether you need a professional mold inspection or you're already past that point and need remediation, call (586) 580-0197 to talk through what you're seeing.
+If you've found something that looks or smells like mold in your Macomb-area home, the team at Flood and Fire Solutions can help you understand the scope of the problem before you decide on next steps. Whether you need a professional mold inspection or you're already past that point and need remediation, call (586) 580-0197 to talk through what you're seeing.

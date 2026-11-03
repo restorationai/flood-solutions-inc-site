@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Inspection and Testing in Chesterfield, MI | Flood Solutions inc"
+title: "Mold Inspection and Testing in Chesterfield, MI | Flood and Fire Solutions"
 h1: "Mold Inspection and Testing in Chesterfield"
 meta_description: "Mold inspection and testing in Chesterfield, MI. Insurance billing accepted. Call (586) 580-0197."
 primary_keyword: "mold inspection and testing chesterfield"
@@ -38,7 +38,7 @@ The inspection report is structured to be useful whether the next step is remedi
 
 ## Reaching Chesterfield from Macomb
 
-Flood Solutions inc has operated out of Macomb since 1996, which puts the Chesterfield service area well within a short drive under normal conditions. The primary route from the Macomb HQ runs west on Hall Road before turning north through the township, a corridor the crew knows well across all seasons. Scheduling is handled by phone at (586) 580-0197, and the team works to confirm appointment windows promptly so homeowners are not left waiting without a clear timeline.
+Flood and Fire Solutions has operated out of Macomb since 1996, which puts the Chesterfield service area well within a short drive under normal conditions. The primary route from the Macomb HQ runs west on Hall Road before turning north through the township, a corridor the crew knows well across all seasons. Scheduling is handled by phone at (586) 580-0197, and the team works to confirm appointment windows promptly so homeowners are not left waiting without a clear timeline.
 
 ## What a Mold Inspection Report Means for Insurance and Real Estate
 

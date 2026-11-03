@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Board Up in Chesterfield, MI | Flood Solutions inc"
+title: "Emergency Board Up in Chesterfield, MI | Flood and Fire Solutions"
 h1: "Emergency Board Up in Chesterfield"
 meta_description: "Emergency board up in Chesterfield, MI. Insurance billing accepted. Call (586) 580-0197."
 primary_keyword: "emergency board up chesterfield"
@@ -42,4 +42,4 @@ Most of Chesterfield's newer subdivisions have an HOA, and many require prompt t
 
 Wind off Lake St. Clair tends to shift direction faster than storms further inland, which means a board up that only protects against the initial wind direction can leave a structure exposed once the system rotates. On lakefront-facing openings we typically brace panels to hold against gusts from more than one direction rather than assuming the wind will keep blowing the way it started.
 
-If a storm, accident, or break-in has left a door or window in your Chesterfield home or business unsecured, call Flood Solutions inc at (586) 580-0197. We'll get the opening boarded and documented so you can deal with the repair on your timeline, not the weather's.
+If a storm, accident, or break-in has left a door or window in your Chesterfield home or business unsecured, call Flood and Fire Solutions at (586) 580-0197. We'll get the opening boarded and documented so you can deal with the repair on your timeline, not the weather's.

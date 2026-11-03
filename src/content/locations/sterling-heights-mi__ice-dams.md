@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Ice Dams in Sterling Heights, MI | Flood Solutions inc"
+title: "Ice Dams in Sterling Heights, MI | Flood and Fire Solutions"
 h1: "Ice Dams in Sterling Heights"
 meta_description: "Ice dams in Sterling Heights, MI. Insurance billing accepted. Call (586) 580-0197."
 primary_keyword: "ice dams sterling heights"
@@ -38,4 +38,4 @@ Most homeowner policies in Michigan treat ice dam water intrusion as a covered p
 
 One pattern we watch for in Sterling Heights: homes with additions built onto the original structure, common where a family finished a garage or added a sunroom decades after the original build, often have a seam where the old roofline meets the new one at a different pitch or insulation depth. That transition point collects snow and ice differently than the rest of the roof and is frequently where we find the first sign of a dam even when the rest of the roofline looks fine.
 
-Ice dams rarely announce themselves until water is already inside, and by the time you see a stain spreading across a ceiling in Sterling Heights, the ice has usually been building for days. Flood Solutions inc has been working Macomb County homes since 1996, and we know the difference between a roofline that just needs the ice cleared and one that's already let water into the attic insulation or wall cavity. Call (586) 580-0197 and we'll walk you through what to check before we're on site.
+Ice dams rarely announce themselves until water is already inside, and by the time you see a stain spreading across a ceiling in Sterling Heights, the ice has usually been building for days. Flood and Fire Solutions has been working Macomb County homes since 1996, and we know the difference between a roofline that just needs the ice cleared and one that's already let water into the attic insulation or wall cavity. Call (586) 580-0197 and we'll walk you through what to check before we're on site.

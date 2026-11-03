@@ -85,4 +85,4 @@ Documentation matters throughout. Photographs, moisture readings, and written sc
 
 ---
 
-If you are dealing with smoke odor in a Macomb-area home and you are not sure whether the situation calls for professional help, it is worth a call before you spend money on products that may not solve the problem. Flood & Fire Solutions can be reached at (586) 580-0197. A conversation about what you are experiencing costs nothing, and it can save you from a cycle of temporary fixes that leave the underlying problem untouched.
+If you are dealing with smoke odor in a Macomb-area home and you are not sure whether the situation calls for professional help, it is worth a call before you spend money on products that may not solve the problem. Flood and Fire Solutions can be reached at (586) 580-0197. A conversation about what you are experiencing costs nothing, and it can save you from a cycle of temporary fixes that leave the underlying problem untouched.
