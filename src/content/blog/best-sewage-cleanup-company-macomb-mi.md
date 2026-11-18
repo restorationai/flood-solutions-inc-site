@@ -36,7 +36,7 @@ Belfore is also an established restoration company serving the Macomb, MI area, 
 
 | Company | Google Rating | Reviews | 24/7 Emergency | IICRC S500 Protocols |
 |---|---|---|---|---|
-| Flood and Fire Solutions | 4.4 | 35 | Yes | Followed on every Category 3 job |
+| Flood and Fire Solutions | 4.5 | 35 | Yes | Followed on every Category 3 job |
 | Belfore | Not listed | Not listed | Not listed | Not listed |
 
 ## What should you look for in a sewage cleanup company?
