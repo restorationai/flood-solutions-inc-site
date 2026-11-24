@@ -57,7 +57,7 @@ export const brand = {
   // copy). addressCity/addressState = where the business PHYSICALLY is.
   // They are usually the same and often diverge (DISS: Farrell PA office,
   // Youngstown OH target) — only the address pair may go in a PostalAddress.
-  addressCity: "Ira",
+  addressCity: "Ira Township",
   addressState: "MI",
   streetAddress: "10153 Marine City Highway",
   postalCode: "48023",
