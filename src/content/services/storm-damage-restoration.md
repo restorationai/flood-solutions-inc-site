@@ -61,11 +61,11 @@ Homeowners insurance typically covers sudden storm damage to the dwelling, inclu
 
 | Scenario | Typical range |
 |---|---|
-| Single tree limb, minor roof penetration, no interior water | $1,500 – $4,500 |
-| Partial roof loss with wind-driven rain into attic | $8,000 – $22,000 |
-| Large tree through roof with structural framing damage | $18,000 – $55,000 |
-| Siding and window damage, no structural compromise | $3,000 – $9,000 |
-| Full roof replacement plus interior drying and drywall | $20,000 – $60,000+ |
+| Single tree limb, minor roof penetration, no interior water | $1,500 to $4,500 |
+| Partial roof loss with wind-driven rain into attic | $8,000 to $22,000 |
+| Large tree through roof with structural framing damage | $18,000 to $55,000 |
+| Siding and window damage, no structural compromise | $3,000 to $9,000 |
+| Full roof replacement plus interior drying and drywall | $20,000 to $60,000+ |
 
 ## Seasonal and regional considerations
 

@@ -60,12 +60,12 @@ Typical costs for fire damage restoration vary significantly based on the size o
 
 | Scenario | Typical industry range |
 |---|---|
-| Single room, limited smoke spread | $3,000 – $8,000 |
-| Multi-room smoke contamination, no structural damage | $8,000 – $18,000 |
-| Partial structural fire with smoke throughout home | $18,000 – $35,000 |
-| Whole-floor or major structural fire | $35,000 – $75,000+ |
-| Contents pack-out and cleaning (per loss) | $2,000 – $10,000 |
-| Ductwork cleaning and sealing | $800 – $3,500 |
+| Single room, limited smoke spread | $3,000 to $8,000 |
+| Multi-room smoke contamination, no structural damage | $8,000 to $18,000 |
+| Partial structural fire with smoke throughout home | $18,000 to $35,000 |
+| Whole-floor or major structural fire | $35,000 to $75,000+ |
+| Contents pack-out and cleaning (per loss) | $2,000 to $10,000 |
+| Ductwork cleaning and sealing | $800 to $3,500 |
 
 ## Seasonal and regional considerations
 

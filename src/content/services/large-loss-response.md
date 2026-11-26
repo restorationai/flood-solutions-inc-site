@@ -57,10 +57,10 @@ Large loss restoration costs vary more than almost any other category in the ind
 
 | Scenario | Typical range |
 |---|---|
-| Commercial water loss, single floor, clean water | $45,000 – $150,000 |
-| Multi-floor commercial water or sewage loss | $150,000 – $600,000 |
-| Large-scale commercial fire, partial structure | $300,000 – $1,200,000 |
-| Catastrophic fire or storm, full structure | $1,000,000 – $5,000,000+ |
+| Commercial water loss, single floor, clean water | $45,000 to $150,000 |
+| Multi-floor commercial water or sewage loss | $150,000 to $600,000 |
+| Large-scale commercial fire, partial structure | $300,000 to $1,200,000 |
+| Catastrophic fire or storm, full structure | $1,000,000 to $5,000,000+ |
 | Multi-building or campus-level event | Scoped individually |
 
 Every loss is different, and Flood and Fire Solutions provides a written scope before any restoration work begins. Commercial property insurance and commercial general liability policies typically cover sudden and accidental catastrophic losses, though coverage limits, deductibles, and exclusions vary by policy and carrier.

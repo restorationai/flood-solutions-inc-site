@@ -71,13 +71,13 @@ Waiting matters here more than with a clean-water leak. Category 3 water sitting
 
 A sewage cleanup job follows a set sequence: contain the area, remove what can't be saved, treat what's left, dry it, and verify it's clean before anyone rebuilds.
 
-1. **Phone intake** – safety instructions (shut off water if it's safe to do so, avoid the affected area) while a technician is dispatched
-2. **Containment and PPE setup** – poly sheeting barriers and full protective gear go up before any extraction starts
-3. **Extraction and removal** – standing water is pumped out, and contaminated porous materials (carpet, pad, drywall) are removed rather than dried
-4. **Antimicrobial treatment** – affected surfaces and framing are treated
-5. **Drying and monitoring** – air movers and dehumidifiers run with daily moisture checks
-6. **Clearance check** – a final sanitizing verification before any new materials go back in
-7. **Documentation handoff** – photos, moisture logs, and scope of work provided for your insurance claim
+1. **Phone intake**: safety instructions (shut off water if it's safe to do so, avoid the affected area) while a technician is dispatched
+2. **Containment and PPE setup**: poly sheeting barriers and full protective gear go up before any extraction starts
+3. **Extraction and removal**: standing water is pumped out, and contaminated porous materials (carpet, pad, drywall) are removed rather than dried
+4. **Antimicrobial treatment**: affected surfaces and framing are treated
+5. **Drying and monitoring**: air movers and dehumidifiers run with daily moisture checks
+6. **Clearance check**: a final sanitizing verification before any new materials go back in
+7. **Documentation handoff**: photos, moisture logs, and scope of work provided for your insurance claim
 
 For the cost side of this process, our [sewage backup cleanup cost guide](/blog/sewage-backup-cleanup-cost-macomb-mi/) breaks down what typically drives the bill.
 

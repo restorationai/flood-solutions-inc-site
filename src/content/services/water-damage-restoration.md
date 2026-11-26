@@ -56,12 +56,12 @@ Typical costs for water damage restoration vary significantly based on the size 
 
 | Scenario | Typical range |
 |---|---|
-| Single room, clean water (Category 1) | $1,200 – $3,500 |
-| Multi-room, clean water with subfloor involvement | $3,500 – $7,000 |
-| Category 2 (gray water), moderate area | $4,000 – $9,000 |
-| Category 3 (sewage or floodwater), single room | $7,000 – $15,000+ |
-| Finished basement, any category | $5,000 – $20,000+ |
-| Crawl space water intrusion | $2,500 – $8,000 |
+| Single room, clean water (Category 1) | $1,200 to $3,500 |
+| Multi-room, clean water with subfloor involvement | $3,500 to $7,000 |
+| Category 2 (gray water), moderate area | $4,000 to $9,000 |
+| Category 3 (sewage or floodwater), single room | $7,000 to $15,000+ |
+| Finished basement, any category | $5,000 to $20,000+ |
+| Crawl space water intrusion | $2,500 to $8,000 |
 
 Every loss is different, and Flood and Fire Solutions provides a written scope before any work begins so you know exactly what is being done and why. Standard homeowners insurance policies typically cover sudden and accidental water damage, a burst pipe, appliance failure, or roof leak, but generally exclude gradual leaks and ground-level flooding, which requires a separate flood policy.
 
