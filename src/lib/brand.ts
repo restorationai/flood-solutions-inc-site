@@ -86,7 +86,7 @@ export const brand = {
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "4.5",
-  gbpReviewCount: "35",
+  gbpReviewCount: "34",
   gbpReviews: [
     { author: "Donna", rating: 5, text: "This company gets no less than 150% A+ rating. This was a 2nd flood remediation because the first (24 Hour Flood Pros/Strong Restoration) failed us. They took our money and left mold in the basement. Will Clark and his two helpers Will and Joe were on time every day, were extremely professional and…", when: "October 2026" },
     { author: "Lisa", rating: 4, text: "Staff that visited my home for Mold Restoration process were respectful in every aspect to include my need for less as possible demolition. Both (Will & Stephanie) shared procedures that would be taken, monitored progression daily & ensured I was pleased with the services provided.", when: "July 2026" },

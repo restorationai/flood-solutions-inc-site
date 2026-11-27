@@ -52,7 +52,7 @@ PuroClean Restoration Services is located at 56700 Mound Rd in Shelby Township a
 
 | Company | Google Rating | Reviews | 24/7 Emergency |
 | --- | --- | --- | --- |
-| Flood and Fire Solutions | 4.5 | 35 | Yes |
+| Flood and Fire Solutions | 4.5 | 34 | Yes |
 | SERVPRO of Northeast Macomb Township | 5.0 | 57 | Not listed |
 | All Weather Restoration LLC | 4.5 | 87 | Not listed |
 | BELFOR Property Restoration | 4.7 | 19 | Not listed |

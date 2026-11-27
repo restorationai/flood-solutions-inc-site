@@ -39,7 +39,7 @@ If you have water in your home right now, call Flood and Fire Solutions at **(58
 
 | Company | Google Rating | Reviews | Licensed and Insured | Follows Industry Standards |
 |---|---|---|---|---|
-| **Flood and Fire Solutions** | 4.5 | 35 | Yes | Yes |
+| **Flood and Fire Solutions** | 4.5 | 34 | Yes | Yes |
 | SERVPRO of Northeast Macomb Township | 5.0 | 57 | Not listed | Not listed |
 | Action Extraction Inc | 5.0 | 184 | Not listed | Not listed |
 | Metro Water Damage Restoration Macomb | 4.9 | 44 | Not listed | Not listed |
